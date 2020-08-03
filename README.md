@@ -30,9 +30,15 @@
 <br />
 <br />
 
-### Latest Blog Posts
-<!-- BLOG_POST_LIST:START -->
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG_POST_LIST:END -->
+
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeroenmies&show_icons=true&hide_border=true" />
 
 [website]: https://jeroenmiesfotografie.nl
 [twitter]: https://twitter.com/jeroenmies
