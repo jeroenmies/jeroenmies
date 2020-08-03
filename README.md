@@ -39,6 +39,11 @@
 - [Recensie: De moedercode – Carole Stivers](https://conniesboekenblog.nl/2020/07/29/recensie-de-moedercode-carole-stivers/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-moedercode-carole-stivers)
 - [Uitslag winactie notitieboek Studentendrukwerk](https://conniesboekenblog.nl/2020/07/27/uitslag-winactie-notitieboek-studentendrukwerk/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-notitieboek-studentendrukwerk)
 - [Gastblog: Het mes van de Sluipmoordenaar – Sarah J. Maas](https://conniesboekenblog.nl/2020/07/26/gastblog-het-mes-van-de-sluipmoordenaar-sarah-j-maas/?utm_source=rss&utm_medium=rss&utm_campaign=gastblog-het-mes-van-de-sluipmoordenaar-sarah-j-maas)
+- [Gelezen: Vuurland – Pascal Engman](https://conniesboekenblog.nl/2020/07/23/gelezen-vuurland-pascal-engman/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-vuurland-pascal-engman)
+- [Gelezen: Op de vlucht – Nora Roberts](https://conniesboekenblog.nl/2020/07/21/gelezen-op-de-vlucht-nora-roberts/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-op-de-vlucht-nora-roberts)
+- [Bespreking / winactie notitieboek Studentendrukwerk](https://conniesboekenblog.nl/2020/07/18/bespreking-winactie-notitieboek-studentendrukwerk/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-winactie-notitieboek-studentendrukwerk)
+- [Zomeractie bij Bookchoice](https://conniesboekenblog.nl/2020/07/17/zomeractie-bij-bookchoice/?utm_source=rss&utm_medium=rss&utm_campaign=zomeractie-bij-bookchoice)
+- [Uitslag winactie: Dwarsligger – Oorlogskind Camilla Läckberg](https://conniesboekenblog.nl/2020/07/16/uitslag-winactie-dwarsligger-oorlogskind-camilla-lackberg/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-dwarsligger-oorlogskind-camilla-lackberg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
