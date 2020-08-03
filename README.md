@@ -32,7 +32,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
 - [Gastblog: Huis van Aarde & Bloed – Deel 1 in de Crescent City-serie door Sarah J. Maas](https://conniesboekenblog.nl/2020/08/03/gastblog-huis-van-aarde-bloed-deel-1-in-de-crescent-city-serie-door-sarah-j-maas/?utm_source=rss&utm_medium=rss&utm_campaign=gastblog-huis-van-aarde-bloed-deel-1-in-de-crescent-city-serie-door-sarah-j-maas)
 - [Gelezen: Het duister – Amy Engel](https://conniesboekenblog.nl/2020/08/02/gelezen-het-duister-amy-engel/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-duister-amy-engel)
