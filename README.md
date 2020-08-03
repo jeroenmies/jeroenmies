@@ -1,4 +1,4 @@
-### Hi there, I'm Jeroen - aka [Jeroen Mies Fotografie][https://jeroenmiesfotografie.nl] 👋
+### Hi there, I'm Jeroen - aka [Jeroen Mies Fotografie][website] 👋
 
 - 🔭 I’m currently working on the AIR, Zienswijze and WebPortal projects at Rijkswaterstaat
 - 🌱 I’m currently learning everything
