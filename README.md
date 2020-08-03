@@ -46,6 +46,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [To the Max](https://jeroenmiesfotografie.nl/2018/01/07/to-the-max/?utm_source=rss&utm_medium=rss&utm_campaign=to-the-max)
+- [7 dagen Zwart Wit](https://jeroenmiesfotografie.nl/2017/12/15/7-dagen-zwart-wit/?utm_source=rss&utm_medium=rss&utm_campaign=7-dagen-zwart-wit)
+- [De patronus](https://jeroenmiesfotografie.nl/2016/04/10/de-patronus/?utm_source=rss&utm_medium=rss&utm_campaign=de-patronus)
+- [Castlefest 2015](https://jeroenmiesfotografie.nl/2015/08/03/castlefest-2015/?utm_source=rss&utm_medium=rss&utm_campaign=castlefest-2015)
+- [Tour de France](https://jeroenmiesfotografie.nl/2015/07/05/tour-de-france/?utm_source=rss&utm_medium=rss&utm_campaign=tour-de-france)
 <!-- BLOG-POST-LIST:END -->
 
 ---
