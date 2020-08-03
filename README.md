@@ -50,7 +50,9 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeroenmies&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeroenmies&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeroenmies)](https://github.com/jeroenmies/github-readme-stats)
 
 [website]: https://jeroenmiesfotografie.nl
 [twitter]: https://twitter.com/jeroenmies
