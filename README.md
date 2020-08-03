@@ -30,6 +30,10 @@
 <br />
 <br />
 
+### Latest Blog Posts
+<!-- BLOG_POST_LIST:START -->
+<!-- BLOG_POST_LIST:END -->
+
 [website]: https://jeroenmiesfotografie.nl
 [twitter]: https://twitter.com/jeroenmies
 [youtube]: https://www.youtube.com/channel/UCdM6wXDAk3Y8_ycxkSfAD7Q
