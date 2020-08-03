@@ -32,18 +32,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [EWD215 Cost Reduction](https://www.youtube.com/watch?v=QDfawie-XzI)
-- [EWD215 Cybersecurity](https://www.youtube.com/watch?v=oP3gIV4AkUw)
-- [Marlistories](https://www.youtube.com/watch?v=C6ROuy3Vwnw)
-- [Cadeautasje](https://www.youtube.com/watch?v=Bd6DQPSn618)
-- [T-shirts](https://www.youtube.com/watch?v=UBWMNoSALa4)
-<!-- YOUTUBE:END -->
-
----
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [To the Max](https://jeroenmiesfotografie.nl/2018/01/07/to-the-max/?utm_source=rss&utm_medium=rss&utm_campaign=to-the-max)
