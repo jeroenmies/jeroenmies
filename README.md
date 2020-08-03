@@ -34,11 +34,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [To the Max](https://jeroenmiesfotografie.nl/2018/01/07/to-the-max/?utm_source=rss&utm_medium=rss&utm_campaign=to-the-max)
-- [7 dagen Zwart Wit](https://jeroenmiesfotografie.nl/2017/12/15/7-dagen-zwart-wit/?utm_source=rss&utm_medium=rss&utm_campaign=7-dagen-zwart-wit)
-- [De patronus](https://jeroenmiesfotografie.nl/2016/04/10/de-patronus/?utm_source=rss&utm_medium=rss&utm_campaign=de-patronus)
-- [Castlefest 2015](https://jeroenmiesfotografie.nl/2015/08/03/castlefest-2015/?utm_source=rss&utm_medium=rss&utm_campaign=castlefest-2015)
-- [Tour de France](https://jeroenmiesfotografie.nl/2015/07/05/tour-de-france/?utm_source=rss&utm_medium=rss&utm_campaign=tour-de-france)
+- [Gastblog: Huis van Aarde & Bloed – Deel 1 in de Crescent City-serie door Sarah J. Maas](https://conniesboekenblog.nl/2020/08/03/gastblog-huis-van-aarde-bloed-deel-1-in-de-crescent-city-serie-door-sarah-j-maas/?utm_source=rss&utm_medium=rss&utm_campaign=gastblog-huis-van-aarde-bloed-deel-1-in-de-crescent-city-serie-door-sarah-j-maas)
+- [Gelezen: Het duister – Amy Engel](https://conniesboekenblog.nl/2020/08/02/gelezen-het-duister-amy-engel/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-duister-amy-engel)
+- [Recensie: De moedercode – Carole Stivers](https://conniesboekenblog.nl/2020/07/29/recensie-de-moedercode-carole-stivers/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-moedercode-carole-stivers)
+- [Uitslag winactie notitieboek Studentendrukwerk](https://conniesboekenblog.nl/2020/07/27/uitslag-winactie-notitieboek-studentendrukwerk/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-notitieboek-studentendrukwerk)
+- [Gastblog: Het mes van de Sluipmoordenaar – Sarah J. Maas](https://conniesboekenblog.nl/2020/07/26/gastblog-het-mes-van-de-sluipmoordenaar-sarah-j-maas/?utm_source=rss&utm_medium=rss&utm_campaign=gastblog-het-mes-van-de-sluipmoordenaar-sarah-j-maas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
