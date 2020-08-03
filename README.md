@@ -35,11 +35,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
-- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
+- [EWD215 Cost Reduction](https://www.youtube.com/watch?v=QDfawie-XzI)
+- [EWD215 Cybersecurity](https://www.youtube.com/watch?v=oP3gIV4AkUw)
+- [Marlistories](https://www.youtube.com/watch?v=C6ROuy3Vwnw)
+- [Cadeautasje](https://www.youtube.com/watch?v=Bd6DQPSn618)
+- [T-shirts](https://www.youtube.com/watch?v=UBWMNoSALa4)
 <!-- YOUTUBE:END -->
 
 ---
