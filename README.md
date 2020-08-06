@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the AIR, Zienswijze and WebPortal projects at Rijkswaterstaat
 - 🌱 I’m currently learning everything
-- ⚡ Fun fact: I love fantasy very very much
+- ⚡ Fun fact: I love crafting fantasy terrain very much and working on the blog of my wife
 
 ### Connect with me:
 
@@ -51,7 +51,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
 
 [website]: https://jeroenmiesfotografie.nl
 [twitter]: https://twitter.com/jeroenmies
