@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Bespreking: Creachick stempelset](https://conniesboekenblog.nl/2020/08/07/bespreking-creachick-stempelset/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-creachick-stempelset)
 - [Wie jarig is trakteert !](https://conniesboekenblog.nl/2020/08/04/wie-jarig-is-trakteert-3/?utm_source=rss&utm_medium=rss&utm_campaign=wie-jarig-is-trakteert-3)
 - [Gastblog: Huis van Aarde & Bloed – Deel 1 in de Crescent City-serie door Sarah J. Maas](https://conniesboekenblog.nl/2020/08/03/gastblog-huis-van-aarde-bloed-deel-1-in-de-crescent-city-serie-door-sarah-j-maas/?utm_source=rss&utm_medium=rss&utm_campaign=gastblog-huis-van-aarde-bloed-deel-1-in-de-crescent-city-serie-door-sarah-j-maas)
 - [Gelezen: Het duister – Amy Engel](https://conniesboekenblog.nl/2020/08/02/gelezen-het-duister-amy-engel/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-duister-amy-engel)
@@ -47,7 +48,6 @@
 - [Gelezen: Vuurland – Pascal Engman](https://conniesboekenblog.nl/2020/07/23/gelezen-vuurland-pascal-engman/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-vuurland-pascal-engman)
 - [Gelezen: Op de vlucht – Nora Roberts](https://conniesboekenblog.nl/2020/07/21/gelezen-op-de-vlucht-nora-roberts/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-op-de-vlucht-nora-roberts)
 - [Bespreking / winactie notitieboek Studentendrukwerk](https://conniesboekenblog.nl/2020/07/18/bespreking-winactie-notitieboek-studentendrukwerk/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-winactie-notitieboek-studentendrukwerk)
-- [Zomeractie bij Bookchoice](https://conniesboekenblog.nl/2020/07/17/zomeractie-bij-bookchoice/?utm_source=rss&utm_medium=rss&utm_campaign=zomeractie-bij-bookchoice)
 <!-- BLOG-POST-LIST:END -->
 
 ---
