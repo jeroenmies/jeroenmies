@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: Valeria – sex & sangria – Elísabet Benavent](https://conniesboekenblog.nl/2020/08/10/recensie-valeria-sex-sangria-elisabet-benavent/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-valeria-sex-sangria-elisabet-benavent)
 - [Bespreking: Creachick stempelset](https://conniesboekenblog.nl/2020/08/07/bespreking-creachick-stempelset/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-creachick-stempelset)
 - [Wie jarig is trakteert !](https://conniesboekenblog.nl/2020/08/04/wie-jarig-is-trakteert-3/?utm_source=rss&utm_medium=rss&utm_campaign=wie-jarig-is-trakteert-3)
 - [Gastblog: Huis van Aarde & Bloed – Deel 1 in de Crescent City-serie door Sarah J. Maas](https://conniesboekenblog.nl/2020/08/03/gastblog-huis-van-aarde-bloed-deel-1-in-de-crescent-city-serie-door-sarah-j-maas/?utm_source=rss&utm_medium=rss&utm_campaign=gastblog-huis-van-aarde-bloed-deel-1-in-de-crescent-city-serie-door-sarah-j-maas)
@@ -47,7 +48,6 @@
 - [Gastblog: Het mes van de Sluipmoordenaar – Sarah J. Maas](https://conniesboekenblog.nl/2020/07/26/gastblog-het-mes-van-de-sluipmoordenaar-sarah-j-maas/?utm_source=rss&utm_medium=rss&utm_campaign=gastblog-het-mes-van-de-sluipmoordenaar-sarah-j-maas)
 - [Gelezen: Vuurland – Pascal Engman](https://conniesboekenblog.nl/2020/07/23/gelezen-vuurland-pascal-engman/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-vuurland-pascal-engman)
 - [Gelezen: Op de vlucht – Nora Roberts](https://conniesboekenblog.nl/2020/07/21/gelezen-op-de-vlucht-nora-roberts/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-op-de-vlucht-nora-roberts)
-- [Bespreking / winactie notitieboek Studentendrukwerk](https://conniesboekenblog.nl/2020/07/18/bespreking-winactie-notitieboek-studentendrukwerk/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-winactie-notitieboek-studentendrukwerk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
