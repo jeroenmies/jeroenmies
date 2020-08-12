@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Blogtour: Het geheim van het klavertjesplein – Michael Reefs](https://conniesboekenblog.nl/2020/08/12/blogtour-het-geheim-van-het-klavertjesplein-michael-reefs/?utm_source=rss&utm_medium=rss&utm_campaign=blogtour-het-geheim-van-het-klavertjesplein-michael-reefs)
 - [Recensie: Valeria – sex & sangria – Elísabet Benavent](https://conniesboekenblog.nl/2020/08/10/recensie-valeria-sex-sangria-elisabet-benavent/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-valeria-sex-sangria-elisabet-benavent)
 - [Bespreking: Creachick stempelset](https://conniesboekenblog.nl/2020/08/07/bespreking-creachick-stempelset/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-creachick-stempelset)
 - [Wie jarig is trakteert !](https://conniesboekenblog.nl/2020/08/04/wie-jarig-is-trakteert-3/?utm_source=rss&utm_medium=rss&utm_campaign=wie-jarig-is-trakteert-3)
@@ -47,7 +48,6 @@
 - [Uitslag winactie notitieboek Studentendrukwerk](https://conniesboekenblog.nl/2020/07/27/uitslag-winactie-notitieboek-studentendrukwerk/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-notitieboek-studentendrukwerk)
 - [Gastblog: Het mes van de Sluipmoordenaar – Sarah J. Maas](https://conniesboekenblog.nl/2020/07/26/gastblog-het-mes-van-de-sluipmoordenaar-sarah-j-maas/?utm_source=rss&utm_medium=rss&utm_campaign=gastblog-het-mes-van-de-sluipmoordenaar-sarah-j-maas)
 - [Gelezen: Vuurland – Pascal Engman](https://conniesboekenblog.nl/2020/07/23/gelezen-vuurland-pascal-engman/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-vuurland-pascal-engman)
-- [Gelezen: Op de vlucht – Nora Roberts](https://conniesboekenblog.nl/2020/07/21/gelezen-op-de-vlucht-nora-roberts/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-op-de-vlucht-nora-roberts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
