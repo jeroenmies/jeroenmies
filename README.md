@@ -38,16 +38,16 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie](https://conniesboekenblog.nl/2020/08/13/uitslag-winactie-2/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-2)
 - [Blogtour: Het geheim van het klavertjesplein – Michael Reefs](https://conniesboekenblog.nl/2020/08/12/blogtour-het-geheim-van-het-klavertjesplein-michael-reefs/?utm_source=rss&utm_medium=rss&utm_campaign=blogtour-het-geheim-van-het-klavertjesplein-michael-reefs)
 - [Recensie: Valeria – sex & sangria – Elísabet Benavent](https://conniesboekenblog.nl/2020/08/10/recensie-valeria-sex-sangria-elisabet-benavent/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-valeria-sex-sangria-elisabet-benavent)
 - [Bespreking: Creachick stempelset](https://conniesboekenblog.nl/2020/08/07/bespreking-creachick-stempelset/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-creachick-stempelset)
-- [Wie jarig is trakteert !](https://conniesboekenblog.nl/2020/08/04/wie-jarig-is-trakteert-3/?utm_source=rss&utm_medium=rss&utm_campaign=wie-jarig-is-trakteert-3)
+- [Winactie (afgelopen): Wie jarig is trakteert !](https://conniesboekenblog.nl/2020/08/04/wie-jarig-is-trakteert-3/?utm_source=rss&utm_medium=rss&utm_campaign=wie-jarig-is-trakteert-3)
 - [Gastblog: Huis van Aarde & Bloed – Deel 1 in de Crescent City-serie door Sarah J. Maas](https://conniesboekenblog.nl/2020/08/03/gastblog-huis-van-aarde-bloed-deel-1-in-de-crescent-city-serie-door-sarah-j-maas/?utm_source=rss&utm_medium=rss&utm_campaign=gastblog-huis-van-aarde-bloed-deel-1-in-de-crescent-city-serie-door-sarah-j-maas)
 - [Gelezen: Het duister – Amy Engel](https://conniesboekenblog.nl/2020/08/02/gelezen-het-duister-amy-engel/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-duister-amy-engel)
 - [Recensie: De moedercode – Carole Stivers](https://conniesboekenblog.nl/2020/07/29/recensie-de-moedercode-carole-stivers/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-moedercode-carole-stivers)
 - [Uitslag winactie notitieboek Studentendrukwerk](https://conniesboekenblog.nl/2020/07/27/uitslag-winactie-notitieboek-studentendrukwerk/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-notitieboek-studentendrukwerk)
 - [Gastblog: Het mes van de Sluipmoordenaar – Sarah J. Maas](https://conniesboekenblog.nl/2020/07/26/gastblog-het-mes-van-de-sluipmoordenaar-sarah-j-maas/?utm_source=rss&utm_medium=rss&utm_campaign=gastblog-het-mes-van-de-sluipmoordenaar-sarah-j-maas)
-- [Gelezen: Vuurland – Pascal Engman](https://conniesboekenblog.nl/2020/07/23/gelezen-vuurland-pascal-engman/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-vuurland-pascal-engman)
 <!-- BLOG-POST-LIST:END -->
 
 ---
