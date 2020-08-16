@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Niemand komt je redden – Alex Marwood](https://conniesboekenblog.nl/2020/08/16/gelezen-niemand-komt-je-redden-alex-marwood/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-niemand-komt-je-redden-alex-marwood)
 - [Uitslag winactie](https://conniesboekenblog.nl/2020/08/13/uitslag-winactie-2/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-2)
 - [Blogtour: Het geheim van het klavertjesplein – Michael Reefs](https://conniesboekenblog.nl/2020/08/12/blogtour-het-geheim-van-het-klavertjesplein-michael-reefs/?utm_source=rss&utm_medium=rss&utm_campaign=blogtour-het-geheim-van-het-klavertjesplein-michael-reefs)
 - [Recensie: Valeria – sex & sangria – Elísabet Benavent](https://conniesboekenblog.nl/2020/08/10/recensie-valeria-sex-sangria-elisabet-benavent/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-valeria-sex-sangria-elisabet-benavent)
@@ -47,7 +48,6 @@
 - [Gelezen: Het duister – Amy Engel](https://conniesboekenblog.nl/2020/08/02/gelezen-het-duister-amy-engel/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-duister-amy-engel)
 - [Recensie: De moedercode – Carole Stivers](https://conniesboekenblog.nl/2020/07/29/recensie-de-moedercode-carole-stivers/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-moedercode-carole-stivers)
 - [Uitslag winactie notitieboek Studentendrukwerk](https://conniesboekenblog.nl/2020/07/27/uitslag-winactie-notitieboek-studentendrukwerk/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-notitieboek-studentendrukwerk)
-- [Gastblog: Het mes van de Sluipmoordenaar – Sarah J. Maas](https://conniesboekenblog.nl/2020/07/26/gastblog-het-mes-van-de-sluipmoordenaar-sarah-j-maas/?utm_source=rss&utm_medium=rss&utm_campaign=gastblog-het-mes-van-de-sluipmoordenaar-sarah-j-maas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
