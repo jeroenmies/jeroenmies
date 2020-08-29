@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Het begin – Boek 1 van de Bron – Nora Roberts](https://conniesboekenblog.nl/2020/08/29/gelezen-het-begin-boek-1-van-de-bron-nora-roberts/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-begin-boek-1-van-de-bron-nora-roberts)
 - [Bespreking: Weekplanner – Floral Black](https://conniesboekenblog.nl/2020/08/27/bespreking-weekplanner-floral-black/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-weekplanner-floral-black)
 - [Bespreking: Doe elke dag iets dat je inspireert](https://conniesboekenblog.nl/2020/08/23/bespreking-doe-elke-dag-iets-dat-je-inspireert/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-doe-elke-dag-iets-dat-je-inspireert)
 - [Recensie: Helden van de Nacht – Michael Reefs](https://conniesboekenblog.nl/2020/08/22/recensie-helden-van-de-nacht-michael-reefs/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-helden-van-de-nacht-michael-reefs)
@@ -47,7 +48,6 @@
 - [Recensie: Valeria – sex & sangria – Elísabet Benavent](https://conniesboekenblog.nl/2020/08/10/recensie-valeria-sex-sangria-elisabet-benavent/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-valeria-sex-sangria-elisabet-benavent)
 - [Bespreking: Creachick stempelset](https://conniesboekenblog.nl/2020/08/07/bespreking-creachick-stempelset/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-creachick-stempelset)
 - [Winactie (afgelopen): Wie jarig is trakteert !](https://conniesboekenblog.nl/2020/08/04/wie-jarig-is-trakteert-3/?utm_source=rss&utm_medium=rss&utm_campaign=wie-jarig-is-trakteert-3)
-- [Gastblog: Huis van Aarde & Bloed – Deel 1 in de Crescent City-serie door Sarah J. Maas](https://conniesboekenblog.nl/2020/08/03/gastblog-huis-van-aarde-bloed-deel-1-in-de-crescent-city-serie-door-sarah-j-maas/?utm_source=rss&utm_medium=rss&utm_campaign=gastblog-huis-van-aarde-bloed-deel-1-in-de-crescent-city-serie-door-sarah-j-maas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
