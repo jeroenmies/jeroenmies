@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Alles is reden voor een feestje – Ingrid & Dieter Schubert / Monique Berndes](https://conniesboekenblog.nl/2020/09/01/winactie-alles-is-reden-voor-een-feestje-ingrid-dieter-schubert-monique-berndes-2/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-alles-is-reden-voor-een-feestje-ingrid-dieter-schubert-monique-berndes-2)
 - [Morgen begint de september feestmaand](https://conniesboekenblog.nl/2020/08/31/morgen-begint-de-september-feestmaand/?utm_source=rss&utm_medium=rss&utm_campaign=morgen-begint-de-september-feestmaand)
 - [Gelezen: Het begin – Boek 1 van de Bron – Nora Roberts](https://conniesboekenblog.nl/2020/08/29/gelezen-het-begin-boek-1-van-de-bron-nora-roberts/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-begin-boek-1-van-de-bron-nora-roberts)
 - [Bespreking: Weekplanner – Floral Black](https://conniesboekenblog.nl/2020/08/27/bespreking-weekplanner-floral-black/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-weekplanner-floral-black)
@@ -47,7 +48,6 @@
 - [Uitslag winactie](https://conniesboekenblog.nl/2020/08/13/uitslag-winactie-2/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-2)
 - [Blogtour: Het geheim van het klavertjesplein – Michael Reefs](https://conniesboekenblog.nl/2020/08/12/blogtour-het-geheim-van-het-klavertjesplein-michael-reefs/?utm_source=rss&utm_medium=rss&utm_campaign=blogtour-het-geheim-van-het-klavertjesplein-michael-reefs)
 - [Recensie: Valeria – sex & sangria – Elísabet Benavent](https://conniesboekenblog.nl/2020/08/10/recensie-valeria-sex-sangria-elisabet-benavent/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-valeria-sex-sangria-elisabet-benavent)
-- [Bespreking: Creachick stempelset](https://conniesboekenblog.nl/2020/08/07/bespreking-creachick-stempelset/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-creachick-stempelset)
 <!-- BLOG-POST-LIST:END -->
 
 ---
