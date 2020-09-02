@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Kwartaal lidmaatschap van Bookchoice](https://conniesboekenblog.nl/2020/09/02/winactie-kwartaal-lidmaatschap-van-bookchoice/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kwartaal-lidmaatschap-van-bookchoice)
 - [Bespreking: Ik kan 1000 dingen tekenen](https://conniesboekenblog.nl/2020/09/01/bespreking-ik-kan-1000-dingen-tekenen/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-ik-kan-1000-dingen-tekenen)
 - [Winactie: Alles is reden voor een feestje – Ingrid & Dieter Schubert / Monique Berndes](https://conniesboekenblog.nl/2020/09/01/winactie-alles-is-reden-voor-een-feestje-ingrid-dieter-schubert-monique-berndes-2/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-alles-is-reden-voor-een-feestje-ingrid-dieter-schubert-monique-berndes-2)
 - [Morgen begint de september feestmaand](https://conniesboekenblog.nl/2020/08/31/morgen-begint-de-september-feestmaand/?utm_source=rss&utm_medium=rss&utm_campaign=morgen-begint-de-september-feestmaand)
@@ -47,7 +48,6 @@
 - [Recensie: Helden van de Nacht – Michael Reefs](https://conniesboekenblog.nl/2020/08/22/recensie-helden-van-de-nacht-michael-reefs/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-helden-van-de-nacht-michael-reefs)
 - [Gelezen: Niemand komt je redden – Alex Marwood](https://conniesboekenblog.nl/2020/08/16/gelezen-niemand-komt-je-redden-alex-marwood/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-niemand-komt-je-redden-alex-marwood)
 - [Uitslag winactie](https://conniesboekenblog.nl/2020/08/13/uitslag-winactie-2/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-2)
-- [Blogtour: Het geheim van het klavertjesplein – Michael Reefs](https://conniesboekenblog.nl/2020/08/12/blogtour-het-geheim-van-het-klavertjesplein-michael-reefs/?utm_source=rss&utm_medium=rss&utm_campaign=blogtour-het-geheim-van-het-klavertjesplein-michael-reefs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
