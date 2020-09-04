@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: 575 Haikoots – Kees van Kooten](https://conniesboekenblog.nl/2020/09/04/winactie-575-haikoots-kees-van-kooten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-575-haikoots-kees-van-kooten)
 - [Winactie: Maak kans op twee boeken van uitgeverij Cargo](https://conniesboekenblog.nl/2020/09/03/winactie-maak-kans-op-twee-boeken-van-uitgeverij-cargo/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-twee-boeken-van-uitgeverij-cargo)
 - [Winactie: Kwartaal lidmaatschap van Bookchoice](https://conniesboekenblog.nl/2020/09/02/winactie-kwartaal-lidmaatschap-van-bookchoice/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kwartaal-lidmaatschap-van-bookchoice)
 - [Bespreking: Ik kan 1000 dingen tekenen](https://conniesboekenblog.nl/2020/09/01/bespreking-ik-kan-1000-dingen-tekenen/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-ik-kan-1000-dingen-tekenen)
@@ -47,7 +48,6 @@
 - [Bespreking: Weekplanner – Floral Black](https://conniesboekenblog.nl/2020/08/27/bespreking-weekplanner-floral-black/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-weekplanner-floral-black)
 - [Bespreking: Doe elke dag iets dat je inspireert](https://conniesboekenblog.nl/2020/08/23/bespreking-doe-elke-dag-iets-dat-je-inspireert/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-doe-elke-dag-iets-dat-je-inspireert)
 - [Recensie: Helden van de Nacht – Michael Reefs](https://conniesboekenblog.nl/2020/08/22/recensie-helden-van-de-nacht-michael-reefs/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-helden-van-de-nacht-michael-reefs)
-- [Gelezen: Niemand komt je redden – Alex Marwood](https://conniesboekenblog.nl/2020/08/16/gelezen-niemand-komt-je-redden-alex-marwood/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-niemand-komt-je-redden-alex-marwood)
 <!-- BLOG-POST-LIST:END -->
 
 ---
