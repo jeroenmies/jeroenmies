@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: ebook naar keuze van Sandra Berg](https://conniesboekenblog.nl/2020/09/05/winactie-ebook-naar-keuze-van-sandra-berg/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-sandra-berg)
 - [Recensie: Confettiregen – Splinter Chabot](https://conniesboekenblog.nl/2020/09/04/recensie-confettiregen-splinter-chabot/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-confettiregen-splinter-chabot)
 - [Winactie: 575 Haikoots – Kees van Kooten](https://conniesboekenblog.nl/2020/09/04/winactie-575-haikoots-kees-van-kooten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-575-haikoots-kees-van-kooten)
 - [Winactie: Maak kans op twee boeken van uitgeverij Cargo](https://conniesboekenblog.nl/2020/09/03/winactie-maak-kans-op-twee-boeken-van-uitgeverij-cargo/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-twee-boeken-van-uitgeverij-cargo)
@@ -47,7 +48,6 @@
 - [Morgen begint de september feestmaand](https://conniesboekenblog.nl/2020/08/31/morgen-begint-de-september-feestmaand/?utm_source=rss&utm_medium=rss&utm_campaign=morgen-begint-de-september-feestmaand)
 - [Gelezen: Het begin – Boek 1 van de Bron – Nora Roberts](https://conniesboekenblog.nl/2020/08/29/gelezen-het-begin-boek-1-van-de-bron-nora-roberts/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-begin-boek-1-van-de-bron-nora-roberts)
 - [Bespreking: Weekplanner – Floral Black](https://conniesboekenblog.nl/2020/08/27/bespreking-weekplanner-floral-black/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-weekplanner-floral-black)
-- [Bespreking: Doe elke dag iets dat je inspireert](https://conniesboekenblog.nl/2020/08/23/bespreking-doe-elke-dag-iets-dat-je-inspireert/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-doe-elke-dag-iets-dat-je-inspireert)
 <!-- BLOG-POST-LIST:END -->
 
 ---
