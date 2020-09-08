@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Het weesmeisje – Anne Jacobs](https://conniesboekenblog.nl/2020/09/08/winactie-het-weesmeisje-anne-jacobs/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-weesmeisje-anne-jacobs)
 - [Winactie: Vrijkaarten bioscoopfilm The Personal History of David Copperfield](https://conniesboekenblog.nl/2020/09/07/winactie-vrijkaarten-bioscoopfilm-the-personal-history-of-david-copperfield/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-vrijkaarten-bioscoopfilm-the-personal-history-of-david-copperfield)
 - [Winactie: ebook naar keuze van Sandra Berg](https://conniesboekenblog.nl/2020/09/05/winactie-ebook-naar-keuze-van-sandra-berg/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-sandra-berg)
 - [Recensie: Confettiregen – Splinter Chabot](https://conniesboekenblog.nl/2020/09/04/recensie-confettiregen-splinter-chabot/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-confettiregen-splinter-chabot)
@@ -47,7 +48,6 @@
 - [Bespreking: Ik kan 1000 dingen tekenen](https://conniesboekenblog.nl/2020/09/01/bespreking-ik-kan-1000-dingen-tekenen/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-ik-kan-1000-dingen-tekenen)
 - [Winactie: Alles is reden voor een feestje – Ingrid & Dieter Schubert / Monique Berndes](https://conniesboekenblog.nl/2020/09/01/winactie-alles-is-reden-voor-een-feestje-ingrid-dieter-schubert-monique-berndes-2/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-alles-is-reden-voor-een-feestje-ingrid-dieter-schubert-monique-berndes-2)
 - [Morgen begint de september feestmaand](https://conniesboekenblog.nl/2020/08/31/morgen-begint-de-september-feestmaand/?utm_source=rss&utm_medium=rss&utm_campaign=morgen-begint-de-september-feestmaand)
-- [Gelezen: Het begin – Boek 1 van de Bron – Nora Roberts](https://conniesboekenblog.nl/2020/08/29/gelezen-het-begin-boek-1-van-de-bron-nora-roberts/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-begin-boek-1-van-de-bron-nora-roberts)
 <!-- BLOG-POST-LIST:END -->
 
 ---
