@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: ebook naar keuze van Roos Verlinden](https://conniesboekenblog.nl/2020/09/10/winactie-ebook-naar-keuze-van-roos-verlinden/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-roos-verlinden)
 - [Blogtour: Angela & Emma – Alice Bakker / Elly Godijn](https://conniesboekenblog.nl/2020/09/09/blogtour-angela-emma-alice-bakker-elly-godijn/?utm_source=rss&utm_medium=rss&utm_campaign=blogtour-angela-emma-alice-bakker-elly-godijn)
 - [Winactie: De een is de ander niet – Henny Vrienten](https://conniesboekenblog.nl/2020/09/09/winactie-de-een-is-de-ander-niet-henny-vrienten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-een-is-de-ander-niet-henny-vrienten)
 - [Winactie: Het weesmeisje – Anne Jacobs](https://conniesboekenblog.nl/2020/09/08/winactie-het-weesmeisje-anne-jacobs/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-weesmeisje-anne-jacobs)
@@ -47,7 +48,6 @@
 - [Winactie: 575 Haikoots – Kees van Kooten](https://conniesboekenblog.nl/2020/09/04/winactie-575-haikoots-kees-van-kooten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-575-haikoots-kees-van-kooten)
 - [Winactie: Maak kans op twee boeken van uitgeverij Cargo](https://conniesboekenblog.nl/2020/09/03/winactie-maak-kans-op-twee-boeken-van-uitgeverij-cargo/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-twee-boeken-van-uitgeverij-cargo)
 - [Winactie: Kwartaal lidmaatschap van Bookchoice](https://conniesboekenblog.nl/2020/09/02/winactie-kwartaal-lidmaatschap-van-bookchoice/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kwartaal-lidmaatschap-van-bookchoice)
-- [Bespreking: Ik kan 1000 dingen tekenen](https://conniesboekenblog.nl/2020/09/01/bespreking-ik-kan-1000-dingen-tekenen/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-ik-kan-1000-dingen-tekenen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
