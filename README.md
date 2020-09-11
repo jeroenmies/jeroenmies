@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Maak kans op bioscoopkaartjes voor de Tobacconist en het ebook waarop de film gebaseerd is](https://conniesboekenblog.nl/2020/09/11/maak-kans-op-bioscoopkaartjes-voor-de-tobacconist-en-het-ebook-waarop-de-film-gebaseerd-is/?utm_source=rss&utm_medium=rss&utm_campaign=maak-kans-op-bioscoopkaartjes-voor-de-tobacconist-en-het-ebook-waarop-de-film-gebaseerd-is)
 - [Uitslag winactie: Alles is reden voor een feestje](https://conniesboekenblog.nl/2020/09/10/uitslag-winactie-alles-is-reden-voor-een-feestje/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-alles-is-reden-voor-een-feestje)
 - [Gelezen: Ssst, de draak slaapt – Bianca Schulze](https://conniesboekenblog.nl/2020/09/10/gelezen-ssst-de-draak-slaapt-bianca-schulze/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-ssst-de-draak-slaapt-bianca-schulze)
 - [Winactie: ebook naar keuze van Roos Verlinden](https://conniesboekenblog.nl/2020/09/10/winactie-ebook-naar-keuze-van-roos-verlinden/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-roos-verlinden)
@@ -47,7 +48,6 @@
 - [Winactie: Vrijkaarten bioscoopfilm The Personal History of David Copperfield](https://conniesboekenblog.nl/2020/09/07/winactie-vrijkaarten-bioscoopfilm-the-personal-history-of-david-copperfield/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-vrijkaarten-bioscoopfilm-the-personal-history-of-david-copperfield)
 - [Winactie: ebook naar keuze van Sandra Berg](https://conniesboekenblog.nl/2020/09/05/winactie-ebook-naar-keuze-van-sandra-berg/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-sandra-berg)
 - [Recensie: Confettiregen – Splinter Chabot](https://conniesboekenblog.nl/2020/09/04/recensie-confettiregen-splinter-chabot/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-confettiregen-splinter-chabot)
-- [Winactie: 575 Haikoots – Kees van Kooten](https://conniesboekenblog.nl/2020/09/04/winactie-575-haikoots-kees-van-kooten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-575-haikoots-kees-van-kooten)
 <!-- BLOG-POST-LIST:END -->
 
 ---
