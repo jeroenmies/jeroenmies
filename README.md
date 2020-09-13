@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie](https://conniesboekenblog.nl/2020/09/13/uitslag-winactie/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie)
 - [Winactie: Quotum van Marloes Morshuis](https://conniesboekenblog.nl/2020/09/13/winactie-quotum-van-marloes-morshuis/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-quotum-van-marloes-morshuis)
 - [Winactie: ebook – Leef, Lach, Loch – Vanessa Gerrits](https://conniesboekenblog.nl/2020/09/12/winactie-ebook-leef-lach-loch-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-leef-lach-loch-vanessa-gerrits)
 - [Maak kans op bioscoopkaartjes voor de Tobacconist en het ebook waarop de film gebaseerd is](https://conniesboekenblog.nl/2020/09/11/maak-kans-op-bioscoopkaartjes-voor-de-tobacconist-en-het-ebook-waarop-de-film-gebaseerd-is/?utm_source=rss&utm_medium=rss&utm_campaign=maak-kans-op-bioscoopkaartjes-voor-de-tobacconist-en-het-ebook-waarop-de-film-gebaseerd-is)
@@ -47,7 +48,6 @@
 - [Blogtour: Angela & Emma – Alice Bakker / Elly Godijn](https://conniesboekenblog.nl/2020/09/09/blogtour-angela-emma-alice-bakker-elly-godijn/?utm_source=rss&utm_medium=rss&utm_campaign=blogtour-angela-emma-alice-bakker-elly-godijn)
 - [Winactie: De een is de ander niet – Henny Vrienten](https://conniesboekenblog.nl/2020/09/09/winactie-de-een-is-de-ander-niet-henny-vrienten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-een-is-de-ander-niet-henny-vrienten)
 - [Winactie: Het weesmeisje – Anne Jacobs](https://conniesboekenblog.nl/2020/09/08/winactie-het-weesmeisje-anne-jacobs/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-weesmeisje-anne-jacobs)
-- [Winactie: Vrijkaarten bioscoopfilm The Personal History of David Copperfield](https://conniesboekenblog.nl/2020/09/07/winactie-vrijkaarten-bioscoopfilm-the-personal-history-of-david-copperfield/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-vrijkaarten-bioscoopfilm-the-personal-history-of-david-copperfield)
 <!-- BLOG-POST-LIST:END -->
 
 ---
