@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: ebook naar keuze van Wilma Hollander](https://conniesboekenblog.nl/2020/09/14/winactie-ebook-naar-keuze-van-wilma-hollander/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-wilma-hollander)
 - [Uitslag winactie](https://conniesboekenblog.nl/2020/09/13/uitslag-winactie-3/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-3)
 - [Uitslag winactie](https://conniesboekenblog.nl/2020/09/13/uitslag-winactie/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie)
 - [Winactie: Quotum van Marloes Morshuis](https://conniesboekenblog.nl/2020/09/13/winactie-quotum-van-marloes-morshuis/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-quotum-van-marloes-morshuis)
@@ -47,7 +48,6 @@
 - [Gelezen: Ssst, de draak slaapt – Bianca Schulze](https://conniesboekenblog.nl/2020/09/10/gelezen-ssst-de-draak-slaapt-bianca-schulze/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-ssst-de-draak-slaapt-bianca-schulze)
 - [Winactie: ebook naar keuze van Roos Verlinden](https://conniesboekenblog.nl/2020/09/10/winactie-ebook-naar-keuze-van-roos-verlinden/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-roos-verlinden)
 - [Blogtour: Angela & Emma – Alice Bakker / Elly Godijn](https://conniesboekenblog.nl/2020/09/09/blogtour-angela-emma-alice-bakker-elly-godijn/?utm_source=rss&utm_medium=rss&utm_campaign=blogtour-angela-emma-alice-bakker-elly-godijn)
-- [Winactie: De een is de ander niet – Henny Vrienten](https://conniesboekenblog.nl/2020/09/09/winactie-de-een-is-de-ander-niet-henny-vrienten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-een-is-de-ander-niet-henny-vrienten)
 <!-- BLOG-POST-LIST:END -->
 
 ---
