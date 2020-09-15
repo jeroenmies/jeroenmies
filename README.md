@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: Leef Lach Loch – Vanessa Gerrits](https://conniesboekenblog.nl/2020/09/15/recensie-leef-lach-loch-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-leef-lach-loch-vanessa-gerrits)
 - [Winactie: Familieopstelling – Kluun](https://conniesboekenblog.nl/2020/09/15/winactie-familieopstelling-kluun/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-familieopstelling-kluun)
 - [Uitslag winactie Vrijkaarten bioscoopfilm The Personal History of David Copperfield](https://conniesboekenblog.nl/2020/09/14/uitslag-winactie-4/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-4)
 - [Winactie: ebook naar keuze van Wilma Hollander](https://conniesboekenblog.nl/2020/09/14/winactie-ebook-naar-keuze-van-wilma-hollander/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-wilma-hollander)
@@ -47,7 +48,6 @@
 - [Winactie: ebook – Leef, Lach, Loch – Vanessa Gerrits](https://conniesboekenblog.nl/2020/09/12/winactie-ebook-leef-lach-loch-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-leef-lach-loch-vanessa-gerrits)
 - [Maak kans op bioscoopkaartjes voor de Tobacconist en het ebook waarop de film gebaseerd is](https://conniesboekenblog.nl/2020/09/11/maak-kans-op-bioscoopkaartjes-voor-de-tobacconist-en-het-ebook-waarop-de-film-gebaseerd-is/?utm_source=rss&utm_medium=rss&utm_campaign=maak-kans-op-bioscoopkaartjes-voor-de-tobacconist-en-het-ebook-waarop-de-film-gebaseerd-is)
 - [Uitslag winactie: Alles is reden voor een feestje](https://conniesboekenblog.nl/2020/09/10/uitslag-winactie-alles-is-reden-voor-een-feestje/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-alles-is-reden-voor-een-feestje)
-- [Gelezen: Ssst, de draak slaapt – Bianca Schulze](https://conniesboekenblog.nl/2020/09/10/gelezen-ssst-de-draak-slaapt-bianca-schulze/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-ssst-de-draak-slaapt-bianca-schulze)
 <!-- BLOG-POST-LIST:END -->
 
 ---
