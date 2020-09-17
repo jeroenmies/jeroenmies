@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: De kakkerlak – Ian McEwan](https://conniesboekenblog.nl/2020/09/17/winactie-de-kakkerlak-ian-mcewan/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-kakkerlak-ian-mcewan)
 - [Winactie: Het enige echte mandalakleurboek Black Edition](https://conniesboekenblog.nl/2020/09/16/winactie-het-enige-echte-mandalakleurboek-black-edition/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-enige-echte-mandalakleurboek-black-edition)
 - [Recensie: Leef Lach Loch – Vanessa Gerrits](https://conniesboekenblog.nl/2020/09/15/recensie-leef-lach-loch-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-leef-lach-loch-vanessa-gerrits)
 - [Winactie: Familieopstelling – Kluun](https://conniesboekenblog.nl/2020/09/15/winactie-familieopstelling-kluun/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-familieopstelling-kluun)
@@ -47,7 +48,6 @@
 - [Uitslag winactie](https://conniesboekenblog.nl/2020/09/13/uitslag-winactie/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie)
 - [Winactie: Quotum van Marloes Morshuis](https://conniesboekenblog.nl/2020/09/13/winactie-quotum-van-marloes-morshuis/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-quotum-van-marloes-morshuis)
 - [Winactie: ebook – Leef, Lach, Loch – Vanessa Gerrits](https://conniesboekenblog.nl/2020/09/12/winactie-ebook-leef-lach-loch-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-leef-lach-loch-vanessa-gerrits)
-- [Maak kans op bioscoopkaartjes voor de Tobacconist en het ebook waarop de film gebaseerd is](https://conniesboekenblog.nl/2020/09/11/maak-kans-op-bioscoopkaartjes-voor-de-tobacconist-en-het-ebook-waarop-de-film-gebaseerd-is/?utm_source=rss&utm_medium=rss&utm_campaign=maak-kans-op-bioscoopkaartjes-voor-de-tobacconist-en-het-ebook-waarop-de-film-gebaseerd-is)
 <!-- BLOG-POST-LIST:END -->
 
 ---
