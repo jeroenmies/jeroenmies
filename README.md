@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie uitslag ebooks van Sandra Berg](https://conniesboekenblog.nl/2020/09/18/winactie-uitslag-2/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-2)
 - [Uitslag winactie bioscoopkaartjes voor de Tobacconist en het ebook](https://conniesboekenblog.nl/2020/09/18/uitslag-winactie-bioscoopkaartjes-voor-de-tobacconist-en-het-ebook/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-bioscoopkaartjes-voor-de-tobacconist-en-het-ebook)
 - [Winactie: Het winkeltje in Cockleberry Bay – Nicola May](https://conniesboekenblog.nl/2020/09/18/winactie-het-winkeltje-in-cockleberry-bay-nicola-may/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-winkeltje-in-cockleberry-bay-nicola-may)
 - [Winactie: De kakkerlak – Ian McEwan](https://conniesboekenblog.nl/2020/09/17/winactie-de-kakkerlak-ian-mcewan/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-kakkerlak-ian-mcewan)
@@ -47,7 +48,6 @@
 - [Uitslag winactie Vrijkaarten bioscoopfilm The Personal History of David Copperfield](https://conniesboekenblog.nl/2020/09/14/uitslag-winactie-4/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-4)
 - [Winactie: ebook naar keuze van Wilma Hollander](https://conniesboekenblog.nl/2020/09/14/winactie-ebook-naar-keuze-van-wilma-hollander/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-wilma-hollander)
 - [Uitslag winactie](https://conniesboekenblog.nl/2020/09/13/uitslag-winactie-3/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-3)
-- [Uitslag winactie](https://conniesboekenblog.nl/2020/09/13/uitslag-winactie/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
