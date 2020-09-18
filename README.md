@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie bioscoopkaartjes voor de Tobacconist en het ebook](https://conniesboekenblog.nl/2020/09/18/uitslag-winactie-bioscoopkaartjes-voor-de-tobacconist-en-het-ebook/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-bioscoopkaartjes-voor-de-tobacconist-en-het-ebook)
 - [Winactie: Het winkeltje in Cockleberry Bay – Nicola May](https://conniesboekenblog.nl/2020/09/18/winactie-het-winkeltje-in-cockleberry-bay-nicola-may/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-winkeltje-in-cockleberry-bay-nicola-may)
 - [Winactie: De kakkerlak – Ian McEwan](https://conniesboekenblog.nl/2020/09/17/winactie-de-kakkerlak-ian-mcewan/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-kakkerlak-ian-mcewan)
 - [Winactie: Het enige echte mandalakleurboek Black Edition](https://conniesboekenblog.nl/2020/09/16/winactie-het-enige-echte-mandalakleurboek-black-edition/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-enige-echte-mandalakleurboek-black-edition)
@@ -47,7 +48,6 @@
 - [Winactie: ebook naar keuze van Wilma Hollander](https://conniesboekenblog.nl/2020/09/14/winactie-ebook-naar-keuze-van-wilma-hollander/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-wilma-hollander)
 - [Uitslag winactie](https://conniesboekenblog.nl/2020/09/13/uitslag-winactie-3/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-3)
 - [Uitslag winactie](https://conniesboekenblog.nl/2020/09/13/uitslag-winactie/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie)
-- [Winactie: Quotum van Marloes Morshuis](https://conniesboekenblog.nl/2020/09/13/winactie-quotum-van-marloes-morshuis/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-quotum-van-marloes-morshuis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
