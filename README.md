@@ -38,6 +38,8 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Artjournal workshop by Julia Woning](https://conniesboekenblog.nl/2020/09/20/gelezen-artjournal-workshop-by-julia-woning/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-artjournal-workshop-by-julia-woning)
+- [Bespreking: Artjournal by Julia Woning](https://conniesboekenblog.nl/2020/09/20/bespreking-artjournal-by-julia-woning/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-artjournal-by-julia-woning)
 - [Winactie uitslag: De een is de ander niet – Henny Vrienten](https://conniesboekenblog.nl/2020/09/19/winactie-uitslag-de-een-is-de-ander-niet-henny-vrienten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-de-een-is-de-ander-niet-henny-vrienten)
 - [Winactie uitslag: 575 Haikoots – Kees van Kooten](https://conniesboekenblog.nl/2020/09/19/winactie-uitslag-575-haikoots-kees-van-kooten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-575-haikoots-kees-van-kooten)
 - [Uitslag winactie: Het weesmeisje – Anne Jacobs](https://conniesboekenblog.nl/2020/09/19/uitslag-winactie-het-weesmeisje-anne-jacobs/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-weesmeisje-anne-jacobs)
@@ -46,8 +48,6 @@
 - [Winactie: Het winkeltje in Cockleberry Bay – Nicola May](https://conniesboekenblog.nl/2020/09/18/winactie-het-winkeltje-in-cockleberry-bay-nicola-may/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-winkeltje-in-cockleberry-bay-nicola-may)
 - [Winactie: De kakkerlak – Ian McEwan](https://conniesboekenblog.nl/2020/09/17/winactie-de-kakkerlak-ian-mcewan/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-kakkerlak-ian-mcewan)
 - [Winactie: Het enige echte mandalakleurboek Black Edition](https://conniesboekenblog.nl/2020/09/16/winactie-het-enige-echte-mandalakleurboek-black-edition/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-enige-echte-mandalakleurboek-black-edition)
-- [Recensie: Leef Lach Loch – Vanessa Gerrits](https://conniesboekenblog.nl/2020/09/15/recensie-leef-lach-loch-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-leef-lach-loch-vanessa-gerrits)
-- [Winactie: Familieopstelling – Kluun](https://conniesboekenblog.nl/2020/09/15/winactie-familieopstelling-kluun/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-familieopstelling-kluun)
 <!-- BLOG-POST-LIST:END -->
 
 ---
