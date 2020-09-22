@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Nieuwe uitslag winactie Vrijkaarten bioscoopfilm The Personal History of David Copperfield](https://conniesboekenblog.nl/2020/09/22/uitslag-winactie-vrijkaarten-bioscoopfilm-the-personal-history-of-david-copperfield/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-vrijkaarten-bioscoopfilm-the-personal-history-of-david-copperfield)
 - [Winactie: De super wonderlijke reis van Freddie – Jenny Pearson](https://conniesboekenblog.nl/2020/09/21/winactie-de-super-wonderlijke-reis-van-freddie-jenny-pearson/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-super-wonderlijke-reis-van-freddie-jenny-pearson)
 - [Gelezen: Artjournal workshop by Julia Woning](https://conniesboekenblog.nl/2020/09/20/gelezen-artjournal-workshop-by-julia-woning/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-artjournal-workshop-by-julia-woning)
 - [Bespreking: Artjournal by Julia Woning](https://conniesboekenblog.nl/2020/09/20/bespreking-artjournal-by-julia-woning/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-artjournal-by-julia-woning)
@@ -47,7 +48,6 @@
 - [Winactie uitslag ebooks van Sandra Berg](https://conniesboekenblog.nl/2020/09/18/winactie-uitslag-2/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-2)
 - [Uitslag winactie bioscoopkaartjes voor de Tobacconist en het ebook](https://conniesboekenblog.nl/2020/09/18/uitslag-winactie-bioscoopkaartjes-voor-de-tobacconist-en-het-ebook/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-bioscoopkaartjes-voor-de-tobacconist-en-het-ebook)
 - [Winactie: Het winkeltje in Cockleberry Bay – Nicola May](https://conniesboekenblog.nl/2020/09/18/winactie-het-winkeltje-in-cockleberry-bay-nicola-may/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-winkeltje-in-cockleberry-bay-nicola-may)
-- [Winactie: De kakkerlak – Ian McEwan](https://conniesboekenblog.nl/2020/09/17/winactie-de-kakkerlak-ian-mcewan/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-kakkerlak-ian-mcewan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
