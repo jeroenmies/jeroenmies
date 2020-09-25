@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Blauw gras – Elly Godijn](https://conniesboekenblog.nl/2020/09/25/winactie-blauw-gras-elly-godijn/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-blauw-gras-elly-godijn)
 - [Winactie: De stad van Heimwee – Patty Harpenau](https://conniesboekenblog.nl/2020/09/24/winactie-de-stad-van-heimwee-patty-harpenau/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-stad-van-heimwee-patty-harpenau)
 - [Winactie: ebook naar keuze van Saskia Schouten](https://conniesboekenblog.nl/2020/09/23/winactie-ebook-naar-keuze-van-wilma-hollander-2/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-wilma-hollander-2)
 - [Nieuwe uitslag winactie Vrijkaarten bioscoopfilm The Personal History of David Copperfield](https://conniesboekenblog.nl/2020/09/22/uitslag-winactie-vrijkaarten-bioscoopfilm-the-personal-history-of-david-copperfield/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-vrijkaarten-bioscoopfilm-the-personal-history-of-david-copperfield)
@@ -47,7 +48,6 @@
 - [Winactie uitslag: De een is de ander niet – Henny Vrienten](https://conniesboekenblog.nl/2020/09/19/winactie-uitslag-de-een-is-de-ander-niet-henny-vrienten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-de-een-is-de-ander-niet-henny-vrienten)
 - [Winactie uitslag: 575 Haikoots – Kees van Kooten](https://conniesboekenblog.nl/2020/09/19/winactie-uitslag-575-haikoots-kees-van-kooten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-575-haikoots-kees-van-kooten)
 - [Uitslag winactie: Het weesmeisje – Anne Jacobs](https://conniesboekenblog.nl/2020/09/19/uitslag-winactie-het-weesmeisje-anne-jacobs/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-weesmeisje-anne-jacobs)
-- [Winactie uitslag ebooks van Sandra Berg](https://conniesboekenblog.nl/2020/09/18/winactie-uitslag-2/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
