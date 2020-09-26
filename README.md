@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie: ebook naar keuze van Roos Verlinden](https://conniesboekenblog.nl/2020/09/26/uitslag-winactie-ebook-naar-keuze-van-roos-verlinden/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-naar-keuze-van-roos-verlinden)
 - [Uitslag winactie: ebook naar keuze van Wilma Hollander](https://conniesboekenblog.nl/2020/09/26/uitslag-winactie-ebook-naar-keuze-van-wilma-hollander/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-naar-keuze-van-wilma-hollander)
 - [Uitslag winactie Quotum van Marloes Morshuis](https://conniesboekenblog.nl/2020/09/26/uitslag-winactie-quotum-van-marloes-morshuis/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-quotum-van-marloes-morshuis)
 - [Recensie: De jongen die van draken droomde](https://conniesboekenblog.nl/2020/09/26/recensie-de-jongen-die-van-draken-droomde/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-jongen-die-van-draken-droomde)
@@ -47,7 +48,6 @@
 - [Winactie: ebook naar keuze van Saskia Schouten](https://conniesboekenblog.nl/2020/09/23/winactie-ebook-naar-keuze-van-wilma-hollander-2/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-wilma-hollander-2)
 - [Nieuwe uitslag winactie Vrijkaarten bioscoopfilm The Personal History of David Copperfield](https://conniesboekenblog.nl/2020/09/22/uitslag-winactie-vrijkaarten-bioscoopfilm-the-personal-history-of-david-copperfield/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-vrijkaarten-bioscoopfilm-the-personal-history-of-david-copperfield)
 - [Winactie: De super wonderlijke reis van Freddie – Jenny Pearson](https://conniesboekenblog.nl/2020/09/21/winactie-de-super-wonderlijke-reis-van-freddie-jenny-pearson/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-super-wonderlijke-reis-van-freddie-jenny-pearson)
-- [Gelezen: Artjournal workshop by Julia Woning](https://conniesboekenblog.nl/2020/09/20/gelezen-artjournal-workshop-by-julia-woning/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-artjournal-workshop-by-julia-woning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
