@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Weekplanner van uitgeverij Deltas](https://conniesboekenblog.nl/2020/09/26/winactie-weekplanner-van-uitgeverij-deltas/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-weekplanner-van-uitgeverij-deltas)
 - [Winactie: Blauw gras – Elly Godijn](https://conniesboekenblog.nl/2020/09/25/winactie-blauw-gras-elly-godijn/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-blauw-gras-elly-godijn)
 - [Winactie: De stad van Heimwee – Patty Harpenau](https://conniesboekenblog.nl/2020/09/24/winactie-de-stad-van-heimwee-patty-harpenau/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-stad-van-heimwee-patty-harpenau)
 - [Winactie: ebook naar keuze van Saskia Schouten](https://conniesboekenblog.nl/2020/09/23/winactie-ebook-naar-keuze-van-wilma-hollander-2/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-wilma-hollander-2)
@@ -47,7 +48,6 @@
 - [Bespreking: Artjournal by Julia Woning](https://conniesboekenblog.nl/2020/09/20/bespreking-artjournal-by-julia-woning/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-artjournal-by-julia-woning)
 - [Winactie uitslag: De een is de ander niet – Henny Vrienten](https://conniesboekenblog.nl/2020/09/19/winactie-uitslag-de-een-is-de-ander-niet-henny-vrienten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-de-een-is-de-ander-niet-henny-vrienten)
 - [Winactie uitslag: 575 Haikoots – Kees van Kooten](https://conniesboekenblog.nl/2020/09/19/winactie-uitslag-575-haikoots-kees-van-kooten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-575-haikoots-kees-van-kooten)
-- [Uitslag winactie: Het weesmeisje – Anne Jacobs](https://conniesboekenblog.nl/2020/09/19/uitslag-winactie-het-weesmeisje-anne-jacobs/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-weesmeisje-anne-jacobs)
 <!-- BLOG-POST-LIST:END -->
 
 ---
