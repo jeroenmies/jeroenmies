@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie: ebook – Leef, Lach, Loch – Vanessa Gerrits](https://conniesboekenblog.nl/2020/09/27/uitslag-winactie-ebook-leef-lach-loch-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-leef-lach-loch-vanessa-gerrits)
 - [Winactie: ebook naar keuze van Anita Verkerk](https://conniesboekenblog.nl/2020/09/27/winactie-ebook-naar-keuze-van-anita-verkerk/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-anita-verkerk)
 - [Uitslag winactie: ebook naar keuze van Roos Verlinden](https://conniesboekenblog.nl/2020/09/26/uitslag-winactie-ebook-naar-keuze-van-roos-verlinden/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-naar-keuze-van-roos-verlinden)
 - [Uitslag winactie: ebook naar keuze van Wilma Hollander](https://conniesboekenblog.nl/2020/09/26/uitslag-winactie-ebook-naar-keuze-van-wilma-hollander/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-naar-keuze-van-wilma-hollander)
@@ -47,7 +48,6 @@
 - [Winactie: Blauw gras – Elly Godijn](https://conniesboekenblog.nl/2020/09/25/winactie-blauw-gras-elly-godijn/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-blauw-gras-elly-godijn)
 - [Winactie: De stad van Heimwee – Patty Harpenau](https://conniesboekenblog.nl/2020/09/24/winactie-de-stad-van-heimwee-patty-harpenau/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-stad-van-heimwee-patty-harpenau)
 - [Winactie: ebook naar keuze van Saskia Schouten](https://conniesboekenblog.nl/2020/09/23/winactie-ebook-naar-keuze-van-wilma-hollander-2/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-wilma-hollander-2)
-- [Nieuwe uitslag winactie Vrijkaarten bioscoopfilm The Personal History of David Copperfield](https://conniesboekenblog.nl/2020/09/22/uitslag-winactie-vrijkaarten-bioscoopfilm-the-personal-history-of-david-copperfield/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-vrijkaarten-bioscoopfilm-the-personal-history-of-david-copperfield)
 <!-- BLOG-POST-LIST:END -->
 
 ---
