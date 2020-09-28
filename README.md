@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Bespreking: Mijn Black journal](https://conniesboekenblog.nl/2020/09/28/bespreking-mijn-black-journal/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-mijn-black-journal)
 - [Uitslag winactie: Familieopstelling – Kluun](https://conniesboekenblog.nl/2020/09/27/uitslag-winactie-familieopstelling-kluun/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-familieopstelling-kluun)
 - [Uitslag winactie: ebook – Leef, Lach, Loch – Vanessa Gerrits](https://conniesboekenblog.nl/2020/09/27/uitslag-winactie-ebook-leef-lach-loch-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-leef-lach-loch-vanessa-gerrits)
 - [Winactie: ebook naar keuze van Anita Verkerk](https://conniesboekenblog.nl/2020/09/27/winactie-ebook-naar-keuze-van-anita-verkerk/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-anita-verkerk)
@@ -47,7 +48,6 @@
 - [Recensie: De jongen die van draken droomde](https://conniesboekenblog.nl/2020/09/26/recensie-de-jongen-die-van-draken-droomde/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-jongen-die-van-draken-droomde)
 - [Winactie: Weekplanner van uitgeverij Deltas](https://conniesboekenblog.nl/2020/09/26/winactie-weekplanner-van-uitgeverij-deltas/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-weekplanner-van-uitgeverij-deltas)
 - [Winactie: Blauw gras – Elly Godijn](https://conniesboekenblog.nl/2020/09/25/winactie-blauw-gras-elly-godijn/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-blauw-gras-elly-godijn)
-- [Winactie: De stad van Heimwee – Patty Harpenau](https://conniesboekenblog.nl/2020/09/24/winactie-de-stad-van-heimwee-patty-harpenau/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-stad-van-heimwee-patty-harpenau)
 <!-- BLOG-POST-LIST:END -->
 
 ---
