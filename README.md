@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Dwarsligger pakket](https://conniesboekenblog.nl/2020/09/30/winactie-dwarsligger-pakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-dwarsligger-pakket)
 - [Recensie: De vakantie – Caroline Hulse](https://conniesboekenblog.nl/2020/09/29/recensie-de-vakantie-caroline-hulse/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-vakantie-caroline-hulse)
 - [Winactie: Fred en de rare vogel – Pépé Smit](https://conniesboekenblog.nl/2020/09/29/winactie-fred-en-de-rare-vogel-pepe-smit/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-fred-en-de-rare-vogel-pepe-smit)
 - [Bespreking: Mijn Black journal](https://conniesboekenblog.nl/2020/09/28/bespreking-mijn-black-journal/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-mijn-black-journal)
@@ -47,7 +48,6 @@
 - [Uitslag winactie: ebook naar keuze van Roos Verlinden](https://conniesboekenblog.nl/2020/09/26/uitslag-winactie-ebook-naar-keuze-van-roos-verlinden/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-naar-keuze-van-roos-verlinden)
 - [Uitslag winactie: ebook naar keuze van Wilma Hollander](https://conniesboekenblog.nl/2020/09/26/uitslag-winactie-ebook-naar-keuze-van-wilma-hollander/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-naar-keuze-van-wilma-hollander)
 - [Uitslag winactie Quotum van Marloes Morshuis](https://conniesboekenblog.nl/2020/09/26/uitslag-winactie-quotum-van-marloes-morshuis/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-quotum-van-marloes-morshuis)
-- [Recensie: De jongen die van draken droomde](https://conniesboekenblog.nl/2020/09/26/recensie-de-jongen-die-van-draken-droomde/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-jongen-die-van-draken-droomde)
 <!-- BLOG-POST-LIST:END -->
 
 ---
