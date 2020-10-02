@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie: ebook naar keuze van Saskia Schouten](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-ebook-naar-keuze-van-saskia-schouten/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-naar-keuze-van-saskia-schouten)
 - [Uitslag winactie: De super wonderlijke reis van Freddie – Jenny Pearson](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-de-super-wonderlijke-reis-van-freddie-jenny-pearson/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-de-super-wonderlijke-reis-van-freddie-jenny-pearson)
 - [Uitslag winactie: Het winkeltje in Cockleberry Bay – Nicola May](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-het-winkeltje-in-cockleberry-bay-nicola-may/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-winkeltje-in-cockleberry-bay-nicola-may)
 - [Uitslag winactie: De kakkerlak – Ian McEwan](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-de-kakkerlak-ian-mcewan/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-de-kakkerlak-ian-mcewan)
@@ -47,7 +48,6 @@
 - [Winactie: Fred en de rare vogel – Pépé Smit](https://conniesboekenblog.nl/2020/09/29/winactie-fred-en-de-rare-vogel-pepe-smit/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-fred-en-de-rare-vogel-pepe-smit)
 - [Bespreking: Mijn Black journal](https://conniesboekenblog.nl/2020/09/28/bespreking-mijn-black-journal/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-mijn-black-journal)
 - [Uitslag winactie: Familieopstelling – Kluun](https://conniesboekenblog.nl/2020/09/27/uitslag-winactie-familieopstelling-kluun/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-familieopstelling-kluun)
-- [Uitslag winactie: ebook – Leef, Lach, Loch – Vanessa Gerrits](https://conniesboekenblog.nl/2020/09/27/uitslag-winactie-ebook-leef-lach-loch-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-leef-lach-loch-vanessa-gerrits)
 <!-- BLOG-POST-LIST:END -->
 
 ---
