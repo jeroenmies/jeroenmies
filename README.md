@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie: Het winkeltje in Cockleberry Bay – Nicola May](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-het-winkeltje-in-cockleberry-bay-nicola-may/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-winkeltje-in-cockleberry-bay-nicola-may)
 - [Uitslag winactie: De kakkerlak – Ian McEwan](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-de-kakkerlak-ian-mcewan/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-de-kakkerlak-ian-mcewan)
 - [Uitslag winactie: Het enige echte mandalakleurboek Black Edition](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-het-enige-echte-mandalakleurboek-black-edition/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-enige-echte-mandalakleurboek-black-edition)
 - [Winactie: Dwarsligger pakket](https://conniesboekenblog.nl/2020/09/30/winactie-dwarsligger-pakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-dwarsligger-pakket)
@@ -47,7 +48,6 @@
 - [Uitslag winactie: Familieopstelling – Kluun](https://conniesboekenblog.nl/2020/09/27/uitslag-winactie-familieopstelling-kluun/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-familieopstelling-kluun)
 - [Uitslag winactie: ebook – Leef, Lach, Loch – Vanessa Gerrits](https://conniesboekenblog.nl/2020/09/27/uitslag-winactie-ebook-leef-lach-loch-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-leef-lach-loch-vanessa-gerrits)
 - [Winactie: ebook naar keuze van Anita Verkerk](https://conniesboekenblog.nl/2020/09/27/winactie-ebook-naar-keuze-van-anita-verkerk/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-naar-keuze-van-anita-verkerk)
-- [Uitslag winactie: ebook naar keuze van Roos Verlinden](https://conniesboekenblog.nl/2020/09/26/uitslag-winactie-ebook-naar-keuze-van-roos-verlinden/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-naar-keuze-van-roos-verlinden)
 <!-- BLOG-POST-LIST:END -->
 
 ---
