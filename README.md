@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Sofie speurneus – Bieber de hond is vermist – Ulrike Rylance & Lisa Hänsch](https://conniesboekenblog.nl/2020/10/04/gelezen-sofie-speurneus-bieber-de-hond-is-vermist-ulrike-rylance-lisa-hansch/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-sofie-speurneus-bieber-de-hond-is-vermist-ulrike-rylance-lisa-hansch)
 - [Bespreking: Mijn Black Journal Pennenset](https://conniesboekenblog.nl/2020/10/03/bespreking-mijn-black-journal-pennenset/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-mijn-black-journal-pennenset)
 - [Uitslag winactie: ebook naar keuze van Saskia Schouten](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-ebook-naar-keuze-van-saskia-schouten/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-naar-keuze-van-saskia-schouten)
 - [Uitslag winactie: De super wonderlijke reis van Freddie – Jenny Pearson](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-de-super-wonderlijke-reis-van-freddie-jenny-pearson/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-de-super-wonderlijke-reis-van-freddie-jenny-pearson)
@@ -47,7 +48,6 @@
 - [Winactie: Dwarsligger pakket](https://conniesboekenblog.nl/2020/09/30/winactie-dwarsligger-pakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-dwarsligger-pakket)
 - [Recensie: De vakantie – Caroline Hulse](https://conniesboekenblog.nl/2020/09/29/recensie-de-vakantie-caroline-hulse/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-vakantie-caroline-hulse)
 - [Winactie: Fred en de rare vogel – Pépé Smit](https://conniesboekenblog.nl/2020/09/29/winactie-fred-en-de-rare-vogel-pepe-smit/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-fred-en-de-rare-vogel-pepe-smit)
-- [Bespreking: Mijn Black journal](https://conniesboekenblog.nl/2020/09/28/bespreking-mijn-black-journal/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-mijn-black-journal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
