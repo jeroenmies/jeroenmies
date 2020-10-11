@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Interview met Andy Shepherd](https://conniesboekenblog.nl/2020/10/11/interview-met-andy-shepherd/?utm_source=rss&utm_medium=rss&utm_campaign=interview-met-andy-shepherd)
 - [Gelezen: Sofie speurneus – Bieber de hond is vermist – Ulrike Rylance & Lisa Hänsch](https://conniesboekenblog.nl/2020/10/04/gelezen-sofie-speurneus-bieber-de-hond-is-vermist-ulrike-rylance-lisa-hansch/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-sofie-speurneus-bieber-de-hond-is-vermist-ulrike-rylance-lisa-hansch)
 - [Bespreking: Mijn Black Journal Pennenset](https://conniesboekenblog.nl/2020/10/03/bespreking-mijn-black-journal-pennenset/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-mijn-black-journal-pennenset)
 - [Uitslag winactie: ebook naar keuze van Saskia Schouten](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-ebook-naar-keuze-van-saskia-schouten/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-naar-keuze-van-saskia-schouten)
@@ -47,7 +48,6 @@
 - [Uitslag winactie: Het enige echte mandalakleurboek Black Edition](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-het-enige-echte-mandalakleurboek-black-edition/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-enige-echte-mandalakleurboek-black-edition)
 - [Winactie (afgelopen): Dwarsligger pakket](https://conniesboekenblog.nl/2020/09/30/winactie-dwarsligger-pakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-dwarsligger-pakket)
 - [Recensie: De vakantie – Caroline Hulse](https://conniesboekenblog.nl/2020/09/29/recensie-de-vakantie-caroline-hulse/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-vakantie-caroline-hulse)
-- [Winactie (afgelopen): Fred en de rare vogel – Pépé Smit](https://conniesboekenblog.nl/2020/09/29/winactie-fred-en-de-rare-vogel-pepe-smit/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-fred-en-de-rare-vogel-pepe-smit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
