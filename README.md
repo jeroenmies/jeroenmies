@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie: ebooks van Anita Verkerk](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-ebooks-van-anita-verkerk/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebooks-van-anita-verkerk)
 - [Uitslag winactie: Weekplanner van uitgeverij Deltas](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-weekplanner-van-uitgeverij-deltas/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-weekplanner-van-uitgeverij-deltas)
 - [Uitslag winactie: Blauw gras – Elly Godijn](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-blauw-gras-elly-godijn/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-blauw-gras-elly-godijn)
 - [Uitslag winactie: De stad van Heimwee – Patty Harpenau](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-de-stad-van-heimwee-patty-harpenau/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-de-stad-van-heimwee-patty-harpenau)
@@ -47,7 +48,6 @@
 - [Bespreking: Mijn Black Journal Pennenset](https://conniesboekenblog.nl/2020/10/03/bespreking-mijn-black-journal-pennenset/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-mijn-black-journal-pennenset)
 - [Uitslag winactie: ebook naar keuze van Saskia Schouten](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-ebook-naar-keuze-van-saskia-schouten/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-naar-keuze-van-saskia-schouten)
 - [Uitslag winactie: De super wonderlijke reis van Freddie – Jenny Pearson](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-de-super-wonderlijke-reis-van-freddie-jenny-pearson/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-de-super-wonderlijke-reis-van-freddie-jenny-pearson)
-- [Uitslag winactie: Het winkeltje in Cockleberry Bay – Nicola May](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-het-winkeltje-in-cockleberry-bay-nicola-may/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-winkeltje-in-cockleberry-bay-nicola-may)
 <!-- BLOG-POST-LIST:END -->
 
 ---
