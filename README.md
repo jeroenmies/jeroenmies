@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie: Weekplanner van uitgeverij Deltas](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-weekplanner-van-uitgeverij-deltas/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-weekplanner-van-uitgeverij-deltas)
 - [Uitslag winactie: Blauw gras – Elly Godijn](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-blauw-gras-elly-godijn/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-blauw-gras-elly-godijn)
 - [Uitslag winactie: De stad van Heimwee – Patty Harpenau](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-de-stad-van-heimwee-patty-harpenau/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-de-stad-van-heimwee-patty-harpenau)
 - [Recensie: Het meisje onder de boom – Sara Blaedel](https://conniesboekenblog.nl/2020/10/13/recensie-het-meisje-onder-de-boom-sara-blaedel/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-het-meisje-onder-de-boom-sara-blaedel)
@@ -47,7 +48,6 @@
 - [Uitslag winactie: ebook naar keuze van Saskia Schouten](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-ebook-naar-keuze-van-saskia-schouten/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebook-naar-keuze-van-saskia-schouten)
 - [Uitslag winactie: De super wonderlijke reis van Freddie – Jenny Pearson](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-de-super-wonderlijke-reis-van-freddie-jenny-pearson/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-de-super-wonderlijke-reis-van-freddie-jenny-pearson)
 - [Uitslag winactie: Het winkeltje in Cockleberry Bay – Nicola May](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-het-winkeltje-in-cockleberry-bay-nicola-may/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-winkeltje-in-cockleberry-bay-nicola-may)
-- [Uitslag winactie: De kakkerlak – Ian McEwan](https://conniesboekenblog.nl/2020/10/02/uitslag-winactie-de-kakkerlak-ian-mcewan/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-de-kakkerlak-ian-mcewan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
