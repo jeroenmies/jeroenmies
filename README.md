@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Bespreking: Johanna’s Kerstmis – Johanna Basford](https://conniesboekenblog.nl/2020/10/14/bespreking-johannas-kerstmis-johanna-basford/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-johannas-kerstmis-johanna-basford)
 - [Uitslag winactie: Dwarsligger pakket](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-dwarsligger-pakket/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-dwarsligger-pakket)
 - [Uitslag winactie: Fred en de rare vogel – Pépé Smit](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-fred-en-de-rare-vogel-pepe-smit/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-fred-en-de-rare-vogel-pepe-smit)
 - [Uitslag winactie: ebooks van Anita Verkerk](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-ebooks-van-anita-verkerk/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebooks-van-anita-verkerk)
@@ -47,7 +48,6 @@
 - [Recensie: Het meisje onder de boom – Sara Blaedel](https://conniesboekenblog.nl/2020/10/13/recensie-het-meisje-onder-de-boom-sara-blaedel/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-het-meisje-onder-de-boom-sara-blaedel)
 - [Interview met Andy Shepherd](https://conniesboekenblog.nl/2020/10/11/interview-met-andy-shepherd/?utm_source=rss&utm_medium=rss&utm_campaign=interview-met-andy-shepherd)
 - [Gelezen: Sofie speurneus – Bieber de hond is vermist – Ulrike Rylance & Lisa Hänsch](https://conniesboekenblog.nl/2020/10/04/gelezen-sofie-speurneus-bieber-de-hond-is-vermist-ulrike-rylance-lisa-hansch/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-sofie-speurneus-bieber-de-hond-is-vermist-ulrike-rylance-lisa-hansch)
-- [Bespreking: Mijn Black Journal Pennenset](https://conniesboekenblog.nl/2020/10/03/bespreking-mijn-black-journal-pennenset/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-mijn-black-journal-pennenset)
 <!-- BLOG-POST-LIST:END -->
 
 ---
