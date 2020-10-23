@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Kalle & het dino ei – Hermine Landvreugd](https://conniesboekenblog.nl/2020/10/23/gelezen-kalle-het-dino-ei-hermine-landvreugd/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-kalle-het-dino-ei-hermine-landvreugd)
 - [Nieuwe uitslagen winacties](https://conniesboekenblog.nl/2020/10/21/nieuwe-uitslagen-winacties/?utm_source=rss&utm_medium=rss&utm_campaign=nieuwe-uitslagen-winacties)
 - [Recensie: Achtervolgd – Lisa Sanders](https://conniesboekenblog.nl/2020/10/20/recensie-achtervolgd-lisa-sanders/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-achtervolgd-lisa-sanders)
 - [Nieuw verhalentijdschrift voor kinderen: Erwaseens](https://conniesboekenblog.nl/2020/10/18/nieuw-verhalentijdschrift-voor-kinderen-erwaseens/?utm_source=rss&utm_medium=rss&utm_campaign=nieuw-verhalentijdschrift-voor-kinderen-erwaseens)
@@ -47,7 +48,6 @@
 - [Uitslag winactie: ebooks van Anita Verkerk](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-ebooks-van-anita-verkerk/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebooks-van-anita-verkerk)
 - [Uitslag winactie: Weekplanner van uitgeverij Deltas](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-weekplanner-van-uitgeverij-deltas/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-weekplanner-van-uitgeverij-deltas)
 - [Uitslag winactie: Blauw gras – Elly Godijn](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-blauw-gras-elly-godijn/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-blauw-gras-elly-godijn)
-- [Uitslag winactie: De stad van Heimwee – Patty Harpenau](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-de-stad-van-heimwee-patty-harpenau/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-de-stad-van-heimwee-patty-harpenau)
 <!-- BLOG-POST-LIST:END -->
 
 ---
