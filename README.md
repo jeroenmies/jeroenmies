@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Connie’s Boekenblog staat in de Vriendin](https://conniesboekenblog.nl/2020/10/28/connies-boekenblog-staat-in-de-vriendin/?utm_source=rss&utm_medium=rss&utm_campaign=connies-boekenblog-staat-in-de-vriendin)
 - [Gelezen: De wrede prins – Holly Black](https://conniesboekenblog.nl/2020/10/25/gelezen-de-wrede-prins-holly-black/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-wrede-prins-holly-black)
 - [Gelezen: Kalle & het dino ei – Hermine Landvreugd](https://conniesboekenblog.nl/2020/10/23/gelezen-kalle-het-dino-ei-hermine-landvreugd/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-kalle-het-dino-ei-hermine-landvreugd)
 - [Nieuwe uitslagen winacties](https://conniesboekenblog.nl/2020/10/21/nieuwe-uitslagen-winacties/?utm_source=rss&utm_medium=rss&utm_campaign=nieuwe-uitslagen-winacties)
@@ -47,7 +48,6 @@
 - [Uitslag winactie: Dwarsligger pakket](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-dwarsligger-pakket/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-dwarsligger-pakket)
 - [Uitslag winactie: Fred en de rare vogel – Pépé Smit](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-fred-en-de-rare-vogel-pepe-smit/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-fred-en-de-rare-vogel-pepe-smit)
 - [Uitslag winactie: ebooks van Anita Verkerk](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-ebooks-van-anita-verkerk/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-ebooks-van-anita-verkerk)
-- [Uitslag winactie: Weekplanner van uitgeverij Deltas](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-weekplanner-van-uitgeverij-deltas/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-weekplanner-van-uitgeverij-deltas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
