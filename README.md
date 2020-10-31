@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Bespreking: Bak! – Jayne Jubb – Deel 1](https://conniesboekenblog.nl/2020/10/31/bespreking-bak-jayne-jubb-deel-1/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-bak-jayne-jubb-deel-1)
 - [Winactie: Daglicht – David Baldacci](https://conniesboekenblog.nl/2020/10/29/winactie-daglicht-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-daglicht-david-baldacci)
 - [Connie’s Boekenblog staat in de Vriendin](https://conniesboekenblog.nl/2020/10/28/connies-boekenblog-staat-in-de-vriendin/?utm_source=rss&utm_medium=rss&utm_campaign=connies-boekenblog-staat-in-de-vriendin)
 - [Gelezen: De wrede prins – Holly Black](https://conniesboekenblog.nl/2020/10/25/gelezen-de-wrede-prins-holly-black/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-wrede-prins-holly-black)
@@ -47,7 +48,6 @@
 - [Nieuw verhalentijdschrift voor kinderen: Erwaseens](https://conniesboekenblog.nl/2020/10/18/nieuw-verhalentijdschrift-voor-kinderen-erwaseens/?utm_source=rss&utm_medium=rss&utm_campaign=nieuw-verhalentijdschrift-voor-kinderen-erwaseens)
 - [Bespreking: Johanna’s Kerstmis – Johanna Basford](https://conniesboekenblog.nl/2020/10/14/bespreking-johannas-kerstmis-johanna-basford/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-johannas-kerstmis-johanna-basford)
 - [Uitslag winactie: Dwarsligger pakket](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-dwarsligger-pakket/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-dwarsligger-pakket)
-- [Uitslag winactie: Fred en de rare vogel – Pépé Smit](https://conniesboekenblog.nl/2020/10/13/uitslag-winactie-fred-en-de-rare-vogel-pepe-smit/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-fred-en-de-rare-vogel-pepe-smit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
