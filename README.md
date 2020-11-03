@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Slapen in een zee van sterren – Christopher Paolini](https://conniesboekenblog.nl/2020/11/03/gelezen-slapen-in-een-zee-van-sterren-christopher-paolini/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-slapen-in-een-zee-van-sterren-christopher-paolini)
 - [Winactie: Kerst knutselpakket](https://conniesboekenblog.nl/2020/11/02/winactie-kerst-knutselpakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kerst-knutselpakket)
 - [Bespreking: Bak! – Jayne Jubb – Deel 1](https://conniesboekenblog.nl/2020/10/31/bespreking-bak-jayne-jubb-deel-1/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-bak-jayne-jubb-deel-1)
 - [Winactie: Daglicht – David Baldacci](https://conniesboekenblog.nl/2020/10/29/winactie-daglicht-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-daglicht-david-baldacci)
@@ -47,7 +48,6 @@
 - [Nieuwe uitslagen winacties](https://conniesboekenblog.nl/2020/10/21/nieuwe-uitslagen-winacties/?utm_source=rss&utm_medium=rss&utm_campaign=nieuwe-uitslagen-winacties)
 - [Recensie: Achtervolgd – Lisa Sanders](https://conniesboekenblog.nl/2020/10/20/recensie-achtervolgd-lisa-sanders/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-achtervolgd-lisa-sanders)
 - [Nieuw verhalentijdschrift voor kinderen: Erwaseens](https://conniesboekenblog.nl/2020/10/18/nieuw-verhalentijdschrift-voor-kinderen-erwaseens/?utm_source=rss&utm_medium=rss&utm_campaign=nieuw-verhalentijdschrift-voor-kinderen-erwaseens)
-- [Bespreking: Johanna’s Kerstmis – Johanna Basford](https://conniesboekenblog.nl/2020/10/14/bespreking-johannas-kerstmis-johanna-basford/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-johannas-kerstmis-johanna-basford)
 <!-- BLOG-POST-LIST:END -->
 
 ---
