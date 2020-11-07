@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Drie weduwen – Cate Quin](https://conniesboekenblog.nl/2020/11/07/gelezen-drie-weduwen-cate-quin/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-drie-weduwen-cate-quin)
 - [Gelezen: Slapen in een zee van sterren – Christopher Paolini](https://conniesboekenblog.nl/2020/11/03/gelezen-slapen-in-een-zee-van-sterren-christopher-paolini/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-slapen-in-een-zee-van-sterren-christopher-paolini)
 - [Winactie: Kerst knutselpakket](https://conniesboekenblog.nl/2020/11/02/winactie-kerst-knutselpakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kerst-knutselpakket)
 - [Bespreking: Bak! – Jayne Jubb – Deel 1](https://conniesboekenblog.nl/2020/10/31/bespreking-bak-jayne-jubb-deel-1/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-bak-jayne-jubb-deel-1)
@@ -47,7 +48,6 @@
 - [Gelezen: Kalle & het dino ei – Hermine Landvreugd](https://conniesboekenblog.nl/2020/10/23/gelezen-kalle-het-dino-ei-hermine-landvreugd/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-kalle-het-dino-ei-hermine-landvreugd)
 - [Nieuwe uitslagen winacties](https://conniesboekenblog.nl/2020/10/21/nieuwe-uitslagen-winacties/?utm_source=rss&utm_medium=rss&utm_campaign=nieuwe-uitslagen-winacties)
 - [Recensie: Achtervolgd – Lisa Sanders](https://conniesboekenblog.nl/2020/10/20/recensie-achtervolgd-lisa-sanders/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-achtervolgd-lisa-sanders)
-- [Nieuw verhalentijdschrift voor kinderen: Erwaseens](https://conniesboekenblog.nl/2020/10/18/nieuw-verhalentijdschrift-voor-kinderen-erwaseens/?utm_source=rss&utm_medium=rss&utm_campaign=nieuw-verhalentijdschrift-voor-kinderen-erwaseens)
 <!-- BLOG-POST-LIST:END -->
 
 ---
