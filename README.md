@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: Alex B – Arjan Alberts](https://conniesboekenblog.nl/2020/11/09/recensie-alex-b-arjan-alberts/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-alex-b-arjan-alberts)
 - [Recensie: Dodemanstango – Geir Tangen](https://conniesboekenblog.nl/2020/11/08/recensie-dodemanstango-geir-tangen/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dodemanstango-geir-tangen)
 - [Gelezen: Drie weduwen – Cate Quin](https://conniesboekenblog.nl/2020/11/07/gelezen-drie-weduwen-cate-quin/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-drie-weduwen-cate-quin)
 - [Gelezen: Slapen in een zee van sterren – Christopher Paolini](https://conniesboekenblog.nl/2020/11/03/gelezen-slapen-in-een-zee-van-sterren-christopher-paolini/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-slapen-in-een-zee-van-sterren-christopher-paolini)
@@ -47,7 +48,6 @@
 - [Connie’s Boekenblog staat in de Vriendin](https://conniesboekenblog.nl/2020/10/28/connies-boekenblog-staat-in-de-vriendin/?utm_source=rss&utm_medium=rss&utm_campaign=connies-boekenblog-staat-in-de-vriendin)
 - [Gelezen: De wrede prins – Holly Black](https://conniesboekenblog.nl/2020/10/25/gelezen-de-wrede-prins-holly-black/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-wrede-prins-holly-black)
 - [Gelezen: Kalle & het dino ei – Hermine Landvreugd](https://conniesboekenblog.nl/2020/10/23/gelezen-kalle-het-dino-ei-hermine-landvreugd/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-kalle-het-dino-ei-hermine-landvreugd)
-- [Nieuwe uitslagen winacties](https://conniesboekenblog.nl/2020/10/21/nieuwe-uitslagen-winacties/?utm_source=rss&utm_medium=rss&utm_campaign=nieuwe-uitslagen-winacties)
 <!-- BLOG-POST-LIST:END -->
 
 ---
