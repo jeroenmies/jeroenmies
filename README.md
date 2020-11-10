@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Flashback – SJ Watson](https://conniesboekenblog.nl/2020/11/10/gelezen-flashback-sj-watson/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-flashback-sj-watson)
 - [Recensie: Alex B – Arjan Alberts](https://conniesboekenblog.nl/2020/11/09/recensie-alex-b-arjan-alberts/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-alex-b-arjan-alberts)
 - [Recensie: Dodemanstango – Geir Tangen](https://conniesboekenblog.nl/2020/11/08/recensie-dodemanstango-geir-tangen/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dodemanstango-geir-tangen)
 - [Gelezen: Drie weduwen – Cate Quin](https://conniesboekenblog.nl/2020/11/07/gelezen-drie-weduwen-cate-quin/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-drie-weduwen-cate-quin)
@@ -47,7 +48,6 @@
 - [Winactie: Daglicht – David Baldacci](https://conniesboekenblog.nl/2020/10/29/winactie-daglicht-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-daglicht-david-baldacci)
 - [Connie’s Boekenblog staat in de Vriendin](https://conniesboekenblog.nl/2020/10/28/connies-boekenblog-staat-in-de-vriendin/?utm_source=rss&utm_medium=rss&utm_campaign=connies-boekenblog-staat-in-de-vriendin)
 - [Gelezen: De wrede prins – Holly Black](https://conniesboekenblog.nl/2020/10/25/gelezen-de-wrede-prins-holly-black/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-wrede-prins-holly-black)
-- [Gelezen: Kalle & het dino ei – Hermine Landvreugd](https://conniesboekenblog.nl/2020/10/23/gelezen-kalle-het-dino-ei-hermine-landvreugd/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-kalle-het-dino-ei-hermine-landvreugd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
