@@ -38,16 +38,16 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie uitslag Daglicht – David Baldacci](https://conniesboekenblog.nl/2020/11/15/winactie-uitslag-daglicht-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-daglicht-david-baldacci)
 - [Gelezen: Flashback – SJ Watson](https://conniesboekenblog.nl/2020/11/10/gelezen-flashback-sj-watson/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-flashback-sj-watson)
 - [Recensie: Alex B – Arjan Alberts](https://conniesboekenblog.nl/2020/11/09/recensie-alex-b-arjan-alberts/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-alex-b-arjan-alberts)
 - [Recensie: Dodemanstango – Geir Tangen](https://conniesboekenblog.nl/2020/11/08/recensie-dodemanstango-geir-tangen/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dodemanstango-geir-tangen)
 - [Gelezen: Drie weduwen – Cate Quin](https://conniesboekenblog.nl/2020/11/07/gelezen-drie-weduwen-cate-quin/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-drie-weduwen-cate-quin)
 - [Gelezen: Slapen in een zee van sterren – Christopher Paolini](https://conniesboekenblog.nl/2020/11/03/gelezen-slapen-in-een-zee-van-sterren-christopher-paolini/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-slapen-in-een-zee-van-sterren-christopher-paolini)
-- [Winactie: Kerst knutselpakket](https://conniesboekenblog.nl/2020/11/02/winactie-kerst-knutselpakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kerst-knutselpakket)
+- [Winactie (afgelopen): Kerst knutselpakket](https://conniesboekenblog.nl/2020/11/02/winactie-kerst-knutselpakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kerst-knutselpakket)
 - [Bespreking: Bak! – Jayne Jubb – Deel 1](https://conniesboekenblog.nl/2020/10/31/bespreking-bak-jayne-jubb-deel-1/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-bak-jayne-jubb-deel-1)
-- [Winactie: Daglicht – David Baldacci](https://conniesboekenblog.nl/2020/10/29/winactie-daglicht-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-daglicht-david-baldacci)
+- [Winactie (afgelopen): Daglicht – David Baldacci](https://conniesboekenblog.nl/2020/10/29/winactie-daglicht-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-daglicht-david-baldacci)
 - [Connie’s Boekenblog staat in de Vriendin](https://conniesboekenblog.nl/2020/10/28/connies-boekenblog-staat-in-de-vriendin/?utm_source=rss&utm_medium=rss&utm_campaign=connies-boekenblog-staat-in-de-vriendin)
-- [Gelezen: De wrede prins – Holly Black](https://conniesboekenblog.nl/2020/10/25/gelezen-de-wrede-prins-holly-black/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-wrede-prins-holly-black)
 <!-- BLOG-POST-LIST:END -->
 
 ---
