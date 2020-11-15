@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie uitslag Kerst knutselpakket](https://conniesboekenblog.nl/2020/11/15/winactie-uitslag-kerst-knutselpakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-kerst-knutselpakket)
 - [Winactie uitslag Daglicht – David Baldacci](https://conniesboekenblog.nl/2020/11/15/winactie-uitslag-daglicht-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-daglicht-david-baldacci)
 - [Gelezen: Flashback – SJ Watson](https://conniesboekenblog.nl/2020/11/10/gelezen-flashback-sj-watson/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-flashback-sj-watson)
 - [Recensie: Alex B – Arjan Alberts](https://conniesboekenblog.nl/2020/11/09/recensie-alex-b-arjan-alberts/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-alex-b-arjan-alberts)
@@ -47,7 +48,6 @@
 - [Winactie (afgelopen): Kerst knutselpakket](https://conniesboekenblog.nl/2020/11/02/winactie-kerst-knutselpakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kerst-knutselpakket)
 - [Bespreking: Bak! – Jayne Jubb – Deel 1](https://conniesboekenblog.nl/2020/10/31/bespreking-bak-jayne-jubb-deel-1/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-bak-jayne-jubb-deel-1)
 - [Winactie (afgelopen): Daglicht – David Baldacci](https://conniesboekenblog.nl/2020/10/29/winactie-daglicht-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-daglicht-david-baldacci)
-- [Connie’s Boekenblog staat in de Vriendin](https://conniesboekenblog.nl/2020/10/28/connies-boekenblog-staat-in-de-vriendin/?utm_source=rss&utm_medium=rss&utm_campaign=connies-boekenblog-staat-in-de-vriendin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
