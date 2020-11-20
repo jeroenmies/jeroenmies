@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Maak kans op 1 van de 2 kerstpaketten](https://conniesboekenblog.nl/2020/11/20/winactie-maak-kans-op-1-van-de-2-kerstpaketten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-1-van-de-2-kerstpaketten)
 - [Bespreking: Catan puzzelboek – Richard wolfrik Galland](https://conniesboekenblog.nl/2020/11/20/bespreking-catan-puzzelboek-richard-wolfrik-galland/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-catan-puzzelboek-richard-wolfrik-galland)
 - [Winactie uitslag Kerst knutselpakket](https://conniesboekenblog.nl/2020/11/15/winactie-uitslag-kerst-knutselpakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-kerst-knutselpakket)
 - [Winactie uitslag Daglicht – David Baldacci](https://conniesboekenblog.nl/2020/11/15/winactie-uitslag-daglicht-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-daglicht-david-baldacci)
@@ -47,7 +48,6 @@
 - [Gelezen: Drie weduwen – Cate Quin](https://conniesboekenblog.nl/2020/11/07/gelezen-drie-weduwen-cate-quin/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-drie-weduwen-cate-quin)
 - [Gelezen: Slapen in een zee van sterren – Christopher Paolini](https://conniesboekenblog.nl/2020/11/03/gelezen-slapen-in-een-zee-van-sterren-christopher-paolini/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-slapen-in-een-zee-van-sterren-christopher-paolini)
 - [Winactie (afgelopen): Kerst knutselpakket](https://conniesboekenblog.nl/2020/11/02/winactie-kerst-knutselpakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kerst-knutselpakket)
-- [Bespreking: Bak! – Jayne Jubb – Deel 1](https://conniesboekenblog.nl/2020/10/31/bespreking-bak-jayne-jubb-deel-1/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-bak-jayne-jubb-deel-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
