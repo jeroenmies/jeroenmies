@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Een gewaarschuwd man – Michael Connelly](https://conniesboekenblog.nl/2020/11/27/gelezen-een-gewaarschuwd-man-michael-connelly/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-een-gewaarschuwd-man-michael-connelly)
 - [Gelezen: The Pie room](https://conniesboekenblog.nl/2020/11/21/gelezen-the-pie-room/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-the-pie-room)
 - [Winactie: Maak kans op 1 van de 2 kerstpaketten](https://conniesboekenblog.nl/2020/11/20/winactie-maak-kans-op-1-van-de-2-kerstpaketten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-1-van-de-2-kerstpaketten)
 - [Bespreking: Catan puzzelboek – Richard wolfrik Galland](https://conniesboekenblog.nl/2020/11/20/bespreking-catan-puzzelboek-richard-wolfrik-galland/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-catan-puzzelboek-richard-wolfrik-galland)
@@ -47,7 +48,6 @@
 - [Recensie: Alex B – Arjan Alberts](https://conniesboekenblog.nl/2020/11/09/recensie-alex-b-arjan-alberts/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-alex-b-arjan-alberts)
 - [Recensie: Dodemanstango – Geir Tangen](https://conniesboekenblog.nl/2020/11/08/recensie-dodemanstango-geir-tangen/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dodemanstango-geir-tangen)
 - [Gelezen: Drie weduwen – Cate Quin](https://conniesboekenblog.nl/2020/11/07/gelezen-drie-weduwen-cate-quin/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-drie-weduwen-cate-quin)
-- [Gelezen: Slapen in een zee van sterren – Christopher Paolini](https://conniesboekenblog.nl/2020/11/03/gelezen-slapen-in-een-zee-van-sterren-christopher-paolini/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-slapen-in-een-zee-van-sterren-christopher-paolini)
 <!-- BLOG-POST-LIST:END -->
 
 ---
