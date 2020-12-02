@@ -38,16 +38,16 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie Kerstpakketten](https://conniesboekenblog.nl/2020/12/02/uitslag-winactie-kerstpakketten/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-kerstpakketten)
 - [Recensie – De dans van de tulpen – Ibon Martín](https://conniesboekenblog.nl/2020/12/01/recensie-de-dans-van-de-tulpen-ibon-martin/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-dans-van-de-tulpen-ibon-martin)
 - [Gelezen: Een gewaarschuwd man – Michael Connelly](https://conniesboekenblog.nl/2020/11/27/gelezen-een-gewaarschuwd-man-michael-connelly/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-een-gewaarschuwd-man-michael-connelly)
 - [Gelezen: The Pie room](https://conniesboekenblog.nl/2020/11/21/gelezen-the-pie-room/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-the-pie-room)
-- [Winactie: Maak kans op 1 van de 2 kerstpaketten](https://conniesboekenblog.nl/2020/11/20/winactie-maak-kans-op-1-van-de-2-kerstpaketten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-1-van-de-2-kerstpaketten)
+- [Winactie (afgelopen): Maak kans op 1 van de 2 kerstpaketten](https://conniesboekenblog.nl/2020/11/20/winactie-maak-kans-op-1-van-de-2-kerstpaketten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-1-van-de-2-kerstpaketten)
 - [Bespreking: Catan puzzelboek – Richard wolfrik Galland](https://conniesboekenblog.nl/2020/11/20/bespreking-catan-puzzelboek-richard-wolfrik-galland/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-catan-puzzelboek-richard-wolfrik-galland)
 - [Winactie uitslag Kerst knutselpakket](https://conniesboekenblog.nl/2020/11/15/winactie-uitslag-kerst-knutselpakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-kerst-knutselpakket)
 - [Winactie uitslag Daglicht – David Baldacci](https://conniesboekenblog.nl/2020/11/15/winactie-uitslag-daglicht-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-daglicht-david-baldacci)
 - [Gelezen: Flashback – SJ Watson](https://conniesboekenblog.nl/2020/11/10/gelezen-flashback-sj-watson/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-flashback-sj-watson)
 - [Recensie: Alex B – Arjan Alberts](https://conniesboekenblog.nl/2020/11/09/recensie-alex-b-arjan-alberts/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-alex-b-arjan-alberts)
-- [Recensie: Dodemanstango – Geir Tangen](https://conniesboekenblog.nl/2020/11/08/recensie-dodemanstango-geir-tangen/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dodemanstango-geir-tangen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
