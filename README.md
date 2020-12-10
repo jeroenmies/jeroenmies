@@ -38,16 +38,16 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Aangepaste uitslag Kerstwinactie](https://conniesboekenblog.nl/2020/12/10/aangepaste-uitslag-kerstwinactie/?utm_source=rss&utm_medium=rss&utm_campaign=aangepaste-uitslag-kerstwinactie)
 - [Gelezen: Vanuit het duister – Boek 2 van de Bron – Nora Roberts](https://conniesboekenblog.nl/2020/12/09/gelezen-vanuit-het-duister-boek-2-van-de-bron-nora-roberts/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-vanuit-het-duister-boek-2-van-de-bron-nora-roberts)
 - [Gelezen: Gstaad – Kiki van Dijk](https://conniesboekenblog.nl/2020/12/08/gelezen-gstaad-kiki-van-dijk/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-gstaad-kiki-van-dijk)
-- [Uitslag winactie Kerstpakketten](https://conniesboekenblog.nl/2020/12/02/uitslag-winactie-kerstpakketten/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-kerstpakketten)
+- [Uitslag winactie Kerstpakketten – Verlopen](https://conniesboekenblog.nl/2020/12/02/uitslag-winactie-kerstpakketten/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-kerstpakketten)
 - [Recensie – De dans van de tulpen – Ibon Martín](https://conniesboekenblog.nl/2020/12/01/recensie-de-dans-van-de-tulpen-ibon-martin/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-dans-van-de-tulpen-ibon-martin)
 - [Gelezen: Een gewaarschuwd man – Michael Connelly](https://conniesboekenblog.nl/2020/11/27/gelezen-een-gewaarschuwd-man-michael-connelly/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-een-gewaarschuwd-man-michael-connelly)
 - [Gelezen: The Pie room](https://conniesboekenblog.nl/2020/11/21/gelezen-the-pie-room/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-the-pie-room)
 - [Winactie (afgelopen): Maak kans op 1 van de 2 kerstpaketten](https://conniesboekenblog.nl/2020/11/20/winactie-maak-kans-op-1-van-de-2-kerstpaketten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-1-van-de-2-kerstpaketten)
 - [Bespreking: Catan puzzelboek – Richard wolfrik Galland](https://conniesboekenblog.nl/2020/11/20/bespreking-catan-puzzelboek-richard-wolfrik-galland/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-catan-puzzelboek-richard-wolfrik-galland)
 - [Winactie uitslag Kerst knutselpakket](https://conniesboekenblog.nl/2020/11/15/winactie-uitslag-kerst-knutselpakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-kerst-knutselpakket)
-- [Winactie uitslag Daglicht – David Baldacci](https://conniesboekenblog.nl/2020/11/15/winactie-uitslag-daglicht-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-daglicht-david-baldacci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
