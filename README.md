@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Bespreking: Bak! – Jayne JuBB – deel 2](https://conniesboekenblog.nl/2020/12/16/bespreking-bak-jayne-jubb-deel-2/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-bak-jayne-jubb-deel-2)
 - [Winactie: Het visje dat verliefd was op de hemel- Mies Strelitski & Arnold de Hartog](https://conniesboekenblog.nl/2020/12/15/winactie-het-visje-dat-verliefd-was-op-de-hemel-mies-strelitski-arnold-de-hartog/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-visje-dat-verliefd-was-op-de-hemel-mies-strelitski-arnold-de-hartog)
 - [Winactie: Berlijnse nachten – Gilbert Keyzer](https://conniesboekenblog.nl/2020/12/14/winactie-berlijnse-nachten-gilbert-keyzer/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-berlijnse-nachten-gilbert-keyzer)
 - [Foto verslag: Mijn Black Journal Washi Tape](https://conniesboekenblog.nl/2020/12/11/foto-verslag-mijn-black-journal-washi-tape/?utm_source=rss&utm_medium=rss&utm_campaign=foto-verslag-mijn-black-journal-washi-tape)
@@ -47,7 +48,6 @@
 - [Uitslag winactie Kerstpakketten – Verlopen](https://conniesboekenblog.nl/2020/12/02/uitslag-winactie-kerstpakketten/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-kerstpakketten)
 - [Recensie – De dans van de tulpen – Ibon Martín](https://conniesboekenblog.nl/2020/12/01/recensie-de-dans-van-de-tulpen-ibon-martin/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-dans-van-de-tulpen-ibon-martin)
 - [Gelezen: Een gewaarschuwd man – Michael Connelly](https://conniesboekenblog.nl/2020/11/27/gelezen-een-gewaarschuwd-man-michael-connelly/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-een-gewaarschuwd-man-michael-connelly)
-- [Gelezen: The Pie room](https://conniesboekenblog.nl/2020/11/21/gelezen-the-pie-room/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-the-pie-room)
 <!-- BLOG-POST-LIST:END -->
 
 ---
