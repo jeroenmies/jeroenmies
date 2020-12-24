@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Kerst en Nieuwjaarswens 2020 – 2021](https://conniesboekenblog.nl/2020/12/24/kerst-en-nieuwjaarswens-2020-2021/?utm_source=rss&utm_medium=rss&utm_campaign=kerst-en-nieuwjaarswens-2020-2021)
 - [Bespreking: Escaperoom spel – De verlaten bibliotheek](https://conniesboekenblog.nl/2020/12/24/bespreking-escaperoom-spel-de-verlaten-bibliotheek/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-escaperoom-spel-de-verlaten-bibliotheek)
 - [Bespreking: Bak! – Jayne JuBB – deel 2](https://conniesboekenblog.nl/2020/12/16/bespreking-bak-jayne-jubb-deel-2/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-bak-jayne-jubb-deel-2)
 - [Winactie: Het visje dat verliefd was op de hemel- Mies Strelitski & Arnold de Hartog](https://conniesboekenblog.nl/2020/12/15/winactie-het-visje-dat-verliefd-was-op-de-hemel-mies-strelitski-arnold-de-hartog/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-visje-dat-verliefd-was-op-de-hemel-mies-strelitski-arnold-de-hartog)
@@ -47,7 +48,6 @@
 - [Gelezen: Vanuit het duister – Boek 2 van de Bron – Nora Roberts](https://conniesboekenblog.nl/2020/12/09/gelezen-vanuit-het-duister-boek-2-van-de-bron-nora-roberts/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-vanuit-het-duister-boek-2-van-de-bron-nora-roberts)
 - [Gelezen: Gstaad – Kiki van Dijk](https://conniesboekenblog.nl/2020/12/08/gelezen-gstaad-kiki-van-dijk/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-gstaad-kiki-van-dijk)
 - [Uitslag winactie Kerstpakketten – Verlopen](https://conniesboekenblog.nl/2020/12/02/uitslag-winactie-kerstpakketten/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-kerstpakketten)
-- [Recensie – De dans van de tulpen – Ibon Martín](https://conniesboekenblog.nl/2020/12/01/recensie-de-dans-van-de-tulpen-ibon-martin/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-dans-van-de-tulpen-ibon-martin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
