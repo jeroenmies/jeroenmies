@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Bespreking: Escaperoom spel – De verlaten bibliotheek](https://conniesboekenblog.nl/2020/12/24/bespreking-escaperoom-spel-de-verlaten-bibliotheek/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-escaperoom-spel-de-verlaten-bibliotheek)
 - [Bespreking: Bak! – Jayne JuBB – deel 2](https://conniesboekenblog.nl/2020/12/16/bespreking-bak-jayne-jubb-deel-2/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-bak-jayne-jubb-deel-2)
 - [Winactie: Het visje dat verliefd was op de hemel- Mies Strelitski & Arnold de Hartog](https://conniesboekenblog.nl/2020/12/15/winactie-het-visje-dat-verliefd-was-op-de-hemel-mies-strelitski-arnold-de-hartog/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-visje-dat-verliefd-was-op-de-hemel-mies-strelitski-arnold-de-hartog)
 - [Winactie: Berlijnse nachten – Gilbert Keyzer](https://conniesboekenblog.nl/2020/12/14/winactie-berlijnse-nachten-gilbert-keyzer/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-berlijnse-nachten-gilbert-keyzer)
@@ -47,7 +48,6 @@
 - [Gelezen: Gstaad – Kiki van Dijk](https://conniesboekenblog.nl/2020/12/08/gelezen-gstaad-kiki-van-dijk/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-gstaad-kiki-van-dijk)
 - [Uitslag winactie Kerstpakketten – Verlopen](https://conniesboekenblog.nl/2020/12/02/uitslag-winactie-kerstpakketten/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-kerstpakketten)
 - [Recensie – De dans van de tulpen – Ibon Martín](https://conniesboekenblog.nl/2020/12/01/recensie-de-dans-van-de-tulpen-ibon-martin/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-dans-van-de-tulpen-ibon-martin)
-- [Gelezen: Een gewaarschuwd man – Michael Connelly](https://conniesboekenblog.nl/2020/11/27/gelezen-een-gewaarschuwd-man-michael-connelly/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-een-gewaarschuwd-man-michael-connelly)
 <!-- BLOG-POST-LIST:END -->
 
 ---
