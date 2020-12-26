@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie: Het visje dat verliefd was op de hemel](https://conniesboekenblog.nl/2020/12/26/uitslag-winactie-het-visje-dat-verliefd-was-op-de-hemel/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-visje-dat-verliefd-was-op-de-hemel)
 - [Kerst en Nieuwjaarswens 2020 – 2021](https://conniesboekenblog.nl/2020/12/24/kerst-en-nieuwjaarswens-2020-2021/?utm_source=rss&utm_medium=rss&utm_campaign=kerst-en-nieuwjaarswens-2020-2021)
 - [Bespreking: Escaperoom spel – De verlaten bibliotheek](https://conniesboekenblog.nl/2020/12/24/bespreking-escaperoom-spel-de-verlaten-bibliotheek/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-escaperoom-spel-de-verlaten-bibliotheek)
 - [Bespreking: Bak! – Jayne JuBB – deel 2](https://conniesboekenblog.nl/2020/12/16/bespreking-bak-jayne-jubb-deel-2/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-bak-jayne-jubb-deel-2)
@@ -47,7 +48,6 @@
 - [Aangepaste uitslag Kerstwinactie](https://conniesboekenblog.nl/2020/12/10/aangepaste-uitslag-kerstwinactie/?utm_source=rss&utm_medium=rss&utm_campaign=aangepaste-uitslag-kerstwinactie)
 - [Gelezen: Vanuit het duister – Boek 2 van de Bron – Nora Roberts](https://conniesboekenblog.nl/2020/12/09/gelezen-vanuit-het-duister-boek-2-van-de-bron-nora-roberts/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-vanuit-het-duister-boek-2-van-de-bron-nora-roberts)
 - [Gelezen: Gstaad – Kiki van Dijk](https://conniesboekenblog.nl/2020/12/08/gelezen-gstaad-kiki-van-dijk/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-gstaad-kiki-van-dijk)
-- [Uitslag winactie Kerstpakketten – Verlopen](https://conniesboekenblog.nl/2020/12/02/uitslag-winactie-kerstpakketten/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-kerstpakketten)
 <!-- BLOG-POST-LIST:END -->
 
 ---
