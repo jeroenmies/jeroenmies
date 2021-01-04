@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Kleurtechnieken workshop – Julia Woning](https://conniesboekenblog.nl/2021/01/04/winactie-kleurtechnieken-workshop-julia-woning/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kleurtechnieken-workshop-julia-woning)
 - [Recensie: Blind – De vertellingen van de ondergang 4 – Kim Ten Tusscher](https://conniesboekenblog.nl/2021/01/03/recensie-blind-de-vertellingen-van-de-ondergang-4-kim-ten-tusscher/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-blind-de-vertellingen-van-de-ondergang-4-kim-ten-tusscher)
 - [Uitslag winactie: Berlijnse nachten – Gilbert Keyzer](https://conniesboekenblog.nl/2020/12/26/uitslag-winactie-berlijnse-nachten-gilbert-keyzer/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-berlijnse-nachten-gilbert-keyzer)
 - [Uitslag winactie: Het visje dat verliefd was op de hemel](https://conniesboekenblog.nl/2020/12/26/uitslag-winactie-het-visje-dat-verliefd-was-op-de-hemel/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-visje-dat-verliefd-was-op-de-hemel)
@@ -47,7 +48,6 @@
 - [Winactie: Het visje dat verliefd was op de hemel- Mies Strelitski & Arnold de Hartog](https://conniesboekenblog.nl/2020/12/15/winactie-het-visje-dat-verliefd-was-op-de-hemel-mies-strelitski-arnold-de-hartog/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-visje-dat-verliefd-was-op-de-hemel-mies-strelitski-arnold-de-hartog)
 - [Winactie: Berlijnse nachten – Gilbert Keyzer](https://conniesboekenblog.nl/2020/12/14/winactie-berlijnse-nachten-gilbert-keyzer/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-berlijnse-nachten-gilbert-keyzer)
 - [Foto verslag: Mijn Black Journal Washi Tape](https://conniesboekenblog.nl/2020/12/11/foto-verslag-mijn-black-journal-washi-tape/?utm_source=rss&utm_medium=rss&utm_campaign=foto-verslag-mijn-black-journal-washi-tape)
-- [Aangepaste uitslag Kerstwinactie](https://conniesboekenblog.nl/2020/12/10/aangepaste-uitslag-kerstwinactie/?utm_source=rss&utm_medium=rss&utm_campaign=aangepaste-uitslag-kerstwinactie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
