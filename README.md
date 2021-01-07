@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: De Jacht – Will Dean](https://conniesboekenblog.nl/2021/01/07/recensie-de-jacht-will-dean/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-jacht-will-dean)
 - [Gelezen: Verliefd, verloofd, verkleumd – Vanessa Gerrits](https://conniesboekenblog.nl/2021/01/06/gelezen-verliefd-verloofd-verkleumd-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-verliefd-verloofd-verkleumd-vanessa-gerrits)
 - [Winactie: Kleurtechnieken workshop – Julia Woning](https://conniesboekenblog.nl/2021/01/04/winactie-kleurtechnieken-workshop-julia-woning/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kleurtechnieken-workshop-julia-woning)
 - [Recensie: Blind – De vertellingen van de ondergang 4 – Kim Ten Tusscher](https://conniesboekenblog.nl/2021/01/03/recensie-blind-de-vertellingen-van-de-ondergang-4-kim-ten-tusscher/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-blind-de-vertellingen-van-de-ondergang-4-kim-ten-tusscher)
@@ -47,7 +48,6 @@
 - [Bespreking: Escaperoom spel – De verlaten bibliotheek](https://conniesboekenblog.nl/2020/12/24/bespreking-escaperoom-spel-de-verlaten-bibliotheek/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-escaperoom-spel-de-verlaten-bibliotheek)
 - [Bespreking: Bak! – Jayne JuBB – deel 2](https://conniesboekenblog.nl/2020/12/16/bespreking-bak-jayne-jubb-deel-2/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-bak-jayne-jubb-deel-2)
 - [Winactie: Het visje dat verliefd was op de hemel- Mies Strelitski & Arnold de Hartog](https://conniesboekenblog.nl/2020/12/15/winactie-het-visje-dat-verliefd-was-op-de-hemel-mies-strelitski-arnold-de-hartog/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-visje-dat-verliefd-was-op-de-hemel-mies-strelitski-arnold-de-hartog)
-- [Winactie: Berlijnse nachten – Gilbert Keyzer](https://conniesboekenblog.nl/2020/12/14/winactie-berlijnse-nachten-gilbert-keyzer/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-berlijnse-nachten-gilbert-keyzer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
