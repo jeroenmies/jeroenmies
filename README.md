@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Bespreking: Montague eiland raadsels – R. Wayne Schmittberger](https://conniesboekenblog.nl/2021/01/08/bespreking-montague-eiland-raadsels-r-wayne-schmittberger/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-montague-eiland-raadsels-r-wayne-schmittberger)
 - [Recensie: De Jacht – Will Dean](https://conniesboekenblog.nl/2021/01/07/recensie-de-jacht-will-dean/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-jacht-will-dean)
 - [Gelezen: Verliefd, verloofd, verkleumd – Vanessa Gerrits](https://conniesboekenblog.nl/2021/01/06/gelezen-verliefd-verloofd-verkleumd-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-verliefd-verloofd-verkleumd-vanessa-gerrits)
 - [Winactie: Kleurtechnieken workshop – Julia Woning](https://conniesboekenblog.nl/2021/01/04/winactie-kleurtechnieken-workshop-julia-woning/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kleurtechnieken-workshop-julia-woning)
@@ -47,7 +48,6 @@
 - [Kerst en Nieuwjaarswens 2020 – 2021](https://conniesboekenblog.nl/2020/12/24/kerst-en-nieuwjaarswens-2020-2021/?utm_source=rss&utm_medium=rss&utm_campaign=kerst-en-nieuwjaarswens-2020-2021)
 - [Bespreking: Escaperoom spel – De verlaten bibliotheek](https://conniesboekenblog.nl/2020/12/24/bespreking-escaperoom-spel-de-verlaten-bibliotheek/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-escaperoom-spel-de-verlaten-bibliotheek)
 - [Bespreking: Bak! – Jayne JuBB – deel 2](https://conniesboekenblog.nl/2020/12/16/bespreking-bak-jayne-jubb-deel-2/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-bak-jayne-jubb-deel-2)
-- [Winactie: Het visje dat verliefd was op de hemel- Mies Strelitski & Arnold de Hartog](https://conniesboekenblog.nl/2020/12/15/winactie-het-visje-dat-verliefd-was-op-de-hemel-mies-strelitski-arnold-de-hartog/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-visje-dat-verliefd-was-op-de-hemel-mies-strelitski-arnold-de-hartog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
