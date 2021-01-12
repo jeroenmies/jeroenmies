@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: Droomvakantie – Sarah Morgenthaler](https://conniesboekenblog.nl/2021/01/12/recensie-droomvakantie-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-droomvakantie-sarah-morgenthaler)
 - [Gelezen: Het sneeuwt – Kate Gardner / Brandon James Scott](https://conniesboekenblog.nl/2021/01/10/gelezen-het-sneeuwt-kate-gardner-brandon-james-scott/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-sneeuwt-kate-gardner-brandon-james-scott)
 - [Gelezen: Naar de zee – Cale Atkinson](https://conniesboekenblog.nl/2021/01/09/gelezen-naar-de-zee-cale-atkinson/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-naar-de-zee-cale-atkinson)
 - [Bespreking: Montague eiland raadsels – R. Wayne Schmittberger](https://conniesboekenblog.nl/2021/01/08/bespreking-montague-eiland-raadsels-r-wayne-schmittberger/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-montague-eiland-raadsels-r-wayne-schmittberger)
@@ -47,7 +48,6 @@
 - [Recensie: Blind – De vertellingen van de ondergang 4 – Kim Ten Tusscher](https://conniesboekenblog.nl/2021/01/03/recensie-blind-de-vertellingen-van-de-ondergang-4-kim-ten-tusscher/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-blind-de-vertellingen-van-de-ondergang-4-kim-ten-tusscher)
 - [Uitslag winactie: Berlijnse nachten – Gilbert Keyzer](https://conniesboekenblog.nl/2020/12/26/uitslag-winactie-berlijnse-nachten-gilbert-keyzer/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-berlijnse-nachten-gilbert-keyzer)
 - [Uitslag winactie: Het visje dat verliefd was op de hemel](https://conniesboekenblog.nl/2020/12/26/uitslag-winactie-het-visje-dat-verliefd-was-op-de-hemel/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-visje-dat-verliefd-was-op-de-hemel)
-- [Kerst en Nieuwjaarswens 2020 – 2021](https://conniesboekenblog.nl/2020/12/24/kerst-en-nieuwjaarswens-2020-2021/?utm_source=rss&utm_medium=rss&utm_campaign=kerst-en-nieuwjaarswens-2020-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
