@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Bloed – Kim ten Tusscher](https://conniesboekenblog.nl/2021/01/20/winactie-bloed-kim-ten-tusscher/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-bloed-kim-ten-tusscher)
 - [Bespreking: Bakken voor Dummies – Emily Nolan (Deel 1)](https://conniesboekenblog.nl/2021/01/14/bespreking-bakken-voor-dummies-emily-nolan-deel-1/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-bakken-voor-dummies-emily-nolan-deel-1)
 - [Uitslag winactie Kleurtechnieken workshop – Julia Woning](https://conniesboekenblog.nl/2021/01/12/uitslag-winactie-kleurtechnieken-workshop-julia-woning/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-kleurtechnieken-workshop-julia-woning)
 - [Recensie: Droomvakantie – Sarah Morgenthaler](https://conniesboekenblog.nl/2021/01/12/recensie-droomvakantie-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-droomvakantie-sarah-morgenthaler)
@@ -47,7 +48,6 @@
 - [Recensie: De Jacht – Will Dean](https://conniesboekenblog.nl/2021/01/07/recensie-de-jacht-will-dean/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-jacht-will-dean)
 - [Gelezen: Verliefd, verloofd, verkleumd – Vanessa Gerrits](https://conniesboekenblog.nl/2021/01/06/gelezen-verliefd-verloofd-verkleumd-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-verliefd-verloofd-verkleumd-vanessa-gerrits)
 - [Winactie (afgelopen): Kleurtechnieken workshop – Julia Woning](https://conniesboekenblog.nl/2021/01/04/winactie-kleurtechnieken-workshop-julia-woning/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kleurtechnieken-workshop-julia-woning)
-- [Recensie: Blind – De vertellingen van de ondergang 4 – Kim Ten Tusscher](https://conniesboekenblog.nl/2021/01/03/recensie-blind-de-vertellingen-van-de-ondergang-4-kim-ten-tusscher/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-blind-de-vertellingen-van-de-ondergang-4-kim-ten-tusscher)
 <!-- BLOG-POST-LIST:END -->
 
 ---
