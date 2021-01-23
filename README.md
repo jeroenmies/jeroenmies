@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Helsinki – Nathalie Pagie](https://conniesboekenblog.nl/2021/01/23/gelezen-helsinki-nathalie-pagie/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-helsinki-nathalie-pagie)
 - [Winactie: Bloed – Kim ten Tusscher](https://conniesboekenblog.nl/2021/01/20/winactie-bloed-kim-ten-tusscher/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-bloed-kim-ten-tusscher)
 - [Bespreking: Bakken voor Dummies – Emily Nolan (Deel 1)](https://conniesboekenblog.nl/2021/01/14/bespreking-bakken-voor-dummies-emily-nolan-deel-1/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-bakken-voor-dummies-emily-nolan-deel-1)
 - [Uitslag winactie Kleurtechnieken workshop – Julia Woning](https://conniesboekenblog.nl/2021/01/12/uitslag-winactie-kleurtechnieken-workshop-julia-woning/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-kleurtechnieken-workshop-julia-woning)
@@ -47,7 +48,6 @@
 - [Bespreking: Montague eiland raadsels – R. Wayne Schmittberger](https://conniesboekenblog.nl/2021/01/08/bespreking-montague-eiland-raadsels-r-wayne-schmittberger/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-montague-eiland-raadsels-r-wayne-schmittberger)
 - [Recensie: De Jacht – Will Dean](https://conniesboekenblog.nl/2021/01/07/recensie-de-jacht-will-dean/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-jacht-will-dean)
 - [Gelezen: Verliefd, verloofd, verkleumd – Vanessa Gerrits](https://conniesboekenblog.nl/2021/01/06/gelezen-verliefd-verloofd-verkleumd-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-verliefd-verloofd-verkleumd-vanessa-gerrits)
-- [Winactie (afgelopen): Kleurtechnieken workshop – Julia Woning](https://conniesboekenblog.nl/2021/01/04/winactie-kleurtechnieken-workshop-julia-woning/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kleurtechnieken-workshop-julia-woning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
