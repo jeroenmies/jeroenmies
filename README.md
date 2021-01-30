@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Het onzichtbare leven van Addie Larue – V. E. Schab](https://conniesboekenblog.nl/2021/01/30/gelezen-het-onzichtbare-leven-van-addie-larue-v-e-schab/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-onzichtbare-leven-van-addie-larue-v-e-schab)
 - [Recensie: Drie keer kloppen – Cressida Cowell](https://conniesboekenblog.nl/2021/01/28/recensie-drie-keer-kloppen-cressida-cowell/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-drie-keer-kloppen-cressida-cowell)
 - [Gelezen: Helsinki – Nathalie Pagie](https://conniesboekenblog.nl/2021/01/23/gelezen-helsinki-nathalie-pagie/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-helsinki-nathalie-pagie)
 - [Winactie: Bloed – Kim ten Tusscher](https://conniesboekenblog.nl/2021/01/20/winactie-bloed-kim-ten-tusscher/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-bloed-kim-ten-tusscher)
@@ -47,7 +48,6 @@
 - [Gelezen: Het sneeuwt – Kate Gardner / Brandon James Scott](https://conniesboekenblog.nl/2021/01/10/gelezen-het-sneeuwt-kate-gardner-brandon-james-scott/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-sneeuwt-kate-gardner-brandon-james-scott)
 - [Gelezen: Naar de zee – Cale Atkinson](https://conniesboekenblog.nl/2021/01/09/gelezen-naar-de-zee-cale-atkinson/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-naar-de-zee-cale-atkinson)
 - [Bespreking: Montague eiland raadsels – R. Wayne Schmittberger](https://conniesboekenblog.nl/2021/01/08/bespreking-montague-eiland-raadsels-r-wayne-schmittberger/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-montague-eiland-raadsels-r-wayne-schmittberger)
-- [Recensie: De Jacht – Will Dean](https://conniesboekenblog.nl/2021/01/07/recensie-de-jacht-will-dean/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-jacht-will-dean)
 <!-- BLOG-POST-LIST:END -->
 
 ---
