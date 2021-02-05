@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Droom, durf, donut – Vanessa Gerrits](https://conniesboekenblog.nl/2021/02/05/gelezen-droom-durf-donut-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-droom-durf-donut-vanessa-gerrits)
 - [Winactie uitslag: Bloed – Kim ten Tusscher](https://conniesboekenblog.nl/2021/02/02/winactie-uitslag-bloed-kim-ten-tusscher/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-bloed-kim-ten-tusscher)
 - [Gelezen: Het onzichtbare leven van Addie Larue – V. E. Schab](https://conniesboekenblog.nl/2021/01/30/gelezen-het-onzichtbare-leven-van-addie-larue-v-e-schab/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-onzichtbare-leven-van-addie-larue-v-e-schab)
 - [Recensie: Drie keer kloppen – Cressida Cowell](https://conniesboekenblog.nl/2021/01/28/recensie-drie-keer-kloppen-cressida-cowell/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-drie-keer-kloppen-cressida-cowell)
@@ -47,7 +48,6 @@
 - [Uitslag winactie Kleurtechnieken workshop – Julia Woning](https://conniesboekenblog.nl/2021/01/12/uitslag-winactie-kleurtechnieken-workshop-julia-woning/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-kleurtechnieken-workshop-julia-woning)
 - [Recensie: Droomvakantie – Sarah Morgenthaler](https://conniesboekenblog.nl/2021/01/12/recensie-droomvakantie-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-droomvakantie-sarah-morgenthaler)
 - [Gelezen: Het sneeuwt – Kate Gardner / Brandon James Scott](https://conniesboekenblog.nl/2021/01/10/gelezen-het-sneeuwt-kate-gardner-brandon-james-scott/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-sneeuwt-kate-gardner-brandon-james-scott)
-- [Gelezen: Naar de zee – Cale Atkinson](https://conniesboekenblog.nl/2021/01/09/gelezen-naar-de-zee-cale-atkinson/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-naar-de-zee-cale-atkinson)
 <!-- BLOG-POST-LIST:END -->
 
 ---
