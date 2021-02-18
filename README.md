@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/02/18/recensie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-klaverblad-floris-kleijne)
 - [Bespreking: Wenskaarten om in te kleuren – Uitgeverij Deltas](https://conniesboekenblog.nl/2021/02/15/bespreking-wenskaarten-om-in-te-kleuren-uitgeverij-deltas/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-wenskaarten-om-in-te-kleuren-uitgeverij-deltas)
 - [Gelezen: De komst van de kracht – Nora Roberts](https://conniesboekenblog.nl/2021/02/13/gelezen-de-komst-van-de-kracht-nora-roberts/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-komst-van-de-kracht-nora-roberts)
 - [Gelezen: Droom, durf, donut – Vanessa Gerrits](https://conniesboekenblog.nl/2021/02/05/gelezen-droom-durf-donut-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-droom-durf-donut-vanessa-gerrits)
@@ -47,7 +48,6 @@
 - [Gelezen: Helsinki – Nathalie Pagie](https://conniesboekenblog.nl/2021/01/23/gelezen-helsinki-nathalie-pagie/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-helsinki-nathalie-pagie)
 - [Winactie (afgelopen): Bloed – Kim ten Tusscher](https://conniesboekenblog.nl/2021/01/20/winactie-bloed-kim-ten-tusscher/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-bloed-kim-ten-tusscher)
 - [Bespreking: Bakken voor Dummies – Emily Nolan (Deel 1)](https://conniesboekenblog.nl/2021/01/14/bespreking-bakken-voor-dummies-emily-nolan-deel-1/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-bakken-voor-dummies-emily-nolan-deel-1)
-- [Uitslag winactie Kleurtechnieken workshop – Julia Woning](https://conniesboekenblog.nl/2021/01/12/uitslag-winactie-kleurtechnieken-workshop-julia-woning/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-kleurtechnieken-workshop-julia-woning)
 <!-- BLOG-POST-LIST:END -->
 
 ---
