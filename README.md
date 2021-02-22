@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/02/22/winactie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-klaverblad-floris-kleijne)
 - [Boekpresentatie: Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/02/18/boekpresentatie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=boekpresentatie-minnaar-ilse-ruijters)
 - [Recensie: Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/02/18/recensie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-klaverblad-floris-kleijne)
 - [Bespreking: Wenskaarten om in te kleuren – Uitgeverij Deltas](https://conniesboekenblog.nl/2021/02/15/bespreking-wenskaarten-om-in-te-kleuren-uitgeverij-deltas/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-wenskaarten-om-in-te-kleuren-uitgeverij-deltas)
@@ -47,7 +48,6 @@
 - [Gelezen: Het onzichtbare leven van Addie Larue – V. E. Schab](https://conniesboekenblog.nl/2021/01/30/gelezen-het-onzichtbare-leven-van-addie-larue-v-e-schab/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-onzichtbare-leven-van-addie-larue-v-e-schab)
 - [Recensie: Drie keer kloppen – Cressida Cowell](https://conniesboekenblog.nl/2021/01/28/recensie-drie-keer-kloppen-cressida-cowell/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-drie-keer-kloppen-cressida-cowell)
 - [Gelezen: Helsinki – Nathalie Pagie](https://conniesboekenblog.nl/2021/01/23/gelezen-helsinki-nathalie-pagie/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-helsinki-nathalie-pagie)
-- [Winactie (afgelopen): Bloed – Kim ten Tusscher](https://conniesboekenblog.nl/2021/01/20/winactie-bloed-kim-ten-tusscher/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-bloed-kim-ten-tusscher)
 <!-- BLOG-POST-LIST:END -->
 
 ---
