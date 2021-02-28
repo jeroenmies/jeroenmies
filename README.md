@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recepten uitproberen uit Bakken voor Dummies](https://conniesboekenblog.nl/2021/02/28/recepten-uitproberen-uit-bakken-voor-dummies/?utm_source=rss&utm_medium=rss&utm_campaign=recepten-uitproberen-uit-bakken-voor-dummies)
 - [Interview Sarah Morgenthaler](https://conniesboekenblog.nl/2021/02/26/interview-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=interview-sarah-morgenthaler)
 - [Bespreking: Boekenboek](https://conniesboekenblog.nl/2021/02/24/bespreking-boekenboek/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-boekenboek)
 - [Winactie: Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/02/22/winactie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-klaverblad-floris-kleijne)
@@ -47,7 +48,6 @@
 - [Gelezen: De komst van de kracht – Nora Roberts](https://conniesboekenblog.nl/2021/02/13/gelezen-de-komst-van-de-kracht-nora-roberts/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-komst-van-de-kracht-nora-roberts)
 - [Gelezen: Droom, durf, donut – Vanessa Gerrits](https://conniesboekenblog.nl/2021/02/05/gelezen-droom-durf-donut-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-droom-durf-donut-vanessa-gerrits)
 - [Winactie uitslag: Bloed – Kim ten Tusscher](https://conniesboekenblog.nl/2021/02/02/winactie-uitslag-bloed-kim-ten-tusscher/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-bloed-kim-ten-tusscher)
-- [Gelezen: Het onzichtbare leven van Addie Larue – V. E. Schab](https://conniesboekenblog.nl/2021/01/30/gelezen-het-onzichtbare-leven-van-addie-larue-v-e-schab/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-het-onzichtbare-leven-van-addie-larue-v-e-schab)
 <!-- BLOG-POST-LIST:END -->
 
 ---
