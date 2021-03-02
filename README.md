@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Bespreking: Lekker koken in weinig tijd – Sarah Tschernigow](https://conniesboekenblog.nl/2021/03/02/bespreking-lekker-koken-in-weinig-tijd-sarah-tschernigow/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-lekker-koken-in-weinig-tijd-sarah-tschernigow)
 - [Gelezen: Alles wat je wilt weten over sterren en planeten – Joe Rhatigan & Rain Newcomb](https://conniesboekenblog.nl/2021/03/01/gelezen-alles-wat-je-wilt-weten-over-sterren-en-planeten-joe-rhatigan-rain-newcomb/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-alles-wat-je-wilt-weten-over-sterren-en-planeten-joe-rhatigan-rain-newcomb)
 - [Recepten uitproberen uit Bakken voor Dummies](https://conniesboekenblog.nl/2021/02/28/recepten-uitproberen-uit-bakken-voor-dummies/?utm_source=rss&utm_medium=rss&utm_campaign=recepten-uitproberen-uit-bakken-voor-dummies)
 - [Interview Sarah Morgenthaler](https://conniesboekenblog.nl/2021/02/26/interview-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=interview-sarah-morgenthaler)
@@ -47,7 +48,6 @@
 - [Recensie: Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/02/18/recensie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-klaverblad-floris-kleijne)
 - [Bespreking: Wenskaarten om in te kleuren – Uitgeverij Deltas](https://conniesboekenblog.nl/2021/02/15/bespreking-wenskaarten-om-in-te-kleuren-uitgeverij-deltas/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-wenskaarten-om-in-te-kleuren-uitgeverij-deltas)
 - [Gelezen: De komst van de kracht – Nora Roberts](https://conniesboekenblog.nl/2021/02/13/gelezen-de-komst-van-de-kracht-nora-roberts/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-komst-van-de-kracht-nora-roberts)
-- [Gelezen: Droom, durf, donut – Vanessa Gerrits](https://conniesboekenblog.nl/2021/02/05/gelezen-droom-durf-donut-vanessa-gerrits/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-droom-durf-donut-vanessa-gerrits)
 <!-- BLOG-POST-LIST:END -->
 
 ---
