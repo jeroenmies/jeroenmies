@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Bullseye – Vera Stupenea](https://conniesboekenblog.nl/2021/03/07/winactie-bullseye-vera-stupenea/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-bullseye-vera-stupenea)
 - [Winactie: Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/03/03/winactie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-minnaar-ilse-ruijters)
 - [Bespreking: Lekker koken in weinig tijd – Sarah Tschernigow](https://conniesboekenblog.nl/2021/03/02/bespreking-lekker-koken-in-weinig-tijd-sarah-tschernigow/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-lekker-koken-in-weinig-tijd-sarah-tschernigow)
 - [Gelezen: Alles wat je wilt weten over sterren en planeten – Joe Rhatigan & Rain Newcomb](https://conniesboekenblog.nl/2021/03/01/gelezen-alles-wat-je-wilt-weten-over-sterren-en-planeten-joe-rhatigan-rain-newcomb/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-alles-wat-je-wilt-weten-over-sterren-en-planeten-joe-rhatigan-rain-newcomb)
@@ -47,7 +48,6 @@
 - [Winactie: Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/02/22/winactie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-klaverblad-floris-kleijne)
 - [Boekpresentatie: Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/02/18/boekpresentatie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=boekpresentatie-minnaar-ilse-ruijters)
 - [Recensie: Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/02/18/recensie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-klaverblad-floris-kleijne)
-- [Bespreking: Wenskaarten om in te kleuren – Uitgeverij Deltas](https://conniesboekenblog.nl/2021/02/15/bespreking-wenskaarten-om-in-te-kleuren-uitgeverij-deltas/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-wenskaarten-om-in-te-kleuren-uitgeverij-deltas)
 <!-- BLOG-POST-LIST:END -->
 
 ---
