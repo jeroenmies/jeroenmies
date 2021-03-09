@@ -45,7 +45,7 @@
 - [Recepten uitproberen uit Bakken voor Dummies](https://conniesboekenblog.nl/2021/02/28/recepten-uitproberen-uit-bakken-voor-dummies/?utm_source=rss&utm_medium=rss&utm_campaign=recepten-uitproberen-uit-bakken-voor-dummies)
 - [Interview Sarah Morgenthaler](https://conniesboekenblog.nl/2021/02/26/interview-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=interview-sarah-morgenthaler)
 - [Bespreking: Boekenboek](https://conniesboekenblog.nl/2021/02/24/bespreking-boekenboek/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-boekenboek)
-- [Winactie: Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/02/22/winactie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-klaverblad-floris-kleijne)
+- [Winactie (afgelopen): Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/02/22/winactie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-klaverblad-floris-kleijne)
 - [Boekpresentatie: Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/02/18/boekpresentatie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=boekpresentatie-minnaar-ilse-ruijters)
 - [Recensie: Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/02/18/recensie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-klaverblad-floris-kleijne)
 <!-- BLOG-POST-LIST:END -->
