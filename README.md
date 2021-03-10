@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/03/10/uitslag-winactie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-klaverblad-floris-kleijne)
 - [Winactie: Bullseye – Vera Stupenea](https://conniesboekenblog.nl/2021/03/07/winactie-bullseye-vera-stupenea/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-bullseye-vera-stupenea)
 - [Winactie: Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/03/03/winactie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-minnaar-ilse-ruijters)
 - [Bespreking: Lekker koken in weinig tijd – Sarah Tschernigow](https://conniesboekenblog.nl/2021/03/02/bespreking-lekker-koken-in-weinig-tijd-sarah-tschernigow/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-lekker-koken-in-weinig-tijd-sarah-tschernigow)
@@ -47,7 +48,6 @@
 - [Bespreking: Boekenboek](https://conniesboekenblog.nl/2021/02/24/bespreking-boekenboek/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-boekenboek)
 - [Winactie (afgelopen): Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/02/22/winactie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-klaverblad-floris-kleijne)
 - [Boekpresentatie: Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/02/18/boekpresentatie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=boekpresentatie-minnaar-ilse-ruijters)
-- [Recensie: Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/02/18/recensie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-klaverblad-floris-kleijne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
