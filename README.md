@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Kobo Original – Liefs uit Londen – Iris visser](https://conniesboekenblog.nl/2021/03/14/gelezen-kobo-original-liefs-uit-londen-iris-visser/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-kobo-original-liefs-uit-londen-iris-visser)
 - [Bespreking: Cirkel van het leven – een kleurrijke wereldreis – Meni Chatzipanagiotou](https://conniesboekenblog.nl/2021/03/10/bespreking-cirkel-van-het-leven-een-kleurrijke-wereldreis-meni-chatzipanagiotou/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-cirkel-van-het-leven-een-kleurrijke-wereldreis-meni-chatzipanagiotou)
 - [Uitslag winactie Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/03/10/uitslag-winactie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-klaverblad-floris-kleijne)
 - [Winactie: Bullseye – Vera Stupenea](https://conniesboekenblog.nl/2021/03/07/winactie-bullseye-vera-stupenea/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-bullseye-vera-stupenea)
@@ -47,7 +48,6 @@
 - [Recepten uitproberen uit Bakken voor Dummies](https://conniesboekenblog.nl/2021/02/28/recepten-uitproberen-uit-bakken-voor-dummies/?utm_source=rss&utm_medium=rss&utm_campaign=recepten-uitproberen-uit-bakken-voor-dummies)
 - [Interview Sarah Morgenthaler](https://conniesboekenblog.nl/2021/02/26/interview-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=interview-sarah-morgenthaler)
 - [Bespreking: Boekenboek](https://conniesboekenblog.nl/2021/02/24/bespreking-boekenboek/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-boekenboek)
-- [Winactie (afgelopen): Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/02/22/winactie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-klaverblad-floris-kleijne)
 <!-- BLOG-POST-LIST:END -->
 
 ---
