@@ -38,16 +38,16 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/03/14/uitslag-winactie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-minnaar-ilse-ruijters)
 - [Gelezen: Kobo Original – Liefs uit Londen – Iris visser](https://conniesboekenblog.nl/2021/03/14/gelezen-kobo-original-liefs-uit-londen-iris-visser/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-kobo-original-liefs-uit-londen-iris-visser)
 - [Bespreking: Cirkel van het leven – een kleurrijke wereldreis – Meni Chatzipanagiotou](https://conniesboekenblog.nl/2021/03/10/bespreking-cirkel-van-het-leven-een-kleurrijke-wereldreis-meni-chatzipanagiotou/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-cirkel-van-het-leven-een-kleurrijke-wereldreis-meni-chatzipanagiotou)
 - [Uitslag winactie Klaverblad – Floris Kleijne](https://conniesboekenblog.nl/2021/03/10/uitslag-winactie-klaverblad-floris-kleijne/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-klaverblad-floris-kleijne)
 - [Winactie: Bullseye – Vera Stupenea](https://conniesboekenblog.nl/2021/03/07/winactie-bullseye-vera-stupenea/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-bullseye-vera-stupenea)
-- [Winactie: Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/03/03/winactie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-minnaar-ilse-ruijters)
+- [Winactie (afgelopen): Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/03/03/winactie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-minnaar-ilse-ruijters)
 - [Bespreking: Lekker koken in weinig tijd – Sarah Tschernigow](https://conniesboekenblog.nl/2021/03/02/bespreking-lekker-koken-in-weinig-tijd-sarah-tschernigow/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-lekker-koken-in-weinig-tijd-sarah-tschernigow)
 - [Gelezen: Alles wat je wilt weten over sterren en planeten – Joe Rhatigan & Rain Newcomb](https://conniesboekenblog.nl/2021/03/01/gelezen-alles-wat-je-wilt-weten-over-sterren-en-planeten-joe-rhatigan-rain-newcomb/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-alles-wat-je-wilt-weten-over-sterren-en-planeten-joe-rhatigan-rain-newcomb)
 - [Recepten uitproberen uit Bakken voor Dummies](https://conniesboekenblog.nl/2021/02/28/recepten-uitproberen-uit-bakken-voor-dummies/?utm_source=rss&utm_medium=rss&utm_campaign=recepten-uitproberen-uit-bakken-voor-dummies)
 - [Interview Sarah Morgenthaler](https://conniesboekenblog.nl/2021/02/26/interview-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=interview-sarah-morgenthaler)
-- [Bespreking: Boekenboek](https://conniesboekenblog.nl/2021/02/24/bespreking-boekenboek/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-boekenboek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
