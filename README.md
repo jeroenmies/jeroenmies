@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Later – Stephen King](https://conniesboekenblog.nl/2021/03/20/gelezen-later-stephen-king/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-later-stephen-king)
 - [Blogtour: Oorlogsdochters – Rhys Bowen](https://conniesboekenblog.nl/2021/03/18/blogtour-oorlogsdochters-rhys-bowen/?utm_source=rss&utm_medium=rss&utm_campaign=blogtour-oorlogsdochters-rhys-bowen)
 - [Uitslag winactie Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/03/14/uitslag-winactie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-minnaar-ilse-ruijters)
 - [Gelezen: Kobo Original – Liefs uit Londen – Iris visser](https://conniesboekenblog.nl/2021/03/14/gelezen-kobo-original-liefs-uit-londen-iris-visser/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-kobo-original-liefs-uit-londen-iris-visser)
@@ -47,7 +48,6 @@
 - [Winactie (afgelopen): Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/03/03/winactie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-minnaar-ilse-ruijters)
 - [Bespreking: Lekker koken in weinig tijd – Sarah Tschernigow](https://conniesboekenblog.nl/2021/03/02/bespreking-lekker-koken-in-weinig-tijd-sarah-tschernigow/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-lekker-koken-in-weinig-tijd-sarah-tschernigow)
 - [Gelezen: Alles wat je wilt weten over sterren en planeten – Joe Rhatigan & Rain Newcomb](https://conniesboekenblog.nl/2021/03/01/gelezen-alles-wat-je-wilt-weten-over-sterren-en-planeten-joe-rhatigan-rain-newcomb/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-alles-wat-je-wilt-weten-over-sterren-en-planeten-joe-rhatigan-rain-newcomb)
-- [Recepten uitproberen uit Bakken voor Dummies](https://conniesboekenblog.nl/2021/02/28/recepten-uitproberen-uit-bakken-voor-dummies/?utm_source=rss&utm_medium=rss&utm_campaign=recepten-uitproberen-uit-bakken-voor-dummies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
