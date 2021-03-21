@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [3 belangrijke redenen om ramsj boeken te kopen!](https://conniesboekenblog.nl/2021/03/21/3-belangrijke-redenen-om-ramsj-boeken-te-kopen/?utm_source=rss&utm_medium=rss&utm_campaign=3-belangrijke-redenen-om-ramsj-boeken-te-kopen)
 - [Gelezen: Later – Stephen King](https://conniesboekenblog.nl/2021/03/20/gelezen-later-stephen-king/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-later-stephen-king)
 - [Blogtour: Oorlogsdochters – Rhys Bowen](https://conniesboekenblog.nl/2021/03/18/blogtour-oorlogsdochters-rhys-bowen/?utm_source=rss&utm_medium=rss&utm_campaign=blogtour-oorlogsdochters-rhys-bowen)
 - [Uitslag winactie Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/03/14/uitslag-winactie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-minnaar-ilse-ruijters)
@@ -47,7 +48,6 @@
 - [Winactie: Bullseye – Vera Stupenea](https://conniesboekenblog.nl/2021/03/07/winactie-bullseye-vera-stupenea/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-bullseye-vera-stupenea)
 - [Winactie (afgelopen): Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/03/03/winactie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-minnaar-ilse-ruijters)
 - [Bespreking: Lekker koken in weinig tijd – Sarah Tschernigow](https://conniesboekenblog.nl/2021/03/02/bespreking-lekker-koken-in-weinig-tijd-sarah-tschernigow/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-lekker-koken-in-weinig-tijd-sarah-tschernigow)
-- [Gelezen: Alles wat je wilt weten over sterren en planeten – Joe Rhatigan & Rain Newcomb](https://conniesboekenblog.nl/2021/03/01/gelezen-alles-wat-je-wilt-weten-over-sterren-en-planeten-joe-rhatigan-rain-newcomb/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-alles-wat-je-wilt-weten-over-sterren-en-planeten-joe-rhatigan-rain-newcomb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
