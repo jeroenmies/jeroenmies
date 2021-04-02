@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: Als je me ziet – Lisa Gardner](https://conniesboekenblog.nl/2021/04/02/recensie-als-je-me-ziet-lisa-gardner/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-als-je-me-ziet-lisa-gardner)
 - [Gelezen: Raar maar waar – Dierenweetjes – Halfbob](https://conniesboekenblog.nl/2021/04/01/gelezen-raar-maar-waar-dierenweetjes-halfbob/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-raar-maar-waar-dierenweetjes-halfbob)
 - [Recensie / blogtour: Weerwolven van Waraine – Eva Linden](https://conniesboekenblog.nl/2021/03/31/recensie-blogtour-weerwolven-van-waraine-eva-linden/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-blogtour-weerwolven-van-waraine-eva-linden)
 - [Maak kans op dit boekenpakket](https://conniesboekenblog.nl/2021/03/25/maak-kans-op-dit-boekenpakket/?utm_source=rss&utm_medium=rss&utm_campaign=maak-kans-op-dit-boekenpakket)
@@ -47,7 +48,6 @@
 - [Blogtour: Oorlogsdochters – Rhys Bowen](https://conniesboekenblog.nl/2021/03/18/blogtour-oorlogsdochters-rhys-bowen/?utm_source=rss&utm_medium=rss&utm_campaign=blogtour-oorlogsdochters-rhys-bowen)
 - [Uitslag winactie Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/03/14/uitslag-winactie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-minnaar-ilse-ruijters)
 - [Gelezen: Kobo Original – Liefs uit Londen – Iris visser](https://conniesboekenblog.nl/2021/03/14/gelezen-kobo-original-liefs-uit-londen-iris-visser/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-kobo-original-liefs-uit-londen-iris-visser)
-- [Bespreking: Cirkel van het leven – een kleurrijke wereldreis – Meni Chatzipanagiotou](https://conniesboekenblog.nl/2021/03/10/bespreking-cirkel-van-het-leven-een-kleurrijke-wereldreis-meni-chatzipanagiotou/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-cirkel-van-het-leven-een-kleurrijke-wereldreis-meni-chatzipanagiotou)
 <!-- BLOG-POST-LIST:END -->
 
 ---
