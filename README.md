@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Ozzie Uil wil niet slapen – Debi Giori](https://conniesboekenblog.nl/2021/04/06/gelezen-ozzie-uil-wil-niet-slapen-debi-giori/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-ozzie-uil-wil-niet-slapen-debi-giori)
 - [Recensie: Als je me ziet – Lisa Gardner](https://conniesboekenblog.nl/2021/04/02/recensie-als-je-me-ziet-lisa-gardner/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-als-je-me-ziet-lisa-gardner)
 - [Gelezen: Raar maar waar – Dierenweetjes – Halfbob](https://conniesboekenblog.nl/2021/04/01/gelezen-raar-maar-waar-dierenweetjes-halfbob/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-raar-maar-waar-dierenweetjes-halfbob)
 - [Recensie / blogtour: Weerwolven van Waraine – Eva Linden](https://conniesboekenblog.nl/2021/03/31/recensie-blogtour-weerwolven-van-waraine-eva-linden/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-blogtour-weerwolven-van-waraine-eva-linden)
@@ -47,7 +48,6 @@
 - [Gelezen: Later – Stephen King](https://conniesboekenblog.nl/2021/03/20/gelezen-later-stephen-king/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-later-stephen-king)
 - [Blogtour: Oorlogsdochters – Rhys Bowen](https://conniesboekenblog.nl/2021/03/18/blogtour-oorlogsdochters-rhys-bowen/?utm_source=rss&utm_medium=rss&utm_campaign=blogtour-oorlogsdochters-rhys-bowen)
 - [Uitslag winactie Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/03/14/uitslag-winactie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-minnaar-ilse-ruijters)
-- [Gelezen: Kobo Original – Liefs uit Londen – Iris visser](https://conniesboekenblog.nl/2021/03/14/gelezen-kobo-original-liefs-uit-londen-iris-visser/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-kobo-original-liefs-uit-londen-iris-visser)
 <!-- BLOG-POST-LIST:END -->
 
 ---
