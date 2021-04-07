@@ -38,16 +38,16 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie boekenpakket](https://conniesboekenblog.nl/2021/04/07/uitslag-winactie-boekenpakket/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-boekenpakket)
 - [Gelezen: Ozzie Uil wil niet slapen – Debi Giori](https://conniesboekenblog.nl/2021/04/06/gelezen-ozzie-uil-wil-niet-slapen-debi-giori/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-ozzie-uil-wil-niet-slapen-debi-giori)
 - [Recensie: Als je me ziet – Lisa Gardner](https://conniesboekenblog.nl/2021/04/02/recensie-als-je-me-ziet-lisa-gardner/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-als-je-me-ziet-lisa-gardner)
 - [Gelezen: Raar maar waar – Dierenweetjes – Halfbob](https://conniesboekenblog.nl/2021/04/01/gelezen-raar-maar-waar-dierenweetjes-halfbob/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-raar-maar-waar-dierenweetjes-halfbob)
 - [Recensie / blogtour: Weerwolven van Waraine – Eva Linden](https://conniesboekenblog.nl/2021/03/31/recensie-blogtour-weerwolven-van-waraine-eva-linden/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-blogtour-weerwolven-van-waraine-eva-linden)
-- [Maak kans op dit boekenpakket](https://conniesboekenblog.nl/2021/03/25/maak-kans-op-dit-boekenpakket/?utm_source=rss&utm_medium=rss&utm_campaign=maak-kans-op-dit-boekenpakket)
+- [Winactie (afgelopen) Maak kans op dit boekenpakket](https://conniesboekenblog.nl/2021/03/25/maak-kans-op-dit-boekenpakket/?utm_source=rss&utm_medium=rss&utm_campaign=maak-kans-op-dit-boekenpakket)
 - [Gelezen: Beter op reis – Viora Rebergen & Joost van Willigenburg](https://conniesboekenblog.nl/2021/03/24/gelezen-beter-op-reis-viora-rebergen-joost-van-willigenburg/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-beter-op-reis-viora-rebergen-joost-van-willigenburg)
 - [3 belangrijke redenen om ramsj boeken te kopen!](https://conniesboekenblog.nl/2021/03/21/3-belangrijke-redenen-om-ramsj-boeken-te-kopen/?utm_source=rss&utm_medium=rss&utm_campaign=3-belangrijke-redenen-om-ramsj-boeken-te-kopen)
 - [Gelezen: Later – Stephen King](https://conniesboekenblog.nl/2021/03/20/gelezen-later-stephen-king/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-later-stephen-king)
 - [Blogtour: Oorlogsdochters – Rhys Bowen](https://conniesboekenblog.nl/2021/03/18/blogtour-oorlogsdochters-rhys-bowen/?utm_source=rss&utm_medium=rss&utm_campaign=blogtour-oorlogsdochters-rhys-bowen)
-- [Uitslag winactie Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/03/14/uitslag-winactie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-minnaar-ilse-ruijters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
