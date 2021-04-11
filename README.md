@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: O jee, mama is een fee!](https://conniesboekenblog.nl/2021/04/11/gelezen-o-jee-mama-is-een-fee/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-o-jee-mama-is-een-fee)
 - [Winactie: Het geschenk – Sebastian Fitzek](https://conniesboekenblog.nl/2021/04/09/winactie-het-geschenk-sebastian-fitzek/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-geschenk-sebastian-fitzek)
 - [Uitslag winactie Bullseye – Vera Stupenea](https://conniesboekenblog.nl/2021/04/08/bullseye-vera-stupenea/?utm_source=rss&utm_medium=rss&utm_campaign=bullseye-vera-stupenea)
 - [Recensie: Droom man – Sarah Morgenthaler](https://conniesboekenblog.nl/2021/04/08/recensie-droom-man-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-droom-man-sarah-morgenthaler)
@@ -47,7 +48,6 @@
 - [Gelezen: Raar maar waar – Dierenweetjes – Halfbob](https://conniesboekenblog.nl/2021/04/01/gelezen-raar-maar-waar-dierenweetjes-halfbob/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-raar-maar-waar-dierenweetjes-halfbob)
 - [Recensie / blogtour: Weerwolven van Waraine – Eva Linden](https://conniesboekenblog.nl/2021/03/31/recensie-blogtour-weerwolven-van-waraine-eva-linden/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-blogtour-weerwolven-van-waraine-eva-linden)
 - [Winactie (afgelopen) Maak kans op dit boekenpakket](https://conniesboekenblog.nl/2021/03/25/maak-kans-op-dit-boekenpakket/?utm_source=rss&utm_medium=rss&utm_campaign=maak-kans-op-dit-boekenpakket)
-- [Gelezen: Beter op reis – Viora Rebergen & Joost van Willigenburg](https://conniesboekenblog.nl/2021/03/24/gelezen-beter-op-reis-viora-rebergen-joost-van-willigenburg/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-beter-op-reis-viora-rebergen-joost-van-willigenburg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
