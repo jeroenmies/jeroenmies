@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Maak kans op het boek Mam vertel eens van Elma van Vliet](https://conniesboekenblog.nl/2021/04/19/winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet)
 - [Recensie: Het geschenk – Sebastian Fitzek](https://conniesboekenblog.nl/2021/04/14/recensie-het-geschenk-sebastian-fitzek/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-het-geschenk-sebastian-fitzek)
 - [Gelezen: O jee, mama is een fee!](https://conniesboekenblog.nl/2021/04/11/gelezen-o-jee-mama-is-een-fee/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-o-jee-mama-is-een-fee)
 - [Winactie: Het geschenk – Sebastian Fitzek](https://conniesboekenblog.nl/2021/04/09/winactie-het-geschenk-sebastian-fitzek/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-geschenk-sebastian-fitzek)
@@ -47,7 +48,6 @@
 - [Gelezen: Ozzie Uil wil niet slapen – Debi Giori](https://conniesboekenblog.nl/2021/04/06/gelezen-ozzie-uil-wil-niet-slapen-debi-giori/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-ozzie-uil-wil-niet-slapen-debi-giori)
 - [Recensie: Als je me ziet – Lisa Gardner](https://conniesboekenblog.nl/2021/04/02/recensie-als-je-me-ziet-lisa-gardner/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-als-je-me-ziet-lisa-gardner)
 - [Gelezen: Raar maar waar – Dierenweetjes – Halfbob](https://conniesboekenblog.nl/2021/04/01/gelezen-raar-maar-waar-dierenweetjes-halfbob/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-raar-maar-waar-dierenweetjes-halfbob)
-- [Recensie / blogtour: Weerwolven van Waraine – Eva Linden](https://conniesboekenblog.nl/2021/03/31/recensie-blogtour-weerwolven-van-waraine-eva-linden/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-blogtour-weerwolven-van-waraine-eva-linden)
 <!-- BLOG-POST-LIST:END -->
 
 ---
