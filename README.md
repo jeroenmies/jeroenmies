@@ -43,7 +43,7 @@
 - [Winactie: Maak kans op het boek Mam vertel eens van Elma van Vliet](https://conniesboekenblog.nl/2021/04/19/winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet)
 - [Recensie: Het geschenk – Sebastian Fitzek](https://conniesboekenblog.nl/2021/04/14/recensie-het-geschenk-sebastian-fitzek/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-het-geschenk-sebastian-fitzek)
 - [Gelezen: O jee, mama is een fee!](https://conniesboekenblog.nl/2021/04/11/gelezen-o-jee-mama-is-een-fee/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-o-jee-mama-is-een-fee)
-- [Winactie: Het geschenk – Sebastian Fitzek](https://conniesboekenblog.nl/2021/04/09/winactie-het-geschenk-sebastian-fitzek/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-geschenk-sebastian-fitzek)
+- [Winactie (afgelopen): Het geschenk – Sebastian Fitzek](https://conniesboekenblog.nl/2021/04/09/winactie-het-geschenk-sebastian-fitzek/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-geschenk-sebastian-fitzek)
 - [Uitslag winactie Bullseye – Vera Stupenea](https://conniesboekenblog.nl/2021/04/08/bullseye-vera-stupenea/?utm_source=rss&utm_medium=rss&utm_campaign=bullseye-vera-stupenea)
 - [Recensie: Droom man – Sarah Morgenthaler](https://conniesboekenblog.nl/2021/04/08/recensie-droom-man-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-droom-man-sarah-morgenthaler)
 - [Uitslag winactie boekenpakket](https://conniesboekenblog.nl/2021/04/07/uitslag-winactie-boekenpakket/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-boekenpakket)
