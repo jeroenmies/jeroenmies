@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Geef een (prenten)boek cadeau](https://conniesboekenblog.nl/2021/04/24/geef-een-prentenboek-cadeau-2/?utm_source=rss&utm_medium=rss&utm_campaign=geef-een-prentenboek-cadeau-2)
 - [Gelezen: De wereld van de Dinosaurussen – Nick Forshaw & Andy Forshaw](https://conniesboekenblog.nl/2021/04/21/gelezen-de-wereld-van-de-dinosaurussen-nick-forshaw-andy-forshaw/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-wereld-van-de-dinosaurussen-nick-forshaw-andy-forshaw)
 - [Winactie: Maak kans op het boek Mam vertel eens van Elma van Vliet](https://conniesboekenblog.nl/2021/04/19/winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet)
 - [Recensie: Het geschenk – Sebastian Fitzek](https://conniesboekenblog.nl/2021/04/14/recensie-het-geschenk-sebastian-fitzek/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-het-geschenk-sebastian-fitzek)
@@ -47,7 +48,6 @@
 - [Recensie: Droom man – Sarah Morgenthaler](https://conniesboekenblog.nl/2021/04/08/recensie-droom-man-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-droom-man-sarah-morgenthaler)
 - [Uitslag winactie boekenpakket](https://conniesboekenblog.nl/2021/04/07/uitslag-winactie-boekenpakket/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-boekenpakket)
 - [Gelezen: Ozzie Uil wil niet slapen – Debi Giori](https://conniesboekenblog.nl/2021/04/06/gelezen-ozzie-uil-wil-niet-slapen-debi-giori/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-ozzie-uil-wil-niet-slapen-debi-giori)
-- [Recensie: Als je me ziet – Lisa Gardner](https://conniesboekenblog.nl/2021/04/02/recensie-als-je-me-ziet-lisa-gardner/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-als-je-me-ziet-lisa-gardner)
 <!-- BLOG-POST-LIST:END -->
 
 ---
