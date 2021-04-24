@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie: Het geschenk](https://conniesboekenblog.nl/2021/04/24/uitslag-winactie-het-geschenk/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-geschenk)
 - [Geef een (prenten)boek cadeau](https://conniesboekenblog.nl/2021/04/24/geef-een-prentenboek-cadeau-2/?utm_source=rss&utm_medium=rss&utm_campaign=geef-een-prentenboek-cadeau-2)
 - [Gelezen: De wereld van de Dinosaurussen – Nick Forshaw & Andy Forshaw](https://conniesboekenblog.nl/2021/04/21/gelezen-de-wereld-van-de-dinosaurussen-nick-forshaw-andy-forshaw/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-wereld-van-de-dinosaurussen-nick-forshaw-andy-forshaw)
 - [Winactie: Maak kans op het boek Mam vertel eens van Elma van Vliet](https://conniesboekenblog.nl/2021/04/19/winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet)
@@ -47,7 +48,6 @@
 - [Uitslag winactie Bullseye – Vera Stupenea](https://conniesboekenblog.nl/2021/04/08/bullseye-vera-stupenea/?utm_source=rss&utm_medium=rss&utm_campaign=bullseye-vera-stupenea)
 - [Recensie: Droom man – Sarah Morgenthaler](https://conniesboekenblog.nl/2021/04/08/recensie-droom-man-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-droom-man-sarah-morgenthaler)
 - [Uitslag winactie boekenpakket](https://conniesboekenblog.nl/2021/04/07/uitslag-winactie-boekenpakket/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-boekenpakket)
-- [Gelezen: Ozzie Uil wil niet slapen – Debi Giori](https://conniesboekenblog.nl/2021/04/06/gelezen-ozzie-uil-wil-niet-slapen-debi-giori/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-ozzie-uil-wil-niet-slapen-debi-giori)
 <!-- BLOG-POST-LIST:END -->
 
 ---
