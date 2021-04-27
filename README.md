@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: Historische verhalen – Verzamelbundel vijf](https://conniesboekenblog.nl/2021/04/27/recensie-historische-verhalen-verzamelbundel-vijf/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-historische-verhalen-verzamelbundel-vijf)
 - [Recensie: De terugkeer van de Schaduwheer – Zutje & Deviss](https://conniesboekenblog.nl/2021/04/25/recensie-de-terugkeer-van-de-schaduwheer-zutje-deviss/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-terugkeer-van-de-schaduwheer-zutje-deviss)
 - [Uitslag winactie: Het geschenk](https://conniesboekenblog.nl/2021/04/24/uitslag-winactie-het-geschenk/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-geschenk)
 - [Geef een (prenten)boek cadeau](https://conniesboekenblog.nl/2021/04/24/geef-een-prentenboek-cadeau-2/?utm_source=rss&utm_medium=rss&utm_campaign=geef-een-prentenboek-cadeau-2)
@@ -47,7 +48,6 @@
 - [Gelezen: O jee, mama is een fee!](https://conniesboekenblog.nl/2021/04/11/gelezen-o-jee-mama-is-een-fee/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-o-jee-mama-is-een-fee)
 - [Winactie (afgelopen): Het geschenk – Sebastian Fitzek](https://conniesboekenblog.nl/2021/04/09/winactie-het-geschenk-sebastian-fitzek/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-geschenk-sebastian-fitzek)
 - [Uitslag winactie Bullseye – Vera Stupenea](https://conniesboekenblog.nl/2021/04/08/bullseye-vera-stupenea/?utm_source=rss&utm_medium=rss&utm_campaign=bullseye-vera-stupenea)
-- [Recensie: Droom man – Sarah Morgenthaler](https://conniesboekenblog.nl/2021/04/08/recensie-droom-man-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-droom-man-sarah-morgenthaler)
 <!-- BLOG-POST-LIST:END -->
 
 ---
