@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Bespreking: 1001 schattige dieren kleuren – Lulu Mayo](https://conniesboekenblog.nl/2021/05/01/bespreking-1001-schattige-dieren-kleuren-lulu-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-1001-schattige-dieren-kleuren-lulu-mayo)
 - [Gelezen: Een goede daad – David Baldacci](https://conniesboekenblog.nl/2021/04/30/gelezen-een-goede-daad-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-een-goede-daad-david-baldacci)
 - [Recensie: Historische verhalen – Verzamelbundel vijf](https://conniesboekenblog.nl/2021/04/27/recensie-historische-verhalen-verzamelbundel-vijf/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-historische-verhalen-verzamelbundel-vijf)
 - [Recensie: De terugkeer van de Schaduwheer – Zutje & Deviss](https://conniesboekenblog.nl/2021/04/25/recensie-de-terugkeer-van-de-schaduwheer-zutje-deviss/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-terugkeer-van-de-schaduwheer-zutje-deviss)
@@ -47,7 +48,6 @@
 - [Winactie: Maak kans op het boek Mam vertel eens van Elma van Vliet](https://conniesboekenblog.nl/2021/04/19/winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet)
 - [Recensie: Het geschenk – Sebastian Fitzek](https://conniesboekenblog.nl/2021/04/14/recensie-het-geschenk-sebastian-fitzek/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-het-geschenk-sebastian-fitzek)
 - [Gelezen: O jee, mama is een fee!](https://conniesboekenblog.nl/2021/04/11/gelezen-o-jee-mama-is-een-fee/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-o-jee-mama-is-een-fee)
-- [Winactie (afgelopen): Het geschenk – Sebastian Fitzek](https://conniesboekenblog.nl/2021/04/09/winactie-het-geschenk-sebastian-fitzek/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-geschenk-sebastian-fitzek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
