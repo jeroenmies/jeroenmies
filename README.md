@@ -46,7 +46,7 @@
 - [Uitslag winactie: Het geschenk](https://conniesboekenblog.nl/2021/04/24/uitslag-winactie-het-geschenk/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-geschenk)
 - [Geef een (prenten)boek cadeau](https://conniesboekenblog.nl/2021/04/24/geef-een-prentenboek-cadeau-2/?utm_source=rss&utm_medium=rss&utm_campaign=geef-een-prentenboek-cadeau-2)
 - [Gelezen: De wereld van de Dinosaurussen – Nick Forshaw & Andy Forshaw](https://conniesboekenblog.nl/2021/04/21/gelezen-de-wereld-van-de-dinosaurussen-nick-forshaw-andy-forshaw/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-wereld-van-de-dinosaurussen-nick-forshaw-andy-forshaw)
-- [Winactie: Maak kans op het boek Mam vertel eens van Elma van Vliet](https://conniesboekenblog.nl/2021/04/19/winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet)
+- [Winactie (afgelopen): Maak kans op het boek Mam vertel eens van Elma van Vliet](https://conniesboekenblog.nl/2021/04/19/winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet)
 - [Recensie: Het geschenk – Sebastian Fitzek](https://conniesboekenblog.nl/2021/04/14/recensie-het-geschenk-sebastian-fitzek/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-het-geschenk-sebastian-fitzek)
 <!-- BLOG-POST-LIST:END -->
 
