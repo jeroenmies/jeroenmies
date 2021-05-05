@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Simon Superspook – Cale Atkinson](https://conniesboekenblog.nl/2021/05/05/gelezen-simon-superspook-cale-atkinson/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-simon-superspook-cale-atkinson)
 - [Bespreking: 1001 schattige dieren kleuren – Lulu Mayo](https://conniesboekenblog.nl/2021/05/01/bespreking-1001-schattige-dieren-kleuren-lulu-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-1001-schattige-dieren-kleuren-lulu-mayo)
 - [Gelezen: Een goede daad – David Baldacci](https://conniesboekenblog.nl/2021/04/30/gelezen-een-goede-daad-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-een-goede-daad-david-baldacci)
 - [Recensie: Historische verhalen – Verzamelbundel vijf](https://conniesboekenblog.nl/2021/04/27/recensie-historische-verhalen-verzamelbundel-vijf/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-historische-verhalen-verzamelbundel-vijf)
@@ -47,7 +48,6 @@
 - [Gelezen: De wereld van de Dinosaurussen – Nick Forshaw & Andy Forshaw](https://conniesboekenblog.nl/2021/04/21/gelezen-de-wereld-van-de-dinosaurussen-nick-forshaw-andy-forshaw/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-wereld-van-de-dinosaurussen-nick-forshaw-andy-forshaw)
 - [Winactie: Maak kans op het boek Mam vertel eens van Elma van Vliet](https://conniesboekenblog.nl/2021/04/19/winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-mam-vertel-eens-van-elma-van-vliet)
 - [Recensie: Het geschenk – Sebastian Fitzek](https://conniesboekenblog.nl/2021/04/14/recensie-het-geschenk-sebastian-fitzek/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-het-geschenk-sebastian-fitzek)
-- [Gelezen: O jee, mama is een fee!](https://conniesboekenblog.nl/2021/04/11/gelezen-o-jee-mama-is-een-fee/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-o-jee-mama-is-een-fee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
