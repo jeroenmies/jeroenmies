@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/05/11/recensie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-minnaar-ilse-ruijters)
 - [Bespreking: Sherlock Holmes Escape Room Puzzels](https://conniesboekenblog.nl/2021/05/09/bespreking-sherlock-holmes-escape-room-puzzels/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-sherlock-holmes-escape-room-puzzels)
 - [Winactie: Maak kans op twee boeken van David Baldacci](https://conniesboekenblog.nl/2021/05/07/winactie-maak-kans-op-twee-boeken-van-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-twee-boeken-van-david-baldacci)
 - [Uitslag winactie: Mam vertel eens van Elma van Vliet](https://conniesboekenblog.nl/2021/05/05/uitslag-winactie-mam-vertel-eens-van-elma-van-vliet/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-mam-vertel-eens-van-elma-van-vliet)
@@ -47,7 +48,6 @@
 - [Recensie: Historische verhalen – Verzamelbundel vijf](https://conniesboekenblog.nl/2021/04/27/recensie-historische-verhalen-verzamelbundel-vijf/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-historische-verhalen-verzamelbundel-vijf)
 - [Recensie: De terugkeer van de Schaduwheer – Zutje & Deviss](https://conniesboekenblog.nl/2021/04/25/recensie-de-terugkeer-van-de-schaduwheer-zutje-deviss/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-terugkeer-van-de-schaduwheer-zutje-deviss)
 - [Uitslag winactie: Het geschenk](https://conniesboekenblog.nl/2021/04/24/uitslag-winactie-het-geschenk/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-het-geschenk)
-- [Geef een (prenten)boek cadeau](https://conniesboekenblog.nl/2021/04/24/geef-een-prentenboek-cadeau-2/?utm_source=rss&utm_medium=rss&utm_campaign=geef-een-prentenboek-cadeau-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
