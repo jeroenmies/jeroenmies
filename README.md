@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: De moeder van Frankenstein – Almudena Grandes](https://conniesboekenblog.nl/2021/05/20/recensie-de-moeder-van-frankenstein-almudena-grandes/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-moeder-van-frankenstein-almudena-grandes)
 - [Recensie: Geen weg terug – Marleen Schmitz](https://conniesboekenblog.nl/2021/05/18/recensie-geen-weg-terug-marleen-schmitz/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-geen-weg-terug-marleen-schmitz)
 - [Recensie: Groot Biegel sprookjesboek – Paul Biegel](https://conniesboekenblog.nl/2021/05/16/recensie-groot-biegel-sprookjesboek-paul-biegel/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-groot-biegel-sprookjesboek-paul-biegel)
 - [Bespreking: Het basis kookboek voor studenten – Alistair Williams](https://conniesboekenblog.nl/2021/05/13/bespreking-het-basis-kookboek-voor-studenten-alistair-williams/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-het-basis-kookboek-voor-studenten-alistair-williams)
@@ -47,7 +48,6 @@
 - [Uitslag winactie: Mam vertel eens van Elma van Vliet](https://conniesboekenblog.nl/2021/05/05/uitslag-winactie-mam-vertel-eens-van-elma-van-vliet/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-mam-vertel-eens-van-elma-van-vliet)
 - [Gelezen: Simon Superspook – Cale Atkinson](https://conniesboekenblog.nl/2021/05/05/gelezen-simon-superspook-cale-atkinson/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-simon-superspook-cale-atkinson)
 - [Bespreking: 1001 schattige dieren kleuren – Lulu Mayo](https://conniesboekenblog.nl/2021/05/01/bespreking-1001-schattige-dieren-kleuren-lulu-mayo/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-1001-schattige-dieren-kleuren-lulu-mayo)
-- [Gelezen: Een goede daad – David Baldacci](https://conniesboekenblog.nl/2021/04/30/gelezen-een-goede-daad-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-een-goede-daad-david-baldacci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
