@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: De Erfenis van Darius – Michael Reefs](https://conniesboekenblog.nl/2021/05/25/recensie-de-erfenis-van-darius-michael-reefs/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-erfenis-van-darius-michael-reefs)
 - [Recensie: Vechten voor Eva – Joost Uitdehaag](https://conniesboekenblog.nl/2021/05/22/recensie-vechten-voor-eva-joost-uitdehaag/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-vechten-voor-eva-joost-uitdehaag)
 - [Recensie: De moeder van Frankenstein – Almudena Grandes](https://conniesboekenblog.nl/2021/05/20/recensie-de-moeder-van-frankenstein-almudena-grandes/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-moeder-van-frankenstein-almudena-grandes)
 - [Recensie: Geen weg terug – Marleen Schmitz](https://conniesboekenblog.nl/2021/05/18/recensie-geen-weg-terug-marleen-schmitz/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-geen-weg-terug-marleen-schmitz)
@@ -47,7 +48,6 @@
 - [Bespreking: Sherlock Holmes Escape Room Puzzels](https://conniesboekenblog.nl/2021/05/09/bespreking-sherlock-holmes-escape-room-puzzels/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-sherlock-holmes-escape-room-puzzels)
 - [Winactie: Maak kans op twee boeken van David Baldacci](https://conniesboekenblog.nl/2021/05/07/winactie-maak-kans-op-twee-boeken-van-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-twee-boeken-van-david-baldacci)
 - [Uitslag winactie: Mam vertel eens van Elma van Vliet](https://conniesboekenblog.nl/2021/05/05/uitslag-winactie-mam-vertel-eens-van-elma-van-vliet/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-mam-vertel-eens-van-elma-van-vliet)
-- [Gelezen: Simon Superspook – Cale Atkinson](https://conniesboekenblog.nl/2021/05/05/gelezen-simon-superspook-cale-atkinson/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-simon-superspook-cale-atkinson)
 <!-- BLOG-POST-LIST:END -->
 
 ---
