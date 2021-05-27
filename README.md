@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie: Maak kans op twee boeken van David Baldacci](https://conniesboekenblog.nl/2021/05/27/uitslag-winactie-maak-kans-op-twee-boeken-van-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-maak-kans-op-twee-boeken-van-david-baldacci)
 - [Bespreking: Wicca kleurboek – Marcia Zottino](https://conniesboekenblog.nl/2021/05/27/bespreking-wicca-kleurboek-marcia-zottino/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-wicca-kleurboek-marcia-zottino)
 - [Recensie: De Erfenis van Darius – Michael Reefs](https://conniesboekenblog.nl/2021/05/25/recensie-de-erfenis-van-darius-michael-reefs/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-erfenis-van-darius-michael-reefs)
 - [Recensie: Vechten voor Eva – Joost Uitdehaag](https://conniesboekenblog.nl/2021/05/22/recensie-vechten-voor-eva-joost-uitdehaag/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-vechten-voor-eva-joost-uitdehaag)
@@ -47,7 +48,6 @@
 - [Bespreking: Het basis kookboek voor studenten – Alistair Williams](https://conniesboekenblog.nl/2021/05/13/bespreking-het-basis-kookboek-voor-studenten-alistair-williams/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-het-basis-kookboek-voor-studenten-alistair-williams)
 - [Recensie: Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/05/11/recensie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-minnaar-ilse-ruijters)
 - [Bespreking: Sherlock Holmes Escape Room Puzzels](https://conniesboekenblog.nl/2021/05/09/bespreking-sherlock-holmes-escape-room-puzzels/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-sherlock-holmes-escape-room-puzzels)
-- [Winactie: Maak kans op twee boeken van David Baldacci](https://conniesboekenblog.nl/2021/05/07/winactie-maak-kans-op-twee-boeken-van-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-twee-boeken-van-david-baldacci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
