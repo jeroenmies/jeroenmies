@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Nora Roberts – Erfenis](https://conniesboekenblog.nl/2021/05/30/gelezen-nora-roberts-erfenis/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-nora-roberts-erfenis)
 - [Uitslag winactie: Maak kans op twee boeken van David Baldacci](https://conniesboekenblog.nl/2021/05/27/uitslag-winactie-maak-kans-op-twee-boeken-van-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-maak-kans-op-twee-boeken-van-david-baldacci)
 - [Bespreking: Wicca kleurboek – Marcia Zottino](https://conniesboekenblog.nl/2021/05/27/bespreking-wicca-kleurboek-marcia-zottino/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-wicca-kleurboek-marcia-zottino)
 - [Recensie: De Erfenis van Darius – Michael Reefs](https://conniesboekenblog.nl/2021/05/25/recensie-de-erfenis-van-darius-michael-reefs/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-erfenis-van-darius-michael-reefs)
@@ -47,7 +48,6 @@
 - [Recensie: Groot Biegel sprookjesboek – Paul Biegel](https://conniesboekenblog.nl/2021/05/16/recensie-groot-biegel-sprookjesboek-paul-biegel/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-groot-biegel-sprookjesboek-paul-biegel)
 - [Bespreking: Het basis kookboek voor studenten – Alistair Williams](https://conniesboekenblog.nl/2021/05/13/bespreking-het-basis-kookboek-voor-studenten-alistair-williams/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-het-basis-kookboek-voor-studenten-alistair-williams)
 - [Recensie: Minnaar – Ilse Ruijters](https://conniesboekenblog.nl/2021/05/11/recensie-minnaar-ilse-ruijters/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-minnaar-ilse-ruijters)
-- [Bespreking: Sherlock Holmes Escape Room Puzzels](https://conniesboekenblog.nl/2021/05/09/bespreking-sherlock-holmes-escape-room-puzzels/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-sherlock-holmes-escape-room-puzzels)
 <!-- BLOG-POST-LIST:END -->
 
 ---
