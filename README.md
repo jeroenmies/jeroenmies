@@ -38,7 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
-- [Winactie boekenpakket / nieuwe versie](https://conniesboekenblog.nl/2021/06/01/winactie-boekenpakket-nieuwe-versie/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-boekenpakket-nieuwe-versie)
+- [Winactie boekenpakket](https://conniesboekenblog.nl/2021/06/01/winactie-boekenpakket-nieuwe-versie/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-boekenpakket-nieuwe-versie)
 - [Gelezen: Nora Roberts – Erfenis](https://conniesboekenblog.nl/2021/05/30/gelezen-nora-roberts-erfenis/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-nora-roberts-erfenis)
 - [Uitslag winactie: Maak kans op twee boeken van David Baldacci](https://conniesboekenblog.nl/2021/05/27/uitslag-winactie-maak-kans-op-twee-boeken-van-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-maak-kans-op-twee-boeken-van-david-baldacci)
 - [Bespreking: Wicca kleurboek – Marcia Zottino](https://conniesboekenblog.nl/2021/05/27/bespreking-wicca-kleurboek-marcia-zottino/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-wicca-kleurboek-marcia-zottino)
