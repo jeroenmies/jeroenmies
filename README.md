@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie / blogtour: De Camino – Anya Niewierra](https://conniesboekenblog.nl/2021/06/12/recensie-blogtour-de-camino-anya-niewierra/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-blogtour-de-camino-anya-niewierra)
 - [Gelezen: Win – Harlan Coben](https://conniesboekenblog.nl/2021/06/10/gelezen-win-harlan-coben/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-win-harlan-coben)
 - [Recensie: Dodelijk spel – David Baldacci](https://conniesboekenblog.nl/2021/06/08/recensie-dodelijk-spel-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dodelijk-spel-david-baldacci)
 - [Winactie boekenpakket](https://conniesboekenblog.nl/2021/06/01/winactie-boekenpakket-nieuwe-versie/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-boekenpakket-nieuwe-versie)
@@ -47,7 +48,6 @@
 - [Recensie: De Erfenis van Darius – Michael Reefs](https://conniesboekenblog.nl/2021/05/25/recensie-de-erfenis-van-darius-michael-reefs/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-erfenis-van-darius-michael-reefs)
 - [Recensie: Vechten voor Eva – Joost Uitdehaag](https://conniesboekenblog.nl/2021/05/22/recensie-vechten-voor-eva-joost-uitdehaag/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-vechten-voor-eva-joost-uitdehaag)
 - [Recensie: De moeder van Frankenstein – Almudena Grandes](https://conniesboekenblog.nl/2021/05/20/recensie-de-moeder-van-frankenstein-almudena-grandes/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-moeder-van-frankenstein-almudena-grandes)
-- [Recensie: Geen weg terug – Marleen Schmitz](https://conniesboekenblog.nl/2021/05/18/recensie-geen-weg-terug-marleen-schmitz/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-geen-weg-terug-marleen-schmitz)
 <!-- BLOG-POST-LIST:END -->
 
 ---
