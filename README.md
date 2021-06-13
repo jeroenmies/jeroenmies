@@ -38,16 +38,16 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Uitslag winactie boekenpakket](https://conniesboekenblog.nl/2021/06/13/uitslag-winactie-boekenpakket-2/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-boekenpakket-2)
 - [Recensie / blogtour: De Camino – Anya Niewierra](https://conniesboekenblog.nl/2021/06/12/recensie-blogtour-de-camino-anya-niewierra/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-blogtour-de-camino-anya-niewierra)
 - [Gelezen: Win – Harlan Coben](https://conniesboekenblog.nl/2021/06/10/gelezen-win-harlan-coben/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-win-harlan-coben)
 - [Recensie: Dodelijk spel – David Baldacci](https://conniesboekenblog.nl/2021/06/08/recensie-dodelijk-spel-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dodelijk-spel-david-baldacci)
-- [Winactie boekenpakket](https://conniesboekenblog.nl/2021/06/01/winactie-boekenpakket-nieuwe-versie/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-boekenpakket-nieuwe-versie)
+- [Winactie (afgelopen): Boekenpakket](https://conniesboekenblog.nl/2021/06/01/winactie-boekenpakket-nieuwe-versie/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-boekenpakket-nieuwe-versie)
 - [Gelezen: Nora Roberts – Erfenis](https://conniesboekenblog.nl/2021/05/30/gelezen-nora-roberts-erfenis/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-nora-roberts-erfenis)
 - [Uitslag winactie: Maak kans op twee boeken van David Baldacci](https://conniesboekenblog.nl/2021/05/27/uitslag-winactie-maak-kans-op-twee-boeken-van-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-maak-kans-op-twee-boeken-van-david-baldacci)
 - [Bespreking: Wicca kleurboek – Marcia Zottino](https://conniesboekenblog.nl/2021/05/27/bespreking-wicca-kleurboek-marcia-zottino/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-wicca-kleurboek-marcia-zottino)
 - [Recensie: De Erfenis van Darius – Michael Reefs](https://conniesboekenblog.nl/2021/05/25/recensie-de-erfenis-van-darius-michael-reefs/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-erfenis-van-darius-michael-reefs)
 - [Recensie: Vechten voor Eva – Joost Uitdehaag](https://conniesboekenblog.nl/2021/05/22/recensie-vechten-voor-eva-joost-uitdehaag/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-vechten-voor-eva-joost-uitdehaag)
-- [Recensie: De moeder van Frankenstein – Almudena Grandes](https://conniesboekenblog.nl/2021/05/20/recensie-de-moeder-van-frankenstein-almudena-grandes/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-moeder-van-frankenstein-almudena-grandes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
