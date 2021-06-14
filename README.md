@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: De nieuwe dood – Corine Hartman](https://conniesboekenblog.nl/2021/06/14/gelezen-de-nieuwe-dood-corine-hartman/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-nieuwe-dood-corine-hartman)
 - [Uitslag winactie boekenpakket](https://conniesboekenblog.nl/2021/06/13/uitslag-winactie-boekenpakket-2/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-boekenpakket-2)
 - [Recensie / blogtour: De Camino – Anya Niewierra](https://conniesboekenblog.nl/2021/06/12/recensie-blogtour-de-camino-anya-niewierra/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-blogtour-de-camino-anya-niewierra)
 - [Gelezen: Win – Harlan Coben](https://conniesboekenblog.nl/2021/06/10/gelezen-win-harlan-coben/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-win-harlan-coben)
@@ -47,7 +48,6 @@
 - [Uitslag winactie: Maak kans op twee boeken van David Baldacci](https://conniesboekenblog.nl/2021/05/27/uitslag-winactie-maak-kans-op-twee-boeken-van-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-maak-kans-op-twee-boeken-van-david-baldacci)
 - [Bespreking: Wicca kleurboek – Marcia Zottino](https://conniesboekenblog.nl/2021/05/27/bespreking-wicca-kleurboek-marcia-zottino/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-wicca-kleurboek-marcia-zottino)
 - [Recensie: De Erfenis van Darius – Michael Reefs](https://conniesboekenblog.nl/2021/05/25/recensie-de-erfenis-van-darius-michael-reefs/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-erfenis-van-darius-michael-reefs)
-- [Recensie: Vechten voor Eva – Joost Uitdehaag](https://conniesboekenblog.nl/2021/05/22/recensie-vechten-voor-eva-joost-uitdehaag/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-vechten-voor-eva-joost-uitdehaag)
 <!-- BLOG-POST-LIST:END -->
 
 ---
