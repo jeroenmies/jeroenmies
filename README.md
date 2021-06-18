@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: Droomuitzicht – Sarah Morgenthaler](https://conniesboekenblog.nl/2021/06/18/recensie-droomuitzicht-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-droomuitzicht-sarah-morgenthaler)
 - [Bespreking: Stap voor stap cartoons leren tekenen](https://conniesboekenblog.nl/2021/06/16/bespreking-stap-voor-stap-cartoons-leren-tekenen/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-stap-voor-stap-cartoons-leren-tekenen)
 - [Gelezen: De nieuwe dood – Corine Hartman](https://conniesboekenblog.nl/2021/06/14/gelezen-de-nieuwe-dood-corine-hartman/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-nieuwe-dood-corine-hartman)
 - [Uitslag winactie boekenpakket](https://conniesboekenblog.nl/2021/06/13/uitslag-winactie-boekenpakket-2/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-boekenpakket-2)
@@ -47,7 +48,6 @@
 - [Winactie (afgelopen): Boekenpakket](https://conniesboekenblog.nl/2021/06/01/winactie-boekenpakket-nieuwe-versie/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-boekenpakket-nieuwe-versie)
 - [Gelezen: Nora Roberts – Erfenis](https://conniesboekenblog.nl/2021/05/30/gelezen-nora-roberts-erfenis/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-nora-roberts-erfenis)
 - [Uitslag winactie: Maak kans op twee boeken van David Baldacci](https://conniesboekenblog.nl/2021/05/27/uitslag-winactie-maak-kans-op-twee-boeken-van-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-maak-kans-op-twee-boeken-van-david-baldacci)
-- [Bespreking: Wicca kleurboek – Marcia Zottino](https://conniesboekenblog.nl/2021/05/27/bespreking-wicca-kleurboek-marcia-zottino/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-wicca-kleurboek-marcia-zottino)
 <!-- BLOG-POST-LIST:END -->
 
 ---
