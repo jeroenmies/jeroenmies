@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Lennox en de Gouden Sikkel](https://conniesboekenblog.nl/2021/06/20/gelezen-lennox-en-de-gouden-sikkel/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-lennox-en-de-gouden-sikkel)
 - [Recensie: Droomuitzicht – Sarah Morgenthaler](https://conniesboekenblog.nl/2021/06/18/recensie-droomuitzicht-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-droomuitzicht-sarah-morgenthaler)
 - [Bespreking: Stap voor stap cartoons leren tekenen](https://conniesboekenblog.nl/2021/06/16/bespreking-stap-voor-stap-cartoons-leren-tekenen/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-stap-voor-stap-cartoons-leren-tekenen)
 - [Gelezen: De nieuwe dood – Corine Hartman](https://conniesboekenblog.nl/2021/06/14/gelezen-de-nieuwe-dood-corine-hartman/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-nieuwe-dood-corine-hartman)
@@ -47,7 +48,6 @@
 - [Recensie: Dodelijk spel – David Baldacci](https://conniesboekenblog.nl/2021/06/08/recensie-dodelijk-spel-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dodelijk-spel-david-baldacci)
 - [Winactie (afgelopen): Boekenpakket](https://conniesboekenblog.nl/2021/06/01/winactie-boekenpakket-nieuwe-versie/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-boekenpakket-nieuwe-versie)
 - [Gelezen: Nora Roberts – Erfenis](https://conniesboekenblog.nl/2021/05/30/gelezen-nora-roberts-erfenis/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-nora-roberts-erfenis)
-- [Uitslag winactie: Maak kans op twee boeken van David Baldacci](https://conniesboekenblog.nl/2021/05/27/uitslag-winactie-maak-kans-op-twee-boeken-van-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-maak-kans-op-twee-boeken-van-david-baldacci)
 <!-- BLOG-POST-LIST:END -->
 
 ---
