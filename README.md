@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: Offline – Marco Kunst](https://conniesboekenblog.nl/2021/06/21/recensie-offline-marco-kunst/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-offline-marco-kunst)
 - [Gelezen: Lennox en de Gouden Sikkel](https://conniesboekenblog.nl/2021/06/20/gelezen-lennox-en-de-gouden-sikkel/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-lennox-en-de-gouden-sikkel)
 - [Recensie: Droomuitzicht – Sarah Morgenthaler](https://conniesboekenblog.nl/2021/06/18/recensie-droomuitzicht-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-droomuitzicht-sarah-morgenthaler)
 - [Bespreking: Stap voor stap cartoons leren tekenen](https://conniesboekenblog.nl/2021/06/16/bespreking-stap-voor-stap-cartoons-leren-tekenen/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-stap-voor-stap-cartoons-leren-tekenen)
@@ -47,7 +48,6 @@
 - [Gelezen: Win – Harlan Coben](https://conniesboekenblog.nl/2021/06/10/gelezen-win-harlan-coben/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-win-harlan-coben)
 - [Recensie: Dodelijk spel – David Baldacci](https://conniesboekenblog.nl/2021/06/08/recensie-dodelijk-spel-david-baldacci/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dodelijk-spel-david-baldacci)
 - [Winactie (afgelopen): Boekenpakket](https://conniesboekenblog.nl/2021/06/01/winactie-boekenpakket-nieuwe-versie/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-boekenpakket-nieuwe-versie)
-- [Gelezen: Nora Roberts – Erfenis](https://conniesboekenblog.nl/2021/05/30/gelezen-nora-roberts-erfenis/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-nora-roberts-erfenis)
 <!-- BLOG-POST-LIST:END -->
 
 ---
