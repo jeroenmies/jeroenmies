@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Maak kans op twee thrillers](https://conniesboekenblog.nl/2021/07/01/winactie-maak-kans-op-twee-thrillers/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-twee-thrillers)
 - [Bespreking: Dat had ik ook gekund – Guy Field](https://conniesboekenblog.nl/2021/06/26/bespreking-dat-had-ik-ook-gekund-guy-field/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-dat-had-ik-ook-gekund-guy-field)
 - [Bespreking: Het Philippe en Giovanni Vakantieboek](https://conniesboekenblog.nl/2021/06/24/bespreking-het-philippe-en-giovanni-vakantieboek/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-het-philippe-en-giovanni-vakantieboek)
 - [Bespreking: Stap voor stap Dieren leren tekenen – Lise Herzog](https://conniesboekenblog.nl/2021/06/22/bespreking-stap-voor-stap-dieren-leren-tekenen-lise-herzog/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-stap-voor-stap-dieren-leren-tekenen-lise-herzog)
@@ -47,7 +48,6 @@
 - [Bespreking: Stap voor stap cartoons leren tekenen](https://conniesboekenblog.nl/2021/06/16/bespreking-stap-voor-stap-cartoons-leren-tekenen/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-stap-voor-stap-cartoons-leren-tekenen)
 - [Gelezen: De nieuwe dood – Corine Hartman](https://conniesboekenblog.nl/2021/06/14/gelezen-de-nieuwe-dood-corine-hartman/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-nieuwe-dood-corine-hartman)
 - [Uitslag winactie boekenpakket](https://conniesboekenblog.nl/2021/06/13/uitslag-winactie-boekenpakket-2/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-boekenpakket-2)
-- [Recensie / blogtour: De Camino – Anya Niewierra](https://conniesboekenblog.nl/2021/06/12/recensie-blogtour-de-camino-anya-niewierra/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-blogtour-de-camino-anya-niewierra)
 <!-- BLOG-POST-LIST:END -->
 
 ---
