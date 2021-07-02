@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Easy Peasy Puppy opvoeding – Steve Mann](https://conniesboekenblog.nl/2021/07/02/gelezen-easy-peasy-puppy-opvoeding-steve-mann/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-easy-peasy-puppy-opvoeding-steve-mann)
 - [Winactie: Maak kans op twee thrillers](https://conniesboekenblog.nl/2021/07/01/winactie-maak-kans-op-twee-thrillers/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-twee-thrillers)
 - [Bespreking: Dat had ik ook gekund – Guy Field](https://conniesboekenblog.nl/2021/06/26/bespreking-dat-had-ik-ook-gekund-guy-field/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-dat-had-ik-ook-gekund-guy-field)
 - [Bespreking: Het Philippe en Giovanni Vakantieboek](https://conniesboekenblog.nl/2021/06/24/bespreking-het-philippe-en-giovanni-vakantieboek/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-het-philippe-en-giovanni-vakantieboek)
@@ -47,7 +48,6 @@
 - [Recensie: Droomuitzicht – Sarah Morgenthaler](https://conniesboekenblog.nl/2021/06/18/recensie-droomuitzicht-sarah-morgenthaler/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-droomuitzicht-sarah-morgenthaler)
 - [Bespreking: Stap voor stap cartoons leren tekenen](https://conniesboekenblog.nl/2021/06/16/bespreking-stap-voor-stap-cartoons-leren-tekenen/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-stap-voor-stap-cartoons-leren-tekenen)
 - [Gelezen: De nieuwe dood – Corine Hartman](https://conniesboekenblog.nl/2021/06/14/gelezen-de-nieuwe-dood-corine-hartman/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-nieuwe-dood-corine-hartman)
-- [Uitslag winactie boekenpakket](https://conniesboekenblog.nl/2021/06/13/uitslag-winactie-boekenpakket-2/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-boekenpakket-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
