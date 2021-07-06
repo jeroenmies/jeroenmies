@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Een dag in het leven van – Mike Barfield / Jess Bradley](https://conniesboekenblog.nl/2021/07/06/gelezen-een-dag-in-het-leven-van-mike-barfield-jess-bradley/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-een-dag-in-het-leven-van-mike-barfield-jess-bradley)
 - [Bespreking: Mijn Agenda](https://conniesboekenblog.nl/2021/07/05/bespreking-mijn-agenda/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-mijn-agenda)
 - [Winactie: Een gegeven Nijlpaard – Annette Bjergfeldt](https://conniesboekenblog.nl/2021/07/04/winactie-een-gegeven-nijlpaard-annette-bjergfeldt/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-een-gegeven-nijlpaard-annette-bjergfeldt)
 - [Recensie: Liefde & Ananas – Isabelle Paz Soldan](https://conniesboekenblog.nl/2021/07/03/recensie-liefde-ananas-isabelle-paz-soldan/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-liefde-ananas-isabelle-paz-soldan)
@@ -47,7 +48,6 @@
 - [Bespreking: Het Philippe en Giovanni Vakantieboek](https://conniesboekenblog.nl/2021/06/24/bespreking-het-philippe-en-giovanni-vakantieboek/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-het-philippe-en-giovanni-vakantieboek)
 - [Bespreking: Stap voor stap Dieren leren tekenen – Lise Herzog](https://conniesboekenblog.nl/2021/06/22/bespreking-stap-voor-stap-dieren-leren-tekenen-lise-herzog/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-stap-voor-stap-dieren-leren-tekenen-lise-herzog)
 - [Recensie: Offline – Marco Kunst](https://conniesboekenblog.nl/2021/06/21/recensie-offline-marco-kunst/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-offline-marco-kunst)
-- [Gelezen: Lennox en de Gouden Sikkel](https://conniesboekenblog.nl/2021/06/20/gelezen-lennox-en-de-gouden-sikkel/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-lennox-en-de-gouden-sikkel)
 <!-- BLOG-POST-LIST:END -->
 
 ---
