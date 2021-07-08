@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Bespreking: Happy Birthday! Kleurkalender](https://conniesboekenblog.nl/2021/07/08/bespreking-happy-birthday-kleurkalender/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-happy-birthday-kleurkalender)
 - [Gelezen: Mr Malcolms lijst – Suzanne Alain](https://conniesboekenblog.nl/2021/07/07/gelezen-mr-malcolms-lijst-suzanne-alain/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-mr-malcolms-lijst-suzanne-alain)
 - [Gelezen: Een dag in het leven van – Mike Barfield / Jess Bradley](https://conniesboekenblog.nl/2021/07/06/gelezen-een-dag-in-het-leven-van-mike-barfield-jess-bradley/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-een-dag-in-het-leven-van-mike-barfield-jess-bradley)
 - [Bespreking: Mijn Agenda](https://conniesboekenblog.nl/2021/07/05/bespreking-mijn-agenda/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-mijn-agenda)
@@ -47,7 +48,6 @@
 - [Winactie: Maak kans op twee thrillers](https://conniesboekenblog.nl/2021/07/01/winactie-maak-kans-op-twee-thrillers/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-twee-thrillers)
 - [Bespreking: Dat had ik ook gekund – Guy Field](https://conniesboekenblog.nl/2021/06/26/bespreking-dat-had-ik-ook-gekund-guy-field/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-dat-had-ik-ook-gekund-guy-field)
 - [Bespreking: Het Philippe en Giovanni Vakantieboek](https://conniesboekenblog.nl/2021/06/24/bespreking-het-philippe-en-giovanni-vakantieboek/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-het-philippe-en-giovanni-vakantieboek)
-- [Bespreking: Stap voor stap Dieren leren tekenen – Lise Herzog](https://conniesboekenblog.nl/2021/06/22/bespreking-stap-voor-stap-dieren-leren-tekenen-lise-herzog/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-stap-voor-stap-dieren-leren-tekenen-lise-herzog)
 <!-- BLOG-POST-LIST:END -->
 
 ---
