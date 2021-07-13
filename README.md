@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: De Rode Koningin – Juan Gomez- Jurado](https://conniesboekenblog.nl/2021/07/13/gelezen-de-rode-koningin-juan-gomez-jurado/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-rode-koningin-juan-gomez-jurado)
 - [Creative nieuwsflits juli 2021](https://conniesboekenblog.nl/2021/07/11/creative-nieuwsflits-juli-2021/?utm_source=rss&utm_medium=rss&utm_campaign=creative-nieuwsflits-juli-2021)
 - [Recensie: Escape Room Thriller – De Schaduw van de raaf – Eva Eich](https://conniesboekenblog.nl/2021/07/09/recensie-escape-room-thriller-de-schaduw-van-de-raaf-eva-eich/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-escape-room-thriller-de-schaduw-van-de-raaf-eva-eich)
 - [Bespreking: Happy Birthday! Kleurkalender](https://conniesboekenblog.nl/2021/07/08/bespreking-happy-birthday-kleurkalender/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-happy-birthday-kleurkalender)
@@ -47,7 +48,6 @@
 - [Winactie: Een gegeven Nijlpaard – Annette Bjergfeldt](https://conniesboekenblog.nl/2021/07/04/winactie-een-gegeven-nijlpaard-annette-bjergfeldt/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-een-gegeven-nijlpaard-annette-bjergfeldt)
 - [Recensie: Liefde & Ananas – Isabelle Paz Soldan](https://conniesboekenblog.nl/2021/07/03/recensie-liefde-ananas-isabelle-paz-soldan/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-liefde-ananas-isabelle-paz-soldan)
 - [Gelezen: Easy Peasy Puppy opvoeding – Steve Mann](https://conniesboekenblog.nl/2021/07/02/gelezen-easy-peasy-puppy-opvoeding-steve-mann/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-easy-peasy-puppy-opvoeding-steve-mann)
-- [Winactie: Maak kans op twee thrillers](https://conniesboekenblog.nl/2021/07/01/winactie-maak-kans-op-twee-thrillers/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-twee-thrillers)
 <!-- BLOG-POST-LIST:END -->
 
 ---
