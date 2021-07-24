@@ -43,11 +43,11 @@
 - [Winactie uitslag Twee thrillers en een boekenlegger](https://conniesboekenblog.nl/2021/07/16/winactie-uitslag-twee-thrillers/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-twee-thrillers)
 - [Recensie: Dreaming of the boy next door – Kristina Forest](https://conniesboekenblog.nl/2021/07/15/recensie-dreaming-of-the-boy-next-door-kristina-forest/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dreaming-of-the-boy-next-door-kristina-forest)
 - [Gelezen: De Rode Koningin – Juan Gomez- Jurado](https://conniesboekenblog.nl/2021/07/13/gelezen-de-rode-koningin-juan-gomez-jurado/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-rode-koningin-juan-gomez-jurado)
-- [Creative nieuwsflits juli 2021](https://conniesboekenblog.nl/2021/07/11/creative-nieuwsflits-juli-2021/?utm_source=rss&utm_medium=rss&utm_campaign=creative-nieuwsflits-juli-2021)
 - [Recensie: Escape Room Thriller – De Schaduw van de raaf – Eva Eich](https://conniesboekenblog.nl/2021/07/09/recensie-escape-room-thriller-de-schaduw-van-de-raaf-eva-eich/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-escape-room-thriller-de-schaduw-van-de-raaf-eva-eich)
 - [Bespreking: Happy Birthday! Kleurkalender](https://conniesboekenblog.nl/2021/07/08/bespreking-happy-birthday-kleurkalender/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-happy-birthday-kleurkalender)
 - [Gelezen: Mr Malcolms lijst – Suzanne Alain](https://conniesboekenblog.nl/2021/07/07/gelezen-mr-malcolms-lijst-suzanne-alain/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-mr-malcolms-lijst-suzanne-alain)
 - [Gelezen: Een dag in het leven van – Mike Barfield / Jess Bradley](https://conniesboekenblog.nl/2021/07/06/gelezen-een-dag-in-het-leven-van-mike-barfield-jess-bradley/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-een-dag-in-het-leven-van-mike-barfield-jess-bradley)
+- [Bespreking: Mijn Agenda](https://conniesboekenblog.nl/2021/07/05/bespreking-mijn-agenda/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-mijn-agenda)
 <!-- BLOG-POST-LIST:END -->
 
 ---
