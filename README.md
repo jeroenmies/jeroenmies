@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: Dit leven is van jou -Tatiana de Rosnay](https://conniesboekenblog.nl/2021/07/26/recensie-dit-leven-is-van-jou-tatiana-de-rosnay/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dit-leven-is-van-jou-tatiana-de-rosnay)
 - [Winactie: Escape Room Thriller – De schaduw van de raaf](https://conniesboekenblog.nl/2021/07/19/winactie-escape-room-thriller-de-schaduw-van-de-raaf/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-escape-room-thriller-de-schaduw-van-de-raaf)
 - [Uitslag winactie van het boek Een gegeven Nijlpaard](https://conniesboekenblog.nl/2021/07/17/uitslag-winactie-van-het-boek-een-gegeven-nijlpaard/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-van-het-boek-een-gegeven-nijlpaard)
 - [Winactie uitslag Twee thrillers en een boekenlegger](https://conniesboekenblog.nl/2021/07/16/winactie-uitslag-twee-thrillers/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-twee-thrillers)
@@ -47,7 +48,6 @@
 - [Recensie: Escape Room Thriller – De Schaduw van de raaf – Eva Eich](https://conniesboekenblog.nl/2021/07/09/recensie-escape-room-thriller-de-schaduw-van-de-raaf-eva-eich/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-escape-room-thriller-de-schaduw-van-de-raaf-eva-eich)
 - [Bespreking: Happy Birthday! Kleurkalender](https://conniesboekenblog.nl/2021/07/08/bespreking-happy-birthday-kleurkalender/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-happy-birthday-kleurkalender)
 - [Gelezen: Mr Malcolms lijst – Suzanne Alain](https://conniesboekenblog.nl/2021/07/07/gelezen-mr-malcolms-lijst-suzanne-alain/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-mr-malcolms-lijst-suzanne-alain)
-- [Gelezen: Een dag in het leven van – Mike Barfield / Jess Bradley](https://conniesboekenblog.nl/2021/07/06/gelezen-een-dag-in-het-leven-van-mike-barfield-jess-bradley/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-een-dag-in-het-leven-van-mike-barfield-jess-bradley)
 <!-- BLOG-POST-LIST:END -->
 
 ---
