@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Handgemaakte High Tea set](https://conniesboekenblog.nl/2021/08/01/winactie-handgemaakte-high-tea-set/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-handgemaakte-high-tea-set)
 - [Recensie: En altijd maar verlangen – Frénk van der Linden](https://conniesboekenblog.nl/2021/07/30/recensie-en-altijd-maar-verlangen-frenk-van-der-linden/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-en-altijd-maar-verlangen-frenk-van-der-linden)
 - [Uitslag winactie Escape Room Thriller – De schaduw van de raaf](https://conniesboekenblog.nl/2021/07/29/uitslag-winactie-escape-room-thriller-de-schaduw-van-de-raaf/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-escape-room-thriller-de-schaduw-van-de-raaf)
 - [Recensie: Dit leven is van jou -Tatiana de Rosnay](https://conniesboekenblog.nl/2021/07/26/recensie-dit-leven-is-van-jou-tatiana-de-rosnay/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dit-leven-is-van-jou-tatiana-de-rosnay)
@@ -47,7 +48,6 @@
 - [Recensie: Dreaming of the boy next door – Kristina Forest](https://conniesboekenblog.nl/2021/07/15/recensie-dreaming-of-the-boy-next-door-kristina-forest/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dreaming-of-the-boy-next-door-kristina-forest)
 - [Gelezen: De Rode Koningin – Juan Gomez- Jurado](https://conniesboekenblog.nl/2021/07/13/gelezen-de-rode-koningin-juan-gomez-jurado/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-rode-koningin-juan-gomez-jurado)
 - [Creative nieuwsflits juli 2021](https://conniesboekenblog.nl/2021/07/11/creative-nieuwsflits-juli-2021/?utm_source=rss&utm_medium=rss&utm_campaign=creative-nieuwsflits-juli-2021)
-- [Recensie: Escape Room Thriller – De Schaduw van de raaf – Eva Eich](https://conniesboekenblog.nl/2021/07/09/recensie-escape-room-thriller-de-schaduw-van-de-raaf-eva-eich/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-escape-room-thriller-de-schaduw-van-de-raaf-eva-eich)
 <!-- BLOG-POST-LIST:END -->
 
 ---
