@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Wie jarig is trakteert 2021](https://conniesboekenblog.nl/2021/08/04/wie-jarig-is-trakteert-2021/?utm_source=rss&utm_medium=rss&utm_campaign=wie-jarig-is-trakteert-2021)
 - [Winactie: Handgemaakte High Tea set](https://conniesboekenblog.nl/2021/08/01/winactie-handgemaakte-high-tea-set/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-handgemaakte-high-tea-set)
 - [Recensie: En altijd maar verlangen – Frénk van der Linden](https://conniesboekenblog.nl/2021/07/30/recensie-en-altijd-maar-verlangen-frenk-van-der-linden/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-en-altijd-maar-verlangen-frenk-van-der-linden)
 - [Uitslag winactie Escape Room Thriller – De schaduw van de raaf](https://conniesboekenblog.nl/2021/07/29/uitslag-winactie-escape-room-thriller-de-schaduw-van-de-raaf/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-escape-room-thriller-de-schaduw-van-de-raaf)
@@ -47,7 +48,6 @@
 - [Winactie uitslag Twee thrillers en een boekenlegger](https://conniesboekenblog.nl/2021/07/16/winactie-uitslag-twee-thrillers/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-twee-thrillers)
 - [Recensie: Dreaming of the boy next door – Kristina Forest](https://conniesboekenblog.nl/2021/07/15/recensie-dreaming-of-the-boy-next-door-kristina-forest/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dreaming-of-the-boy-next-door-kristina-forest)
 - [Gelezen: De Rode Koningin – Juan Gomez- Jurado](https://conniesboekenblog.nl/2021/07/13/gelezen-de-rode-koningin-juan-gomez-jurado/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-de-rode-koningin-juan-gomez-jurado)
-- [Creative nieuwsflits juli 2021](https://conniesboekenblog.nl/2021/07/11/creative-nieuwsflits-juli-2021/?utm_source=rss&utm_medium=rss&utm_campaign=creative-nieuwsflits-juli-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
