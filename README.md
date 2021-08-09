@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Bespreking: Mindgym journal – Wouter de Jong](https://conniesboekenblog.nl/2021/08/09/bespreking-mindgym-journal-wouter-de-jong/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-mindgym-journal-wouter-de-jong)
 - [Recensie: Tovenaars van ooit](https://conniesboekenblog.nl/2021/08/07/recensie-tovenaars-van-ooit/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-tovenaars-van-ooit)
 - [Wie jarig is trakteert 2021](https://conniesboekenblog.nl/2021/08/04/wie-jarig-is-trakteert-2021/?utm_source=rss&utm_medium=rss&utm_campaign=wie-jarig-is-trakteert-2021)
 - [Winactie: Handgemaakte High Tea set](https://conniesboekenblog.nl/2021/08/01/winactie-handgemaakte-high-tea-set/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-handgemaakte-high-tea-set)
@@ -47,7 +48,6 @@
 - [Winactie (afgelopen): Escape Room Thriller – De schaduw van de raaf](https://conniesboekenblog.nl/2021/07/19/winactie-escape-room-thriller-de-schaduw-van-de-raaf/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-escape-room-thriller-de-schaduw-van-de-raaf)
 - [Uitslag winactie van het boek Een gegeven Nijlpaard](https://conniesboekenblog.nl/2021/07/17/uitslag-winactie-van-het-boek-een-gegeven-nijlpaard/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-van-het-boek-een-gegeven-nijlpaard)
 - [Winactie uitslag Twee thrillers en een boekenlegger](https://conniesboekenblog.nl/2021/07/16/winactie-uitslag-twee-thrillers/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-uitslag-twee-thrillers)
-- [Recensie: Dreaming of the boy next door – Kristina Forest](https://conniesboekenblog.nl/2021/07/15/recensie-dreaming-of-the-boy-next-door-kristina-forest/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dreaming-of-the-boy-next-door-kristina-forest)
 <!-- BLOG-POST-LIST:END -->
 
 ---
