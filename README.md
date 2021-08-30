@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Noord – Marieke ten Berge & Jesse Goossens](https://conniesboekenblog.nl/2021/08/30/gelezen-noord-marieke-ten-berge-jesse-goossens/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-noord-marieke-ten-berge-jesse-goossens)
 - [Uitslag Wie jarig is tracteert](https://conniesboekenblog.nl/2021/08/13/uitslag-wie-jarig-is-tracteert/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-wie-jarig-is-tracteert)
 - [Uitslag winactie Handgemaakte High Tea set](https://conniesboekenblog.nl/2021/08/13/uitslag-winactie-handgemaakte-high-tea-set/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-handgemaakte-high-tea-set)
 - [Gelezen: Niet zonder jou – Wendy Brokers](https://conniesboekenblog.nl/2021/08/11/gelezen-niet-zonder-jou-wendy-brokers/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-niet-zonder-jou-wendy-brokers)
@@ -47,7 +48,6 @@
 - [Winactie (afgelopen): Handgemaakte High Tea set](https://conniesboekenblog.nl/2021/08/01/winactie-handgemaakte-high-tea-set/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-handgemaakte-high-tea-set)
 - [Recensie: En altijd maar verlangen – Frénk van der Linden](https://conniesboekenblog.nl/2021/07/30/recensie-en-altijd-maar-verlangen-frenk-van-der-linden/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-en-altijd-maar-verlangen-frenk-van-der-linden)
 - [Uitslag winactie Escape Room Thriller – De schaduw van de raaf](https://conniesboekenblog.nl/2021/07/29/uitslag-winactie-escape-room-thriller-de-schaduw-van-de-raaf/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-escape-room-thriller-de-schaduw-van-de-raaf)
-- [Recensie: Dit leven is van jou -Tatiana de Rosnay](https://conniesboekenblog.nl/2021/07/26/recensie-dit-leven-is-van-jou-tatiana-de-rosnay/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-dit-leven-is-van-jou-tatiana-de-rosnay)
 <!-- BLOG-POST-LIST:END -->
 
 ---
