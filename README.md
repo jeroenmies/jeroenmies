@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Twee keer kans op een ebook van Anita Verkerk](https://conniesboekenblog.nl/2021/09/02/winactie-twee-keer-kans-op-een-ebook-van-anita-verkerk/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-twee-keer-kans-op-een-ebook-van-anita-verkerk)
 - [Winactie – notitieboek – Studentendrukwerk](https://conniesboekenblog.nl/2021/09/01/winactie-notitieboek-studentendrukwerk/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-notitieboek-studentendrukwerk)
 - [Winactie: Billy Summers – Stephen King](https://conniesboekenblog.nl/2021/09/01/winactie-billy-summers-stephen-king/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-billy-summers-stephen-king)
 - [Gelezen: Noord – Marieke ten Berge & Jesse Goossens](https://conniesboekenblog.nl/2021/08/30/gelezen-noord-marieke-ten-berge-jesse-goossens/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-noord-marieke-ten-berge-jesse-goossens)
@@ -47,7 +48,6 @@
 - [Bespreking: Mindgym journal – Wouter de Jong](https://conniesboekenblog.nl/2021/08/09/bespreking-mindgym-journal-wouter-de-jong/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-mindgym-journal-wouter-de-jong)
 - [Recensie: Tovenaars van ooit](https://conniesboekenblog.nl/2021/08/07/recensie-tovenaars-van-ooit/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-tovenaars-van-ooit)
 - [Wie jarig is trakteert 2021 (afgelopen)](https://conniesboekenblog.nl/2021/08/04/wie-jarig-is-trakteert-2021/?utm_source=rss&utm_medium=rss&utm_campaign=wie-jarig-is-trakteert-2021)
-- [Winactie (afgelopen): Handgemaakte High Tea set](https://conniesboekenblog.nl/2021/08/01/winactie-handgemaakte-high-tea-set/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-handgemaakte-high-tea-set)
 <!-- BLOG-POST-LIST:END -->
 
 ---
