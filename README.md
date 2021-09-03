@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Droomvallei boekenpakket](https://conniesboekenblog.nl/2021/09/03/winactie-droomvallei-boekenpakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-droomvallei-boekenpakket)
 - [Winactie: Twee keer kans op een ebook van Anita Verkerk](https://conniesboekenblog.nl/2021/09/02/winactie-twee-keer-kans-op-een-ebook-van-anita-verkerk/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-twee-keer-kans-op-een-ebook-van-anita-verkerk)
 - [Winactie – notitieboek – Studentendrukwerk](https://conniesboekenblog.nl/2021/09/01/winactie-notitieboek-studentendrukwerk/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-notitieboek-studentendrukwerk)
 - [Winactie: Billy Summers – Stephen King](https://conniesboekenblog.nl/2021/09/01/winactie-billy-summers-stephen-king/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-billy-summers-stephen-king)
@@ -47,7 +48,6 @@
 - [Gelezen: Niet zonder jou – Wendy Brokers](https://conniesboekenblog.nl/2021/08/11/gelezen-niet-zonder-jou-wendy-brokers/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-niet-zonder-jou-wendy-brokers)
 - [Bespreking: Mindgym journal – Wouter de Jong](https://conniesboekenblog.nl/2021/08/09/bespreking-mindgym-journal-wouter-de-jong/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-mindgym-journal-wouter-de-jong)
 - [Recensie: Tovenaars van ooit](https://conniesboekenblog.nl/2021/08/07/recensie-tovenaars-van-ooit/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-tovenaars-van-ooit)
-- [Wie jarig is trakteert 2021 (afgelopen)](https://conniesboekenblog.nl/2021/08/04/wie-jarig-is-trakteert-2021/?utm_source=rss&utm_medium=rss&utm_campaign=wie-jarig-is-trakteert-2021)
 <!-- BLOG-POST-LIST:END -->
 
 ---
