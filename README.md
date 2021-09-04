@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Het Philippe en Giovanni vakantieboek](https://conniesboekenblog.nl/2021/09/04/winactie-het-philippe-en-giovanni-vakantieboek/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-philippe-en-giovanni-vakantieboek)
 - [Winactie: Droomvallei boekenpakket](https://conniesboekenblog.nl/2021/09/03/winactie-droomvallei-boekenpakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-droomvallei-boekenpakket)
 - [Winactie: Twee keer kans op een ebook van Anita Verkerk](https://conniesboekenblog.nl/2021/09/02/winactie-twee-keer-kans-op-een-ebook-van-anita-verkerk/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-twee-keer-kans-op-een-ebook-van-anita-verkerk)
 - [Winactie – notitieboek – Studentendrukwerk](https://conniesboekenblog.nl/2021/09/01/winactie-notitieboek-studentendrukwerk/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-notitieboek-studentendrukwerk)
@@ -47,7 +48,6 @@
 - [Uitslag winactie Handgemaakte High Tea set](https://conniesboekenblog.nl/2021/08/13/uitslag-winactie-handgemaakte-high-tea-set/?utm_source=rss&utm_medium=rss&utm_campaign=uitslag-winactie-handgemaakte-high-tea-set)
 - [Gelezen: Niet zonder jou – Wendy Brokers](https://conniesboekenblog.nl/2021/08/11/gelezen-niet-zonder-jou-wendy-brokers/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-niet-zonder-jou-wendy-brokers)
 - [Bespreking: Mindgym journal – Wouter de Jong](https://conniesboekenblog.nl/2021/08/09/bespreking-mindgym-journal-wouter-de-jong/?utm_source=rss&utm_medium=rss&utm_campaign=bespreking-mindgym-journal-wouter-de-jong)
-- [Recensie: Tovenaars van ooit](https://conniesboekenblog.nl/2021/08/07/recensie-tovenaars-van-ooit/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-tovenaars-van-ooit)
 <!-- BLOG-POST-LIST:END -->
 
 ---
