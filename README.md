@@ -38,6 +38,8 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Twee keer kans op een ebook naar keuze van Roos Verlinden](https://conniesboekenblog.nl/2021/09/07/winactie-twee-keer-kans-op-een-ebook-naar-keuze-van-roos-verlinden/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-twee-keer-kans-op-een-ebook-naar-keuze-van-roos-verlinden)
+- [Winactie: Maak kans op het kookboek – Emma’s Amazing Asia Vega](https://conniesboekenblog.nl/2021/09/07/winactie-maak-kans-op-het-kookboek-emmas-amazing-asia-vega/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-kookboek-emmas-amazing-asia-vega)
 - [Recensie: Het geheime leven van schrijvers – Guillaume Musso](https://conniesboekenblog.nl/2021/09/06/recensie-het-geheime-leven-van-schrijvers-guillaume-musso/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-het-geheime-leven-van-schrijvers-guillaume-musso)
 - [Winactie: Happy Birthday Kleurkalender](https://conniesboekenblog.nl/2021/09/06/winactie-happy-birthday-kleurkalender/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-happy-birthday-kleurkalender)
 - [Recensie: De nachtdienst – Esther Verhoef](https://conniesboekenblog.nl/2021/09/05/recensie-de-nachtdienst-esther-verhoef/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-nachtdienst-esther-verhoef)
@@ -46,8 +48,6 @@
 - [Winactie: Droomvallei boekenpakket](https://conniesboekenblog.nl/2021/09/03/winactie-droomvallei-boekenpakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-droomvallei-boekenpakket)
 - [Winactie: Twee keer kans op een ebook van Anita Verkerk](https://conniesboekenblog.nl/2021/09/02/winactie-twee-keer-kans-op-een-ebook-van-anita-verkerk/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-twee-keer-kans-op-een-ebook-van-anita-verkerk)
 - [Winactie – notitieboek – Studentendrukwerk](https://conniesboekenblog.nl/2021/09/01/winactie-notitieboek-studentendrukwerk/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-notitieboek-studentendrukwerk)
-- [Winactie: Billy Summers – Stephen King](https://conniesboekenblog.nl/2021/09/01/winactie-billy-summers-stephen-king/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-billy-summers-stephen-king)
-- [Gelezen: Noord – Marieke ten Berge & Jesse Goossens](https://conniesboekenblog.nl/2021/08/30/gelezen-noord-marieke-ten-berge-jesse-goossens/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-noord-marieke-ten-berge-jesse-goossens)
 <!-- BLOG-POST-LIST:END -->
 
 ---
