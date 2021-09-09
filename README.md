@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Een onbreekbare band – Patty van Delft](https://conniesboekenblog.nl/2021/09/09/winactie-een-onbreekbare-band-patty-van-delft/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-een-onbreekbare-band-patty-van-delft)
 - [Winactie: Dwarsligger – De schaduwvriend](https://conniesboekenblog.nl/2021/09/08/winactie-dwarsligger-de-schaduwvriend/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-dwarsligger-de-schaduwvriend)
 - [Winactie: Twee keer kans op een ebook naar keuze van Roos Verlinden](https://conniesboekenblog.nl/2021/09/07/winactie-twee-keer-kans-op-een-ebook-naar-keuze-van-roos-verlinden/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-twee-keer-kans-op-een-ebook-naar-keuze-van-roos-verlinden)
 - [Winactie: Maak kans op het kookboek – Emma’s Amazing Asia Vega](https://conniesboekenblog.nl/2021/09/07/winactie-maak-kans-op-het-kookboek-emmas-amazing-asia-vega/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-kookboek-emmas-amazing-asia-vega)
@@ -47,7 +48,6 @@
 - [Winactie: ebook – Valse getuige – Karin Slaughter](https://conniesboekenblog.nl/2021/09/05/winactie-ebook-valse-getuige-karin-slaughter/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-valse-getuige-karin-slaughter)
 - [Winactie: Het Philippe en Giovanni vakantieboek](https://conniesboekenblog.nl/2021/09/04/winactie-het-philippe-en-giovanni-vakantieboek/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-philippe-en-giovanni-vakantieboek)
 - [Winactie: Droomvallei boekenpakket](https://conniesboekenblog.nl/2021/09/03/winactie-droomvallei-boekenpakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-droomvallei-boekenpakket)
-- [Winactie: Twee keer kans op een ebook van Anita Verkerk](https://conniesboekenblog.nl/2021/09/02/winactie-twee-keer-kans-op-een-ebook-van-anita-verkerk/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-twee-keer-kans-op-een-ebook-van-anita-verkerk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
