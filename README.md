@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: Nieuwe Vrienden – Louise Candlish](https://conniesboekenblog.nl/2021/09/10/recensie-nieuwe-vrienden-louise-candlish/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-nieuwe-vrienden-louise-candlish)
 - [Winactie: Maak kans op Peters Zeurkalender 2022](https://conniesboekenblog.nl/2021/09/10/winactie-maak-kans-op-peters-zeurkalender-2022/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-peters-zeurkalender-2022)
 - [Winactie: Een onbreekbare band – Patty van Delft](https://conniesboekenblog.nl/2021/09/09/winactie-een-onbreekbare-band-patty-van-delft/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-een-onbreekbare-band-patty-van-delft)
 - [Winactie: Dwarsligger – De schaduwvriend](https://conniesboekenblog.nl/2021/09/08/winactie-dwarsligger-de-schaduwvriend/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-dwarsligger-de-schaduwvriend)
@@ -47,7 +48,6 @@
 - [Winactie: Happy Birthday Kleurkalender](https://conniesboekenblog.nl/2021/09/06/winactie-happy-birthday-kleurkalender/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-happy-birthday-kleurkalender)
 - [Recensie: De nachtdienst – Esther Verhoef](https://conniesboekenblog.nl/2021/09/05/recensie-de-nachtdienst-esther-verhoef/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-nachtdienst-esther-verhoef)
 - [Winactie: ebook – Valse getuige – Karin Slaughter](https://conniesboekenblog.nl/2021/09/05/winactie-ebook-valse-getuige-karin-slaughter/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-valse-getuige-karin-slaughter)
-- [Winactie: Het Philippe en Giovanni vakantieboek](https://conniesboekenblog.nl/2021/09/04/winactie-het-philippe-en-giovanni-vakantieboek/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-philippe-en-giovanni-vakantieboek)
 <!-- BLOG-POST-LIST:END -->
 
 ---
