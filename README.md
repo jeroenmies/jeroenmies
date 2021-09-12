@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Droomvallei – Kinderboekenpakket](https://conniesboekenblog.nl/2021/09/12/winactie-droomvallei-kinderboeken-pakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-droomvallei-kinderboeken-pakket)
 - [Winactie: Kobo ebook](https://conniesboekenblog.nl/2021/09/11/winactie-kobo-ebook/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kobo-ebook)
 - [Recensie: Nieuwe Vrienden – Louise Candlish](https://conniesboekenblog.nl/2021/09/10/recensie-nieuwe-vrienden-louise-candlish/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-nieuwe-vrienden-louise-candlish)
 - [Winactie: Maak kans op Peters Zeurkalender 2022](https://conniesboekenblog.nl/2021/09/10/winactie-maak-kans-op-peters-zeurkalender-2022/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-peters-zeurkalender-2022)
@@ -47,7 +48,6 @@
 - [Winactie: Maak kans op het kookboek – Emma’s Amazing Asia Vega](https://conniesboekenblog.nl/2021/09/07/winactie-maak-kans-op-het-kookboek-emmas-amazing-asia-vega/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-kookboek-emmas-amazing-asia-vega)
 - [Recensie: Het geheime leven van schrijvers – Guillaume Musso](https://conniesboekenblog.nl/2021/09/06/recensie-het-geheime-leven-van-schrijvers-guillaume-musso/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-het-geheime-leven-van-schrijvers-guillaume-musso)
 - [Winactie: Happy Birthday Kleurkalender](https://conniesboekenblog.nl/2021/09/06/winactie-happy-birthday-kleurkalender/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-happy-birthday-kleurkalender)
-- [Recensie: De nachtdienst – Esther Verhoef](https://conniesboekenblog.nl/2021/09/05/recensie-de-nachtdienst-esther-verhoef/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-de-nachtdienst-esther-verhoef)
 <!-- BLOG-POST-LIST:END -->
 
 ---
