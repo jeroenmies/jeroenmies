@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [De eerste 6 uitslagen van de september feestmaand 2021](https://conniesboekenblog.nl/2021/09/12/de-eerste-6-uitslagen-van-de-september-feestmaand-2021/?utm_source=rss&utm_medium=rss&utm_campaign=de-eerste-6-uitslagen-van-de-september-feestmaand-2021)
 - [Winactie: Droomvallei – Kinderboekenpakket](https://conniesboekenblog.nl/2021/09/12/winactie-droomvallei-kinderboeken-pakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-droomvallei-kinderboeken-pakket)
 - [Winactie: Kobo ebook](https://conniesboekenblog.nl/2021/09/11/winactie-kobo-ebook/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kobo-ebook)
 - [Recensie: Nieuwe Vrienden – Louise Candlish](https://conniesboekenblog.nl/2021/09/10/recensie-nieuwe-vrienden-louise-candlish/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-nieuwe-vrienden-louise-candlish)
@@ -47,7 +48,6 @@
 - [Winactie: Twee keer kans op een ebook naar keuze van Roos Verlinden](https://conniesboekenblog.nl/2021/09/07/winactie-twee-keer-kans-op-een-ebook-naar-keuze-van-roos-verlinden/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-twee-keer-kans-op-een-ebook-naar-keuze-van-roos-verlinden)
 - [Winactie: Maak kans op het kookboek – Emma’s Amazing Asia Vega](https://conniesboekenblog.nl/2021/09/07/winactie-maak-kans-op-het-kookboek-emmas-amazing-asia-vega/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-kookboek-emmas-amazing-asia-vega)
 - [Recensie: Het geheime leven van schrijvers – Guillaume Musso](https://conniesboekenblog.nl/2021/09/06/recensie-het-geheime-leven-van-schrijvers-guillaume-musso/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-het-geheime-leven-van-schrijvers-guillaume-musso)
-- [Winactie: Happy Birthday Kleurkalender](https://conniesboekenblog.nl/2021/09/06/winactie-happy-birthday-kleurkalender/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-happy-birthday-kleurkalender)
 <!-- BLOG-POST-LIST:END -->
 
 ---
