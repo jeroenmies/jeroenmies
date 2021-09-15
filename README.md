@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: De gorgels Doeboek](https://conniesboekenblog.nl/2021/09/15/winactie-de-gorgels-doeboek/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-gorgels-doeboek)
 - [Winactie: Maak kans op een ebook naar keuze van Wilma Hollander](https://conniesboekenblog.nl/2021/09/14/winactie-maak-kans-op-een-ebook-naar-keuze-van-wilma-hollander/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-een-ebook-naar-keuze-van-wilma-hollander)
 - [Winactie: Maak kans op de jeugdthriller Wanhoop van Eva Burgers](https://conniesboekenblog.nl/2021/09/13/winactie-maak-kans-op-de-jeugdthriller-wanhoop-van-eva-burgers/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-de-jeugdthriller-wanhoop-van-eva-burgers)
 - [De eerste 6 uitslagen van de september feestmaand 2021](https://conniesboekenblog.nl/2021/09/12/de-eerste-6-uitslagen-van-de-september-feestmaand-2021/?utm_source=rss&utm_medium=rss&utm_campaign=de-eerste-6-uitslagen-van-de-september-feestmaand-2021)
@@ -47,7 +48,6 @@
 - [Winactie: Maak kans op Peters Zeurkalender 2022](https://conniesboekenblog.nl/2021/09/10/winactie-maak-kans-op-peters-zeurkalender-2022/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-peters-zeurkalender-2022)
 - [Winactie: Een onbreekbare band – Patty van Delft](https://conniesboekenblog.nl/2021/09/09/winactie-een-onbreekbare-band-patty-van-delft/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-een-onbreekbare-band-patty-van-delft)
 - [Winactie: Dwarsligger – De schaduwvriend](https://conniesboekenblog.nl/2021/09/08/winactie-dwarsligger-de-schaduwvriend/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-dwarsligger-de-schaduwvriend)
-- [Winactie (afgelopen): Twee keer kans op een ebook naar keuze van Roos Verlinden](https://conniesboekenblog.nl/2021/09/07/winactie-twee-keer-kans-op-een-ebook-naar-keuze-van-roos-verlinden/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-twee-keer-kans-op-een-ebook-naar-keuze-van-roos-verlinden)
 <!-- BLOG-POST-LIST:END -->
 
 ---
