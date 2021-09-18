@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Apeirogon – Colum McCann](https://conniesboekenblog.nl/2021/09/18/winactie-apeirogon-colum-mccann/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-apeirogon-colum-mccann)
 - [Winactie: Maak kans op het boek Ontsluierd](https://conniesboekenblog.nl/2021/09/17/winactie-maak-kans-op-het-boek-ontsluierd/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-ontsluierd)
 - [Winactie: Prentenboek – De verjaardag van de luiaard – Caren Peeters](https://conniesboekenblog.nl/2021/09/16/winactie-prentenboek-de-verjaardag-van-de-luiaard-caren-peeters/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-prentenboek-de-verjaardag-van-de-luiaard-caren-peeters)
 - [Winactie: De gorgels Doeboek](https://conniesboekenblog.nl/2021/09/15/winactie-de-gorgels-doeboek/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-gorgels-doeboek)
@@ -47,7 +48,6 @@
 - [Winactie: Droomvallei – Kinderboekenpakket](https://conniesboekenblog.nl/2021/09/12/winactie-droomvallei-kinderboeken-pakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-droomvallei-kinderboeken-pakket)
 - [Winactie: Kobo ebook](https://conniesboekenblog.nl/2021/09/11/winactie-kobo-ebook/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kobo-ebook)
 - [Recensie: Nieuwe Vrienden – Louise Candlish](https://conniesboekenblog.nl/2021/09/10/recensie-nieuwe-vrienden-louise-candlish/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-nieuwe-vrienden-louise-candlish)
-- [Winactie: Maak kans op Peters Zeurkalender 2022](https://conniesboekenblog.nl/2021/09/10/winactie-maak-kans-op-peters-zeurkalender-2022/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-peters-zeurkalender-2022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
