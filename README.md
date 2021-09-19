@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: bundel historische verhalen](https://conniesboekenblog.nl/2021/09/19/winactie-bundel-historische-verhalen/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-bundel-historische-verhalen)
 - [Winactie: Apeirogon – Colum McCann](https://conniesboekenblog.nl/2021/09/18/winactie-apeirogon-colum-mccann/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-apeirogon-colum-mccann)
 - [Winactie: Maak kans op het boek Ontsluierd](https://conniesboekenblog.nl/2021/09/17/winactie-maak-kans-op-het-boek-ontsluierd/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-ontsluierd)
 - [Winactie: Prentenboek – De verjaardag van de luiaard – Caren Peeters](https://conniesboekenblog.nl/2021/09/16/winactie-prentenboek-de-verjaardag-van-de-luiaard-caren-peeters/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-prentenboek-de-verjaardag-van-de-luiaard-caren-peeters)
@@ -47,7 +48,6 @@
 - [De eerste 6 uitslagen van de september feestmaand 2021](https://conniesboekenblog.nl/2021/09/12/de-eerste-6-uitslagen-van-de-september-feestmaand-2021/?utm_source=rss&utm_medium=rss&utm_campaign=de-eerste-6-uitslagen-van-de-september-feestmaand-2021)
 - [Winactie: Droomvallei – Kinderboekenpakket](https://conniesboekenblog.nl/2021/09/12/winactie-droomvallei-kinderboeken-pakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-droomvallei-kinderboeken-pakket)
 - [Winactie: Kobo ebook](https://conniesboekenblog.nl/2021/09/11/winactie-kobo-ebook/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-kobo-ebook)
-- [Recensie: Nieuwe Vrienden – Louise Candlish](https://conniesboekenblog.nl/2021/09/10/recensie-nieuwe-vrienden-louise-candlish/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-nieuwe-vrienden-louise-candlish)
 <!-- BLOG-POST-LIST:END -->
 
 ---
