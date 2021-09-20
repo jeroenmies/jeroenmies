@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Billy Summers – Stephen King](https://conniesboekenblog.nl/2021/09/20/gelezen-billy-summers-stephen-king/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-billy-summers-stephen-king)
 - [Winactie: Maak kans op twee kleurboeken van BBNC uitgevers](https://conniesboekenblog.nl/2021/09/20/winactie-maak-kans-op-twee-kleurboeken-van-bbnc-uitgevers/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-twee-kleurboeken-van-bbnc-uitgevers)
 - [Winactie: bundel historische verhalen](https://conniesboekenblog.nl/2021/09/19/winactie-bundel-historische-verhalen/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-bundel-historische-verhalen)
 - [Winactie: Apeirogon – Colum McCann](https://conniesboekenblog.nl/2021/09/18/winactie-apeirogon-colum-mccann/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-apeirogon-colum-mccann)
@@ -47,7 +48,6 @@
 - [Winactie: Maak kans op een ebook naar keuze van Wilma Hollander](https://conniesboekenblog.nl/2021/09/14/winactie-maak-kans-op-een-ebook-naar-keuze-van-wilma-hollander/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-een-ebook-naar-keuze-van-wilma-hollander)
 - [Winactie: Maak kans op de jeugdthriller Wanhoop van Eva Burgers](https://conniesboekenblog.nl/2021/09/13/winactie-maak-kans-op-de-jeugdthriller-wanhoop-van-eva-burgers/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-de-jeugdthriller-wanhoop-van-eva-burgers)
 - [De eerste 6 uitslagen van de september feestmaand 2021](https://conniesboekenblog.nl/2021/09/12/de-eerste-6-uitslagen-van-de-september-feestmaand-2021/?utm_source=rss&utm_medium=rss&utm_campaign=de-eerste-6-uitslagen-van-de-september-feestmaand-2021)
-- [Winactie: Droomvallei – Kinderboekenpakket](https://conniesboekenblog.nl/2021/09/12/winactie-droomvallei-kinderboeken-pakket/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-droomvallei-kinderboeken-pakket)
 <!-- BLOG-POST-LIST:END -->
 
 ---
