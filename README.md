@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Nila en het antwoord op echt alles – Sam Copeland](https://conniesboekenblog.nl/2021/09/23/winactie-nila-en-het-antwoord-op-echt-alles-sam-copeland/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-nila-en-het-antwoord-op-echt-alles-sam-copeland)
 - [Winactie: Maak kans op een ebook naar keuze van Saskia Schouten](https://conniesboekenblog.nl/2021/09/22/winactie-maak-kans-op-een-ebook-naar-keuze-van-saskia-schouten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-een-ebook-naar-keuze-van-saskia-schouten)
 - [Winactie: De zeven zussen – Lucinda Riley](https://conniesboekenblog.nl/2021/09/21/winactie-de-zeven-zussen-lucinda-riley/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-zeven-zussen-lucinda-riley)
 - [Gelezen: Billy Summers – Stephen King](https://conniesboekenblog.nl/2021/09/20/gelezen-billy-summers-stephen-king/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-billy-summers-stephen-king)
@@ -47,7 +48,6 @@
 - [Winactie: Maak kans op het boek Ontsluierd](https://conniesboekenblog.nl/2021/09/17/winactie-maak-kans-op-het-boek-ontsluierd/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-ontsluierd)
 - [Winactie: Prentenboek – De verjaardag van de luiaard – Caren Peeters](https://conniesboekenblog.nl/2021/09/16/winactie-prentenboek-de-verjaardag-van-de-luiaard-caren-peeters/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-prentenboek-de-verjaardag-van-de-luiaard-caren-peeters)
 - [Winactie: De gorgels Doeboek](https://conniesboekenblog.nl/2021/09/15/winactie-de-gorgels-doeboek/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-gorgels-doeboek)
-- [Winactie: Maak kans op een ebook naar keuze van Wilma Hollander](https://conniesboekenblog.nl/2021/09/14/winactie-maak-kans-op-een-ebook-naar-keuze-van-wilma-hollander/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-een-ebook-naar-keuze-van-wilma-hollander)
 <!-- BLOG-POST-LIST:END -->
 
 ---
