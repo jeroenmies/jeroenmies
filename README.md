@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Miss Lattimore’s brief](https://conniesboekenblog.nl/2021/09/24/gelezen-miss-lattimores-brief/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-miss-lattimores-brief)
 - [Winactie: ebook – Vluchtweg – Jet van Vuuren](https://conniesboekenblog.nl/2021/09/24/winactie-ebook-vluchtweg-jet-van-vuuren/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-vluchtweg-jet-van-vuuren)
 - [Winactie: Nila en het antwoord op echt alles – Sam Copeland](https://conniesboekenblog.nl/2021/09/23/winactie-nila-en-het-antwoord-op-echt-alles-sam-copeland/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-nila-en-het-antwoord-op-echt-alles-sam-copeland)
 - [Winactie: Maak kans op een ebook naar keuze van Saskia Schouten](https://conniesboekenblog.nl/2021/09/22/winactie-maak-kans-op-een-ebook-naar-keuze-van-saskia-schouten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-een-ebook-naar-keuze-van-saskia-schouten)
@@ -47,7 +48,6 @@
 - [Winactie: bundel historische verhalen](https://conniesboekenblog.nl/2021/09/19/winactie-bundel-historische-verhalen/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-bundel-historische-verhalen)
 - [Winactie: Apeirogon – Colum McCann](https://conniesboekenblog.nl/2021/09/18/winactie-apeirogon-colum-mccann/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-apeirogon-colum-mccann)
 - [Winactie: Maak kans op het boek Ontsluierd](https://conniesboekenblog.nl/2021/09/17/winactie-maak-kans-op-het-boek-ontsluierd/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-ontsluierd)
-- [Winactie: Prentenboek – De verjaardag van de luiaard – Caren Peeters](https://conniesboekenblog.nl/2021/09/16/winactie-prentenboek-de-verjaardag-van-de-luiaard-caren-peeters/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-prentenboek-de-verjaardag-van-de-luiaard-caren-peeters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
