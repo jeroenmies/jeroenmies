@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: Maak kans op het boek Met de wind mee](https://conniesboekenblog.nl/2021/09/25/winactie-maak-kans-op-het-boek-met-de-wind-mee/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-met-de-wind-mee)
 - [Gelezen: Miss Lattimore’s brief](https://conniesboekenblog.nl/2021/09/24/gelezen-miss-lattimores-brief/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-miss-lattimores-brief)
 - [Winactie: ebook – Vluchtweg – Jet van Vuuren](https://conniesboekenblog.nl/2021/09/24/winactie-ebook-vluchtweg-jet-van-vuuren/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-vluchtweg-jet-van-vuuren)
 - [Winactie: Nila en het antwoord op echt alles – Sam Copeland](https://conniesboekenblog.nl/2021/09/23/winactie-nila-en-het-antwoord-op-echt-alles-sam-copeland/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-nila-en-het-antwoord-op-echt-alles-sam-copeland)
@@ -47,7 +48,6 @@
 - [Winactie: Maak kans op twee kleurboeken van BBNC uitgevers](https://conniesboekenblog.nl/2021/09/20/winactie-maak-kans-op-twee-kleurboeken-van-bbnc-uitgevers/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-twee-kleurboeken-van-bbnc-uitgevers)
 - [Winactie: bundel historische verhalen](https://conniesboekenblog.nl/2021/09/19/winactie-bundel-historische-verhalen/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-bundel-historische-verhalen)
 - [Winactie: Apeirogon – Colum McCann](https://conniesboekenblog.nl/2021/09/18/winactie-apeirogon-colum-mccann/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-apeirogon-colum-mccann)
-- [Winactie: Maak kans op het boek Ontsluierd](https://conniesboekenblog.nl/2021/09/17/winactie-maak-kans-op-het-boek-ontsluierd/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-ontsluierd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
