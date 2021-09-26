@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Gelezen: Blauwe planeet 2 – Leisa Stewart-Sharpe](https://conniesboekenblog.nl/2021/09/26/gelezen-blauwe-planeet-2-leisa-stewart-sharpe/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-blauwe-planeet-2-leisa-stewart-sharpe)
 - [Winactie: Drie keer kans op het boek The Darkest Star](https://conniesboekenblog.nl/2021/09/26/winactie-drie-keer-kans-op-het-boek-the-darkest-star/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-drie-keer-kans-op-het-boek-the-darkest-star)
 - [Winactie: Maak kans op het boek Met de wind mee](https://conniesboekenblog.nl/2021/09/25/winactie-maak-kans-op-het-boek-met-de-wind-mee/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-met-de-wind-mee)
 - [Gelezen: Miss Lattimore’s brief](https://conniesboekenblog.nl/2021/09/24/gelezen-miss-lattimores-brief/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-miss-lattimores-brief)
@@ -47,7 +48,6 @@
 - [Winactie: De zeven zussen – Lucinda Riley](https://conniesboekenblog.nl/2021/09/21/winactie-de-zeven-zussen-lucinda-riley/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-zeven-zussen-lucinda-riley)
 - [Gelezen: Billy Summers – Stephen King](https://conniesboekenblog.nl/2021/09/20/gelezen-billy-summers-stephen-king/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-billy-summers-stephen-king)
 - [Winactie: Maak kans op twee kleurboeken van BBNC uitgevers](https://conniesboekenblog.nl/2021/09/20/winactie-maak-kans-op-twee-kleurboeken-van-bbnc-uitgevers/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-twee-kleurboeken-van-bbnc-uitgevers)
-- [Winactie: bundel historische verhalen](https://conniesboekenblog.nl/2021/09/19/winactie-bundel-historische-verhalen/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-bundel-historische-verhalen)
 <!-- BLOG-POST-LIST:END -->
 
 ---
