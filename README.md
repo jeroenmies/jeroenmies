@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Nog eens 13 uitslagen van de september feestmaand 2021](https://conniesboekenblog.nl/2021/09/28/nog-eens-13-uitslagen-van-de-september-feestmaand-2021/?utm_source=rss&utm_medium=rss&utm_campaign=nog-eens-13-uitslagen-van-de-september-feestmaand-2021)
 - [Winactie: ebook – Sahana – Ruby Coene](https://conniesboekenblog.nl/2021/09/28/winactie-ebook-sahana-ruby-coene/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-sahana-ruby-coene)
 - [Winactie: Maak kans op een ebook naar keuze van Sandra Berg](https://conniesboekenblog.nl/2021/09/27/winactie-maak-kans-op-een-ebook-naar-keuze-van-sandra-berg/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-een-ebook-naar-keuze-van-sandra-berg)
 - [Gelezen: Blauwe planeet 2 – Leisa Stewart-Sharpe](https://conniesboekenblog.nl/2021/09/26/gelezen-blauwe-planeet-2-leisa-stewart-sharpe/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-blauwe-planeet-2-leisa-stewart-sharpe)
@@ -47,7 +48,6 @@
 - [Winactie: ebook – Vluchtweg – Jet van Vuuren](https://conniesboekenblog.nl/2021/09/24/winactie-ebook-vluchtweg-jet-van-vuuren/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-vluchtweg-jet-van-vuuren)
 - [Winactie: Nila en het antwoord op echt alles – Sam Copeland](https://conniesboekenblog.nl/2021/09/23/winactie-nila-en-het-antwoord-op-echt-alles-sam-copeland/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-nila-en-het-antwoord-op-echt-alles-sam-copeland)
 - [Winactie: Maak kans op een ebook naar keuze van Saskia Schouten](https://conniesboekenblog.nl/2021/09/22/winactie-maak-kans-op-een-ebook-naar-keuze-van-saskia-schouten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-een-ebook-naar-keuze-van-saskia-schouten)
-- [Winactie: De zeven zussen – Lucinda Riley](https://conniesboekenblog.nl/2021/09/21/winactie-de-zeven-zussen-lucinda-riley/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-zeven-zussen-lucinda-riley)
 <!-- BLOG-POST-LIST:END -->
 
 ---
