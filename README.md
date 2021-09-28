@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Winactie: ebook – Sahana – Ruby Coene](https://conniesboekenblog.nl/2021/09/28/winactie-ebook-sahana-ruby-coene/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-ebook-sahana-ruby-coene)
 - [Winactie: Maak kans op een ebook naar keuze van Sandra Berg](https://conniesboekenblog.nl/2021/09/27/winactie-maak-kans-op-een-ebook-naar-keuze-van-sandra-berg/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-een-ebook-naar-keuze-van-sandra-berg)
 - [Gelezen: Blauwe planeet 2 – Leisa Stewart-Sharpe](https://conniesboekenblog.nl/2021/09/26/gelezen-blauwe-planeet-2-leisa-stewart-sharpe/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-blauwe-planeet-2-leisa-stewart-sharpe)
 - [Winactie: Drie keer kans op het boek The Darkest Star](https://conniesboekenblog.nl/2021/09/26/winactie-drie-keer-kans-op-het-boek-the-darkest-star/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-drie-keer-kans-op-het-boek-the-darkest-star)
@@ -47,7 +48,6 @@
 - [Winactie: Nila en het antwoord op echt alles – Sam Copeland](https://conniesboekenblog.nl/2021/09/23/winactie-nila-en-het-antwoord-op-echt-alles-sam-copeland/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-nila-en-het-antwoord-op-echt-alles-sam-copeland)
 - [Winactie: Maak kans op een ebook naar keuze van Saskia Schouten](https://conniesboekenblog.nl/2021/09/22/winactie-maak-kans-op-een-ebook-naar-keuze-van-saskia-schouten/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-een-ebook-naar-keuze-van-saskia-schouten)
 - [Winactie: De zeven zussen – Lucinda Riley](https://conniesboekenblog.nl/2021/09/21/winactie-de-zeven-zussen-lucinda-riley/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-de-zeven-zussen-lucinda-riley)
-- [Gelezen: Billy Summers – Stephen King](https://conniesboekenblog.nl/2021/09/20/gelezen-billy-summers-stephen-king/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-billy-summers-stephen-king)
 <!-- BLOG-POST-LIST:END -->
 
 ---
