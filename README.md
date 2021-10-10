@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Recensie: Grote Panda & Kleine Draak – James Norbury](https://conniesboekenblog.nl/2021/10/10/recensie-grote-panda-kleine-draak-james-norbury/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-grote-panda-kleine-draak-james-norbury)
 - [Gelezen: Camping Oosthoek – Nathalie Pagie](https://conniesboekenblog.nl/2021/10/08/gelezen-camping-oosthoek-nathalie-pagie/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-camping-oosthoek-nathalie-pagie)
 - [Winactie: Het kerstvarken – J.K. Rowling](https://conniesboekenblog.nl/2021/09/30/winactie-het-kerstvarken-j-k-rowling/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-kerstvarken-j-k-rowling)
 - [Winactie: Censuur – Esther van den Ham](https://conniesboekenblog.nl/2021/09/29/winactie-censuur-esther-van-den-ham/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-censuur-esther-van-den-ham)
@@ -47,7 +48,6 @@
 - [Gelezen: Blauwe planeet 2 – Leisa Stewart-Sharpe](https://conniesboekenblog.nl/2021/09/26/gelezen-blauwe-planeet-2-leisa-stewart-sharpe/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-blauwe-planeet-2-leisa-stewart-sharpe)
 - [Winactie: Drie keer kans op het boek The Darkest Star](https://conniesboekenblog.nl/2021/09/26/winactie-drie-keer-kans-op-het-boek-the-darkest-star/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-drie-keer-kans-op-het-boek-the-darkest-star)
 - [Winactie: Maak kans op het boek Met de wind mee](https://conniesboekenblog.nl/2021/09/25/winactie-maak-kans-op-het-boek-met-de-wind-mee/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-met-de-wind-mee)
-- [Gelezen: Miss Lattimore’s brief](https://conniesboekenblog.nl/2021/09/24/gelezen-miss-lattimores-brief/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-miss-lattimores-brief)
 <!-- BLOG-POST-LIST:END -->
 
 ---
