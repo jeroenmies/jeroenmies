@@ -38,6 +38,7 @@
 
 ### 📕 Latest Blog Posts on Connie's Boekenblog'
 <!-- BLOG-POST-LIST:START -->
+- [Bobbie en Emma op een notitieboek van Studenten drukwerk](https://conniesboekenblog.nl/2021/10/15/bobbie-en-emma-op-een-notitieboek-van-studenten-drukwerk/?utm_source=rss&utm_medium=rss&utm_campaign=bobbie-en-emma-op-een-notitieboek-van-studenten-drukwerk)
 - [Recensie: Grote Panda & Kleine Draak – James Norbury](https://conniesboekenblog.nl/2021/10/10/recensie-grote-panda-kleine-draak-james-norbury/?utm_source=rss&utm_medium=rss&utm_campaign=recensie-grote-panda-kleine-draak-james-norbury)
 - [Gelezen: Camping Oosthoek – Nathalie Pagie](https://conniesboekenblog.nl/2021/10/08/gelezen-camping-oosthoek-nathalie-pagie/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-camping-oosthoek-nathalie-pagie)
 - [Winactie: Het kerstvarken – J.K. Rowling](https://conniesboekenblog.nl/2021/09/30/winactie-het-kerstvarken-j-k-rowling/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-het-kerstvarken-j-k-rowling)
@@ -47,7 +48,6 @@
 - [Winactie: Maak kans op een ebook naar keuze van Sandra Berg](https://conniesboekenblog.nl/2021/09/27/winactie-maak-kans-op-een-ebook-naar-keuze-van-sandra-berg/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-een-ebook-naar-keuze-van-sandra-berg)
 - [Gelezen: Blauwe planeet 2 – Leisa Stewart-Sharpe](https://conniesboekenblog.nl/2021/09/26/gelezen-blauwe-planeet-2-leisa-stewart-sharpe/?utm_source=rss&utm_medium=rss&utm_campaign=gelezen-blauwe-planeet-2-leisa-stewart-sharpe)
 - [Winactie: Drie keer kans op het boek The Darkest Star](https://conniesboekenblog.nl/2021/09/26/winactie-drie-keer-kans-op-het-boek-the-darkest-star/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-drie-keer-kans-op-het-boek-the-darkest-star)
-- [Winactie: Maak kans op het boek Met de wind mee](https://conniesboekenblog.nl/2021/09/25/winactie-maak-kans-op-het-boek-met-de-wind-mee/?utm_source=rss&utm_medium=rss&utm_campaign=winactie-maak-kans-op-het-boek-met-de-wind-mee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
